@@ -1,0 +1,9 @@
+feature_id,feature_name,monthly_price,upfront_purchase_price,trials_started,paid_conversions,adopters,active_paid_subs,current_mrr,lifetime_revenue,adoption_rate_pct,trial_conversion_pct,revenue_per_adopter,revenue_share_pct,adoption_rank,revenue_rank,adoption_index,rank_gap,quadrant
+F05,Premium Connectivity,10.0,250.0,1603,837.0,837,509,5090.0,80158.69,23.91,52.21,95.77,14.6,1,2,92.9,-1,Star
+F02,Heated Seats,15.0,450.0,1332,581.0,581,261,3915.0,72670.72,16.6,43.62,125.08,13.3,2,3,78.6,-1,Star
+F01,Highway Autopilot,99.0,6000.0,701,212.0,212,109,10791.0,182260.83,6.06,30.24,859.72,33.3,6,1,64.3,5,Premium niche
+F08,Dashcam Cloud Backup,12.0,400.0,1029,375.0,375,188,2256.0,38773.36,10.71,36.44,103.4,7.1,3,6,50.0,-3,Volume driver
+F07,Remote Park Assist,19.0,700.0,816,291.0,291,180,3420.0,53597.01,8.31,35.66,184.18,9.8,5,5,42.9,0,Long tail
+F04,Performance Boost,49.0,2000.0,368,153.0,153,93,4557.0,68851.94,4.37,41.58,450.01,12.6,7,4,35.7,3,Premium niche
+F03,Heated Steering Wheel,9.0,300.0,914,360.0,360,157,1413.0,22319.7,10.29,39.39,62.0,4.1,4,8,28.6,-4,Long tail
+F06,Track Mode Telemetry,29.0,1200.0,258,119.0,119,65,1885.0,29229.14,3.4,46.12,245.62,5.3,8,7,7.1,1,Long tail

@@ -1,0 +1,3515 @@
+user_id,signup_date,country,vehicle_model,tier
+U01837,2024-01-02,Canada,Aero SUV,Standard
+U01158,2024-01-02,United States,Metro Compact,Standard
+U03453,2024-01-03,United States,Volt GT,performance
+U02880,2024-01-03,Germany,Aero Sedan,Performance
+U03151,2024-01-03,Japan,Aero Sedan,Premium
+U01221,2024-01-03,Germany,Aero Sedan,Standard
+U00744,2024-01-04,United Kingdom,Terra Pickup,Premium
+U00741,2024-01-05,France,Aero SUV,Premium
+U00998,2024-01-06,United Kingdom,Aero Sedan,Performance
+U03492,2024-01-07,United States,Aero Sedan,Standard
+U02731,2024-01-07,Australia,Aero Sedan,Premium
+U02585,2024-01-10,United States,Volt GT,Performance
+U03207,2024-01-10,United States,Aero SUV,Standard
+U00811,2024-01-11,United Kingdom,Metro Compact,Standard
+U01617,2024-01-11,Japan,Aero SUV,Premium
+U00647,2024-01-12,United States,Metro Compact,Standard
+U03179,2024-01-12,United States,Aero Sedan,Premium
+U01314,2024-01-12,Norway,Aero Sedan,Performance
+U00775,2024-01-13,United States,Aero SUV,Standard
+U03038,2024-01-13,United Kingdom,Aero SUV,Performance
+U02299,2024-01-13,japan,Aero SUV,Premium
+U01323,2024-01-14,Japan,Metro Compact,Premium
+U00423,2024-01-14,Germany,Aero Sedan,Premium
+U03463,2024-01-17,United Kingdom,Metro Compact,Premium
+U03439,2024-01-18,USA,Terra Pickup,Premium
+U02922,2024-01-19,United Kingdom,Aero SUV,Premium
+U01101,2024-01-19,Japan,Metro Compact,Premium
+U00052,2024-01-19,United Kingdom,,Standard
+U00595,2024-01-19,United States,Aero SUV,Standard
+U02384,2024-01-22,Norway,Terra Pickup,Performance
+U00766,2024-01-24,United Kingdom,Metro Compact,Standard
+U03377,2024-01-26,United States,Aero SUV,Standard
+U00535,2024-01-27,United States,Aero Sedan,Performance
+U02940,2024-01-28,United Kingdom,Aero SUV,Standard
+U02394,2024-01-28,France,Metro Compact,Standard
+U01911,2024-01-28,United States,Aero Sedan,Premium
+U01952,2024-01-30,United Kingdom,Aero SUV,Performance
+U02958,2024-01-30,Canada,Metro Compact,Premium
+U02719,2024-01-31,United States,Terra Pickup,Premium
+U02539,2024-01-31,United States,Aero SUV,Standard
+U00841,2024-01-31,United States,Terra Pickup,Premium
+U03321,2024-01-31,japan,Volt GT,Performance
+U00395,2024-01-31,Australia,Terra Pickup,Premium
+U03218,2024-02-02,France,Metro Compact,Standard
+U02023,2024-02-03,Germany,Terra Pickup,Performance
+U00205,2024-02-04,United States,Aero SUV,Standard
+U02115,2024-02-04,JP,Aero Sedan,Standard
+U00519,2024-02-06,United States,Aero Sedan,Standard
+U01568,2024-02-08,Germany,Aero Sedan,Performance
+U02571,2024-02-08,AU,Metro Compact,Standard
+U03071,2024-02-09,Canada,Aero SUV,Premium
+U02052,2024-02-09,United States,Aero SUV,Premium
+U00812,2024-02-10,France,Aero SUV,Premium
+U02534,2024-02-10,united states,Aero SUV,Standard
+U00683,2024-02-12,Canada,Aero Sedan,Premium
+U00239,2024-02-13,France,Aero Sedan,Premium
+U01949,2024-02-13,United Kingdom,Aero Sedan,Premium
+U01929,2024-02-14,Australia,Aero Sedan,performance
+U00826,2024-02-14,United Kingdom,Metro Compact,Standard
+U00797,2024-02-16,Germany,Aero Sedan,Premium
+U01045,2024-02-17,Deutschland,Terra Pickup,Standard
+U02873,2024-02-18,Norway,Aero SUV,Standard
+U03459,2024-02-19,Germany,Aero Sedan,Premium
+U00270,2024-02-20,Japan,Aero Sedan,Premium
+U01894,2024-02-20,Germany,Aero Sedan,Standard
+U00150,2024-02-21,Australia,Aero SUV,Standard
+U01902,2024-02-22,United States,Terra Pickup,Premium
+U02031,2024-02-22,Germany,Aero Sedan,Standard
+U02038,2024-02-23,Japan,Aero SUV,Premium
+U00136,2024-02-24,United States,Aero SUV,Standard
+U00085,2024-02-24,Australia,Aero SUV,Premium
+U00872,2024-02-25,United States,Metro Compact,Standard
+U01069,2024-02-25,United Kingdom,Metro Compact,Standard
+U02350,2024-02-26,France,Metro Compact,Standard
+U01356,2024-02-27,Norway,Volt GT,Premium
+U02887,2024-02-27,United States,Volt GT,Premium
+U01721,2024-02-28,United States,Volt GT,Performance
+U00590,2024-02-28,united states,Aero Sedan,Premium
+U02557,2024-02-29,USA,Aero Sedan,Standard
+U00227,2024-02-29,Norway,Metro Compact,Premium
+U02130,2024-02-29,United States,Aero SUV,Premium
+U03308,01/03/2024,Norway,Metro Compact,Standard
+U02581,2024-03-02,United States,Aero SUV,Premium
+U03300,2024-03-03,United States,Terra Pickup,Premium
+U01205,2024-03-03,united states,Aero Sedan,Standard
+U03333,2024-03-03,United States,,Premium
+U01318,2024-03-03,United Kingdom,Terra Pickup,Standard
+U03192,2024-03-04,United States,Metro Compact,Standard
+U01743,2024-03-05,United States,Metro Compact,Standard
+U03394,2024-03-07,United States,Aero SUV,Premium
+U02815,2024-03-07,Canada,Terra Pickup,STANDARD
+U00415,2024-03-09,Germany,Aero SUV,Performance
+U00795,2024-03-10,France,Aero SUV,Premium
+U00650,2024-03-10,Germany,Aero SUV,Premium
+U00972,2024-03-11,United States,Metro Compact,Standard
+U00069,12/03/2024,France,Aero Sedan,Standard
+U00768,2024-03-13,France,Aero Sedan,Premium
+U01729,2024-03-13,United States,Metro Compact,PREMIUM
+U02560,2024-03-13,AU,Aero SUV,Premium
+U02080,2024-03-13,Canada,Aero Sedan,Premium
+U02605,14/03/2024,Germany,Metro Compact,Standard
+U02698,2024-03-15,United States,Aero Sedan,Premium
+U01841,2024-03-15,Germany,Metro Compact,Standard
+U02018,2024-03-15,United States,Aero Sedan,Standard
+U02321,2024-03-16,Canada,Volt GT,Premium
+U02122,2024-03-17,United States,Terra Pickup,Premium
+U02750,2024-03-17,Germany,Metro Compact,Standard
+U03351,2024-03-17,Norway,Aero Sedan,Premium
+U03282,2024-03-18,Germany,Terra Pickup,Performance
+U02501,2024-03-19,Germany,Aero SUV,Premium
+U02919,2024-03-20,Australia,Metro Compact,Standard
+U02152,2024-03-20,DE,Aero Sedan,Premium
+U01161,2024-03-21,Japan,Aero Sedan,Premium
+U01660,2024-03-22,United States,Aero Sedan,Performance
+U03454,2024-03-22,Japan,Metro Compact,Premium
+U01433,2024-03-22,France,Terra Pickup,Standard
+U00723,2024-03-23, Germany,Metro Compact,Standard
+U01382,2024-03-23,United Kingdom,Aero SUV,Performance
+U03372,2024-03-24,United Kingdom,Metro Compact,Standard
+U00485,2024-03-24, Germany,Aero Sedan,Premium
+U02276,2024-03-24,United States,Metro Compact,Standard
+U00422,2024-03-24,Australia,Metro Compact,Standard
+U02870,2024-03-24,Canada,Terra Pickup,Premium
+U00633,2024-03-25,Germany,Terra Pickup,Standard
+U00164,2024-03-26,Japan,Volt GT,Performance
+U03255,2024-03-26,Germany,Aero SUV,Standard
+U01620,2024-03-29,United Kingdom,Aero SUV,Premium
+U03353,2024-03-29,Canada,Aero SUV,Standard
+U02229,2024-03-29,Australia,Volt GT,Performance
+U01315,2024-03-29,Germany,Metro Compact,Standard
+U02097,2024-03-30,Australia,Aero Sedan,Performance
+U02118,2024-03-31,France,Aero SUV,Premium
+U02296,2024-03-31,Japan,,Premium
+U01019,2024-04-01,Canada,Aero Sedan,Standard
+U01364,2024-04-01,France,Aero Sedan,Premium
+U02814,2024-04-01,United States,Metro Compact,premium
+U00435,2024-04-01,UK,Metro Compact,Standard
+U03176,2024-04-01,United States,Aero SUV,PERFORMANCE
+U01386,2024-04-01,France,Aero Sedan,Premium
+U03443,2024-04-02,United Kingdom,Terra Pickup,Premium
+U00620,2024-04-03,United Kingdom,Terra Pickup,Premium
+U02567,2024-04-03,United Kingdom,Aero Sedan,Premium
+U00726,2024-04-03,Australia,Aero Sedan,standard
+U00125,2024-04-04,Japan,Aero Sedan,Premium
+U00451,2024-04-05,Germany,Aero Sedan,Premium
+U02046,2024-04-05,United States,Metro Compact,Premium
+U01940,2024-04-06,United States,Terra Pickup,Premium
+U02160,2024-04-06,Canada,Aero Sedan,Standard
+U03260,2024-04-07,United States,Terra Pickup,PREMIUM
+U02298,2024-04-07,Australia,Terra Pickup,Standard
+U03134,2024-04-07,United Kingdom,Terra Pickup,STANDARD
+U00281,2024-04-08,United States,Aero SUV,Premium
+U00028,2024-04-08,United States,Aero Sedan,Premium
+U01261,2024-04-09,United Kingdom,Aero Sedan,Premium
+U00555,2024-04-10,France,Aero SUV,Premium
+U02388,2024-04-10,United States,Volt GT,Premium
+U00176,2024-04-11,Australia,Metro Compact,Standard
+U02811,2024-04-11,USA,Aero Sedan,Premium
+U01390,2024-04-11,Norway,Aero SUV,Standard
+U00903,2024-04-11,United States,Terra Pickup,Standard
+U02840,2024-04-12,Canada,Terra Pickup,Standard
+U01926,2024-04-13,Japan,Aero Sedan,Standard
+U00763,2024-04-15,United States,Aero Sedan,Premium
+U03306,2024-04-15,France,Aero SUV,Standard
+U02011,2024-04-15,United States,Aero Sedan,Standard
+U02385,2024-04-15,United Kingdom,,Performance
+U03096,2024-04-16,Germany,Aero SUV,Premium
+U00635,2024-04-18,United Kingdom,Metro Compact,Premium
+U02774,2024-04-18,united states,Aero SUV,Standard
+U00759,2024-04-18,Norway,Aero Sedan,Premium
+U02447,2024-04-19,United States,Aero SUV,Standard
+U00643,2024-04-19,United States,Aero Sedan,Premium
+U00287,2024-04-19,Norway,Volt GT,Performance
+U01442,2024-04-19,United States,Aero Sedan,Premium
+U01206,2024-04-20,United States,Aero Sedan,Premium
+U02476,2024-04-21,united states,Terra Pickup,Standard
+U00988,2024-04-21,United States,Terra Pickup,Performance
+U02493,2024-04-22,Norway,Terra Pickup,Standard
+U01486,2024-04-22,Germany,Volt GT,Premium
+U00732,2024-04-22,USA,Aero Sedan,Performance
+U00821,2024-04-22,France,Aero SUV,Premium
+U01669,2024-04-22,United States,Aero SUV,Standard
+U01732,2024-04-22,Australia,Aero SUV,Performance
+U01139,2024-04-23,United States,Volt GT,Performance
+U00292,2024-04-24,germany,Aero Sedan,Premium
+U02362,2024-04-24,United States,Aero Sedan,Performance
+U02060,2024-04-24,United States,Volt GT,premium
+U00424,2024-04-24,Australia,Aero SUV,Premium
+U01309,2024-04-26,Germany,Aero Sedan,Standard
+U01157,2024-04-26,Australia,Terra Pickup,Standard
+U00273,2024-04-27,Japan,Metro Compact,Standard
+U02506,2024-04-27,United Kingdom,Aero SUV,Premium
+U02823,2024-04-28,Australia,Aero SUV,Premium
+U00449,2024-04-29,Australia,Aero Sedan,Premium
+U03414,2024-04-29,Canada,Aero SUV,Standard
+U01900,2024-04-30,United States,Metro Compact,Standard
+U01726,2024-05-01,Germany,Terra Pickup,Standard
+U00513,2024-05-01,Australia,Metro Compact,Standard
+U00271,2024-05-01,Norway,Terra Pickup,Standard
+U01244,2024-05-01,United States,Aero Sedan,Standard
+U02351,2024-05-03,Norway,Volt GT,Performance
+U03138,2024-05-04,Canada,Aero SUV,Standard
+U00429,2024-05-04,United States,Aero SUV,Performance
+U03158,2024-05-04,Norway,Volt GT,Performance
+U02908,2024-05-05,United States,Volt GT,Performance
+U03419,2024-05-05,United States,Metro Compact,Standard
+U03185,2024-05-05,United States,Metro Compact,Standard
+U01592,2024-05-06,Canada,Metro Compact,STANDARD
+U00075,2024-05-06,Germany,Volt GT,Performance
+U00568,2024-05-06,canada,Aero SUV,Premium
+U02259,2024-05-07,United States,Aero Sedan,Premium
+U02194,2024-05-08,Australia,Aero Sedan,Standard
+U01230,2024-05-09,Germany,Aero SUV,STANDARD
+U01394,2024-05-09,United States,Aero SUV,Premium
+U02925,2024-05-10,United States,Metro Compact,standard
+U01491,2024-05-10,United States,Metro Compact,Premium
+U00735,2024-05-11,United States,Volt GT,Performance
+U02987,11/05/2024,United States,Volt GT,Premium
+U02242,2024-05-11,Japan,Aero SUV,Standard
+U02803,2024-05-12,United Kingdom,Aero SUV,Performance
+U03307,2024-05-13,United Kingdom,Aero SUV,standard
+U01001,2024-05-14,United States,Aero SUV,Premium
+U03208,2024-05-14,UK,Metro Compact,Standard
+U01402,2024-05-15,United States,Metro Compact,Standard
+U03144,2024-05-16,Germany,Metro Compact,Standard
+U01444,16/05/2024,Norway,Aero Sedan,Standard
+U02848,2024-05-17,Canada,Aero Sedan,Premium
+U00018,2024-05-17,United States,Metro Compact,Standard
+U03316,2024-05-17,United States,Terra Pickup,performance
+U03032,2024-05-18,Norway,Volt GT,Premium
+U01899,2024-05-19,japan,Aero Sedan,Standard
+U00728,2024-05-20,United States,Aero Sedan,Premium
+U01220,2024-05-21,United States,Volt GT,Performance
+U02346,2024-05-21,Australia,Aero SUV,Premium
+U02985,2024-05-21,Norway,Aero SUV,Premium
+U00259,2024-05-22,AU,Aero SUV,Performance
+U01482,2024-05-22,United States,Metro Compact,standard
+U02228,23/05/2024,Germany,Volt GT,Performance
+U00681,2024-05-23,Canada,Terra Pickup,Standard
+U02322,2024-05-23,France,Aero Sedan,Standard
+U02419,2024-05-23,Australia,Aero SUV,Standard
+U01156,2024-05-24,Australia,Terra Pickup,Premium
+U02197,2024-05-24,United States,Aero SUV,premium
+U02427,2024-05-26,France,Metro Compact,Standard
+U02342,2024-05-26,Germany,Metro Compact,Standard
+U03401,2024-05-26,Germany,Terra Pickup,Standard
+U02340,2024-05-26,United States,Aero Sedan,Performance
+U01116,2024-05-27,United States,Terra Pickup,
+U01535,28/05/2024,Japan,Volt GT,Premium
+U03157,2024-05-28,United Kingdom,Aero Sedan,Performance
+U02668,2024-05-28,Germany,Terra Pickup,Standard
+U01766,2024-05-30,United States,Aero Sedan,Standard
+U01994,2024-05-30,Germany,Aero Sedan,Premium
+U00917,2024-05-31,United Kingdom,Terra Pickup,Premium
+U03310,2024-05-31,France,Metro Compact,Premium
+U01908,2024-05-31,United States,Volt GT,premium
+U03263,2024-05-31,Australia,Metro Compact,Standard
+U01826,2024-05-31,United States,Terra Pickup,Standard
+U02390,2024-05-31,United States,Metro Compact,Standard
+U00511,2024-06-01,United States,Aero SUV,Premium
+U02765,2024-06-01,Germany,Aero Sedan,Standard
+U01768,2024-06-04,Australia,Terra Pickup,Standard
+U01807,2024-06-04,Norway,Metro Compact,Standard
+U01966,2024-06-06,France,Metro Compact,Premium
+U02792,2024-06-06,Australia,Metro Compact,Standard
+U03397,2024-06-06,australia,Metro Compact,Standard
+U03435,2024-06-08,Japan,Aero Sedan,Premium
+U02583,2024-06-09,United Kingdom,Aero Sedan,Standard
+U03169,2024-06-09,United States,Terra Pickup,Premium
+U01428,2024-06-10,United Kingdom,Aero Sedan,Premium
+U01958,2024-06-11,Japan,Aero SUV,Premium
+U00794,2024-06-11,United Kingdom,Aero Sedan,Premium
+U01790,2024-06-11,Japan,Volt GT,Premium
+U02312,2024-06-13,United States,Aero SUV,Premium
+U03009,2024-06-14,united kingdom ,Metro Compact,Standard
+U03261,2024-06-14,United States,Volt GT,Performance
+U02324,15/06/2024,United States,Aero SUV,Premium
+U00548,2024-06-15,United States,Metro Compact,Standard
+U03186,2024-06-16,Germany,Metro Compact,Standard
+U02754,2024-06-16,Germany,Metro Compact,Standard
+U01376,2024-06-16,United Kingdom,Aero SUV,Premium
+U01567,2024-06-17,Japan,Terra Pickup,Standard
+U00140,2024-06-19,United Kingdom,Metro Compact,Standard
+U02631,2024-06-19,United States,Volt GT,Performance
+U03097,2024-06-21,United States,Metro Compact,Standard
+U00561,2024-06-22,Norway,Terra Pickup,Premium
+U03005,2024-06-22,France,Aero Sedan,standard
+U00123,2024-06-22,Germany,Terra Pickup,Performance
+U00339,2024-06-22,France,Metro Compact,Standard
+U00664,2024-06-23,Germany,Terra Pickup,Performance
+U00628,2024-06-23,Germany,Terra Pickup,Standard
+U03319,2024-06-24,United States,Terra Pickup,Standard
+U02938,2024-06-25,usa,Aero Sedan,Standard
+U01183,2024-06-25,canada,Aero SUV,Performance
+U01810,2024-06-26,United States,Terra Pickup,Standard
+U03427,2024-06-26,United States,Metro Compact,Standard
+U02216,2024-06-28,United States,Volt GT,Premium
+U00364,2024-06-28,Germany,Volt GT,Premium
+U00098,2024-06-28,Australia,Aero Sedan,Premium
+U01991,2024-06-29,United States,Terra Pickup,Standard
+U02896,2024-06-29,Canada,Volt GT,Performance
+U02349,2024-06-30,United States,Aero SUV,Standard
+U01624,2024-06-30,United Kingdom,Aero SUV,Performance
+U02597,2024-06-30,United States,Metro Compact,Standard
+U01427,2024-07-01,United States,Volt GT,Performance
+U02129,2024-07-01,United States,Aero Sedan,Standard
+U01764,2024-07-02,Australia,Aero SUV,Standard
+U00086,2024-07-02,France,Volt GT,Performance
+U02463,2024-07-02,United Kingdom,Aero Sedan,Premium
+U03289,02/07/2024,Canada,Aero SUV,Standard
+U00413,03/07/2024,Australia,Metro Compact,Standard
+U02064,2024-07-03,United States,Volt GT,Performance
+U01456,2024-07-03,United States,Metro Compact,Standard
+U03018,2024-07-04,JP,Volt GT,Premium
+U00455,2024-07-05,United States,Terra Pickup,Performance
+U01041,2024-07-05,United States,Metro Compact,premium
+U01170,2024-07-06,United States,Aero Sedan,Premium
+U02264,2024-07-06,Norway,Terra Pickup,Premium
+U02150,2024-07-07,United States,Metro Compact,Standard
+U02741,2024-07-07,Japan,Aero SUV,Standard
+U02882,2024-07-08,Australia,Metro Compact,Standard
+U02286,2024-07-08,Canada,Metro Compact,Standard
+U01707,2024-07-08,United States,Metro Compact,Standard
+U00845,2024-07-09,Canada,Metro Compact,Standard
+U03198,2024-07-09,United States,Aero SUV,Premium
+U02147,2024-07-09,United Kingdom,Aero Sedan,Standard
+U03284,2024-07-09,U.S.,Terra Pickup,Standard
+U00188,2024-07-09,Norway,Aero Sedan,Performance
+U02233,2024-07-09,Japan,Aero SUV,Standard
+U00005,2024-07-09,Canada,Terra Pickup,Premium
+U01408,2024-07-09,United States,Aero SUV,Performance
+U00337,10/07/2024,Japan,Aero SUV,Premium
+U00350,2024-07-10,United States,Metro Compact,Standard
+U01297,2024-07-10,United States,Aero SUV,Premium
+U01836,2024-07-10,France,Metro Compact,Standard
+U01133,2024-07-10,Germany,Volt GT,Premium
+U03210,2024-07-11,United States,Aero Sedan,Standard
+U03167,2024-07-12,France,Terra Pickup,Premium
+U00109,2024-07-12,United States,Aero Sedan,Performance
+U01153,2024-07-12,United States,Aero SUV,Premium
+U01371,2024-07-13,Germany,Aero Sedan,Standard
+U02424,2024-07-13,United States,Metro Compact,Standard
+U00921,2024-07-13,United States,Aero SUV,Premium
+U02514,2024-07-13,Japan,Volt GT,Premium
+U03052,2024-07-14,United States,Metro Compact,Premium
+U02157,2024-07-15,Australia,Aero Sedan,Standard
+U01642,2024-07-15,United Kingdom,Terra Pickup,Premium
+U03000,2024-07-15,United Kingdom,Aero Sedan,Premium
+U03133,2024-07-16,Australia,Aero Sedan,Performance
+U00894,2024-07-17,Japan,Metro Compact,Standard
+U00294,2024-07-17,United States,Metro Compact,Premium
+U01236,2024-07-17,Canada,Metro Compact,Premium
+U00869,2024-07-18,United States,Aero SUV,Premium
+U01251,2024-07-18,United States,Aero Sedan,Performance
+U02568,2024-07-18,USA,Volt GT,Performance
+U02983,2024-07-18,Australia,Terra Pickup,Standard
+U03234,2024-07-18,France,Aero Sedan,Premium
+U02035,2024-07-19,France,Aero Sedan,Standard
+U02763,2024-07-19,United States,Volt GT,Premium
+U00940,2024-07-19,United States,Aero SUV,Performance
+U03410,2024-07-20,DE,Aero Sedan,Premium
+U01341,2024-07-20,Australia,Metro Compact,Premium
+U02458,2024-07-20,United States,Metro Compact,Standard
+U02963,2024-07-20,Canada,Metro Compact,Standard
+U00718,2024-07-21,United States,Volt GT,Performance
+U03257,2024-07-21,France,Terra Pickup,Performance
+U03318,2024-07-21,United States,Aero SUV,Performance
+U00290,2024-07-21,Canada,Metro Compact,Standard
+U01936,2024-07-23,United States,Terra Pickup,Premium
+U00725,2024-07-23,United States,Terra Pickup,Standard
+U02782,2024-07-24,United States,Aero SUV,Standard
+U01278,2024-07-24,United States,Volt GT,Premium
+U00129,2024-07-24,Japan,Terra Pickup,Performance
+U03344,2024-07-24,Germany,Terra Pickup,Premium
+U02210,2024-07-25,Japan,Volt GT,Premium
+U02864,2024-07-25,United States,Terra Pickup,Performance
+U00583,2024-07-26,Canada,Metro Compact,Standard
+U00865,2024-07-26,Canada,Volt GT,Performance
+U03280,2024-07-27,Canada,Terra Pickup,Premium
+U00258,2024-07-27,United States,Terra Pickup,Premium
+U02659,2024-07-28,United States,Terra Pickup,Performance
+U02483,2024-07-28,France,Terra Pickup,Premium
+U00230,2024-07-28,Canada,Terra Pickup,Performance
+U00409,2024-07-29,United Kingdom,Aero SUV,Performance
+U01473,2024-07-30,United States,Aero Sedan,Performance
+U01252,2024-07-30,United Kingdom,Metro Compact,standard
+U02416,2024-07-30,United Kingdom,Aero SUV,PERFORMANCE
+U00161,2024-07-31,United States,Aero SUV,Standard
+U01575,2024-08-01,Norway,Terra Pickup,Premium
+U00155,2024-08-01,United States,Volt GT,PREMIUM
+U02022,2024-08-01,United States,Terra Pickup,Premium
+U02889,2024-08-01,Norway,Metro Compact,Standard
+U02119,2024-08-01,Japan,Aero SUV,Standard
+U00240,2024-08-02,Germany,Terra Pickup,Standard
+U00636,2024-08-02,United States,Metro Compact,Premium
+U03209,2024-08-03,Japan,Aero Sedan,Performance
+U03398,2024-08-04,United States,Aero Sedan,Standard
+U00769,2024-08-04,France,Terra Pickup,Standard
+U00404,2024-08-04,United Kingdom,Aero SUV,premium
+U03008,2024-08-05,usa,Terra Pickup,Premium
+U01517,2024-08-05,United Kingdom,Terra Pickup,Performance
+U00908,2024-08-05, Germany,Volt GT,Performance
+U02489,2024-08-05,Norway,Terra Pickup,Premium
+U01122,2024-08-06,Norway,Aero SUV,Premium
+U00733,2024-08-06,Canada,Aero Sedan,Standard
+U03232,2024-08-07,United Kingdom,Volt GT,Performance
+U00742,2024-08-07,France,Aero Sedan,Standard
+U03082,2024-08-10,Japan,Aero Sedan,Standard
+U02217,2024-08-10,France,Terra Pickup,Premium
+U00608,2024-08-10,Canada,Metro Compact,Standard
+U00060,2024-08-11,United Kingdom,Aero Sedan,Premium
+U03245,2024-08-11,United States,Aero Sedan,Premium
+U01253,2024-08-12,Germany,Volt GT,Performance
+U01107,2024-08-12,Australia,Aero Sedan,Premium
+U02191,2024-08-12,United Kingdom,Aero Sedan,Standard
+U00269,2024-08-12,Japan,Terra Pickup,Premium
+U02005,2024-08-13,Australia,Metro Compact,Standard
+U03352,2024-08-13,germany,Aero SUV,Premium
+U00510,2024-08-13,Japan,,
+U02781,2024-08-14,Canada,Metro Compact,Standard
+U01393,2024-08-15,Germany,Aero Sedan,Premium
+U00363,2024-08-15,Japan,Terra Pickup,Standard
+U01685,2024-08-16,United States,Aero Sedan,Premium
+U00099,2024-08-16,Norway,Aero Sedan,Standard
+U02201,2024-08-17,France,Metro Compact,Standard
+U00973,2024-08-17,Japan,Aero SUV,Standard
+U01182,2024-08-17,United States,Volt GT,Performance
+U02875,2024-08-17,United States,Metro Compact,Premium
+U01350,2024-08-17,France,Metro Compact,Standard
+U00389,2024-08-17,Australia,Metro Compact,Standard
+U00473,2024-08-18,United Kingdom,Aero Sedan,Performance
+U02805,2024-08-18,Canada,Aero Sedan,Premium
+U02513,2024-08-18,United States,Aero Sedan,Performance
+U00362,2024-08-19,United States,Volt GT,Performance
+U01765,2024-08-19,DE,Aero Sedan,Premium
+U00525,2024-08-19,France,Metro Compact,Standard
+U00938,2024-08-20,United States,Aero Sedan,Standard
+U00392,2024-08-22,Japan,Metro Compact,Standard
+U00209,2024-08-22,Germany,,Standard
+U01255,2024-08-22,Australia,Aero SUV,Premium
+U00193,2024-08-23,United States,Aero SUV,Standard
+U02579,2024-08-23,United States,Metro Compact,Premium
+U02421,2024-08-25,Germany,Metro Compact,Standard
+U00218,2024-08-25,France,Aero SUV,Premium
+U02099,2024-08-25,United Kingdom,Aero SUV,Premium
+U02866,2024-08-25,Germany,Aero Sedan,Standard
+U03154,2024-08-25,United Kingdom,Aero Sedan,Premium
+U00619,2024-08-25,United States,Aero SUV,Premium
+U02399,2024-08-25,United Kingdom,Volt GT,Performance
+U02594,2024-08-26,Japan,Aero SUV,Premium
+U00437,2024-08-27,Germany,Metro Compact,Premium
+U00805,2024-08-28,USA,Aero Sedan,Premium
+U01040,2024-08-28,Germany,Volt GT,Performance
+U00964,2024-08-28,Norway,Aero SUV,Standard
+U02266,2024-08-29,Germany,Aero SUV,Standard
+U02890,2024-08-30,United States,Terra Pickup,Performance
+U01532,2024-08-30,Australia,Metro Compact,Standard
+U01415,2024-08-30,Germany,Metro Compact,Performance
+U01887,30/08/2024,United States,Metro Compact,Standard
+U00815,2024-08-30,United States,Aero SUV,Standard
+U01275,2024-08-31,United States,Aero Sedan,Standard
+U00009,2024-08-31,Japan,Metro Compact,Standard
+U02973,01/09/2024,Norway,Terra Pickup,Standard
+U01674,2024-09-01,United States,Metro Compact,Standard
+U03495,2024-09-02,France,Terra Pickup,Standard
+U01052,2024-09-02,Japan,Volt GT,Performance
+U01003,2024-09-02,Japan,Aero Sedan,Premium
+U03128,2024-09-02,United Kingdom,Terra Pickup,Standard
+U00037,03/09/2024,United States,Metro Compact,Standard
+U02102,2024-09-04,United States,Aero SUV,Performance
+U01551,2024-09-05,United States,Aero SUV,Premium
+U01511,2024-09-05,United States,Aero Sedan,Performance
+U00888,2024-09-05,United States,Metro Compact,Premium
+U00217,2024-09-05,Canada,Aero SUV,Premium
+U02059,2024-09-05,Japan,Metro Compact,Standard
+U00335,2024-09-06,United States,Aero Sedan,Standard
+U00207,2024-09-06,Germany,Aero SUV,Performance
+U00963,2024-09-06,Germany,Aero SUV,Premium
+U01769,2024-09-07,Australia,Aero SUV,Standard
+U03236,2024-09-07,Norway,Aero Sedan,Premium
+U02379,2024-09-09,Canada,Aero Sedan,Premium
+U03412,09/09/2024,Japan,Metro Compact,Standard
+U00474,2024-09-09,United States,Aero Sedan,Premium
+U00679,2024-09-10,Japan,,Performance
+U01240,2024-09-10,Japan,Aero Sedan,Premium
+U00302,2024-09-10,United States,Aero SUV,Standard
+U01803,2024-09-11,Canada,Metro Compact,Premium
+U02780,2024-09-11,United States,Volt GT,PERFORMANCE
+U01654,2024-09-11,United States,Metro Compact,Standard
+U03369,2024-09-11,Japan,Aero SUV,Standard
+U00671,2024-09-13,Norway,Terra Pickup,standard
+U02728,2024-09-13,United States,Aero Sedan,Premium
+U02237,2024-09-13,Japan,Aero Sedan,Standard
+U00341,2024-09-14,Japan,Aero SUV,Premium
+U01189,2024-09-14,Australia,Aero SUV,Premium
+U00764,2024-09-15,France,Aero Sedan,Standard
+U00918,2024-09-15,United States,Metro Compact,Standard
+U01117,2024-09-15,United States,Aero SUV,Premium
+U01054,2024-09-16,Japan,Aero SUV,Standard
+U01105,2024-09-16,Canada,Aero SUV,Standard
+U03391,2024-09-16,JP,Aero SUV,Performance
+U02334,2024-09-16,Japan,Aero SUV,Standard
+U02714,2024-09-17,United Kingdom,Volt GT,Performance
+U03225,2024-09-17,Germany,Volt GT,PERFORMANCE
+U00310,2024-09-18,france,Aero Sedan,performance
+U03270,2024-09-18,Germany,Aero Sedan,Premium
+U00050,2024-09-18,Australia,Aero Sedan,Premium
+U01368,2024-09-18,United States,Volt GT,Performance
+U01602,2024-09-18,United States,Metro Compact,Standard
+U02013,2024-09-18,Deutschland,Terra Pickup,Standard
+U00059,2024-09-18,Japan,Aero SUV,Performance
+U00153,2024-09-18,United States,Terra Pickup,Premium
+U00231,2024-09-19,Norway,Aero Sedan,Premium
+U01757,2024-09-20,Japan,Aero Sedan,Premium
+U03026,2024-09-20,Norway,Metro Compact,Standard
+U00545,2024-09-20,United Kingdom,Aero SUV,Premium
+U02008,2024-09-20,Germany,Aero SUV,Premium
+U02184,21/09/2024,United Kingdom,Terra Pickup,Standard
+U03163,2024-09-22,United States,Aero Sedan,Performance
+U00417,2024-09-22,United Kingdom,Metro Compact,Standard
+U02477,2024-09-22,Canada,Aero SUV,Premium
+U03189,2024-09-23,United Kingdom,Aero Sedan,Premium
+U00264,2024-09-24,United States,Metro Compact,Premium
+U01151,2024-09-24,France,Aero SUV,Premium
+U00806,2024-09-24,united states,Aero SUV,Premium
+U02606,2024-09-24,Norway,Terra Pickup,Premium
+U00204,2024-09-24,Japan,Terra Pickup,Premium
+U00128,2024-09-25,Japan,Aero Sedan,Standard
+U00462,2024-09-26,United States,Aero SUV,Standard
+U00261,2024-09-27,Norway,Terra Pickup,Standard
+U02517,2024-09-27,United States,Terra Pickup,Premium
+U03215,2024-09-27,Japan,Aero SUV,premium
+U01165,2024-09-28,United Kingdom,Aero Sedan,Premium
+U02049,2024-09-28,japan,Terra Pickup,Standard
+U02891,2024-09-28,United States,Aero SUV,Premium
+U00376,2024-09-29,Germany,Metro Compact,Standard
+U01529,2024-09-29,United Kingdom,Volt GT,Premium
+U02953,2024-09-30,United Kingdom,Volt GT,Performance
+U00469,2024-09-30,Germany,Volt GT,Performance
+U02903,2024-10-01,United States,Aero SUV,Premium
+U02912,01/10/2024,Canada,Aero SUV,Standard
+U00849,2024-10-02,United Kingdom,Metro Compact,Standard
+U02376,2024-10-02,Germany,Metro Compact,Standard
+U02360,2024-10-03,United States,Metro Compact,Standard
+U02383,2024-10-03,France,Aero SUV,Premium
+U00762,2024-10-03,Australia,Terra Pickup,Performance
+U01990,2024-10-03,Canada,Aero Sedan,Standard
+U01915,2024-10-03,Canada,Aero Sedan,Premium
+U00552,04/10/2024,Japan,Aero SUV,Premium
+U02526,2024-10-04,Australia,Aero SUV,Standard
+U03058,2024-10-05,United States,Aero Sedan,Performance
+U02174,2024-10-05,United Kingdom,Metro Compact,Standard
+U01004,2024-10-06,Germany,Metro Compact,Standard
+U02009,2024-10-06,France,Aero SUV,Performance
+U00091,2024-10-06,France,Aero Sedan,standard
+U00195,2024-10-07,Canada,Volt GT,Performance
+U00985,2024-10-07,Australia,Volt GT,Premium
+U01784,2024-10-08,Germany,Aero Sedan,Standard
+U00268,2024-10-08,Deutschland,Aero SUV,Premium
+U01154,2024-10-08,United States,Terra Pickup,Premium
+U02951,08/10/2024,United States,Metro Compact,Standard
+U01964,2024-10-08,Canada,Aero SUV,STANDARD
+U01111,2024-10-08,Australia,Aero Sedan,Standard
+U01443,2024-10-08,United Kingdom,Aero Sedan,Standard
+U00523,2024-10-08,United States,Aero Sedan,Performance
+U02683,2024-10-08,France,Terra Pickup,Standard
+U01843,2024-10-09,Australia,Metro Compact,Standard
+U01519,2024-10-09,Japan,Aero SUV,Premium
+U03425,2024-10-09,Germany,Aero SUV,Premium
+U03199,2024-10-09,Canada,Aero SUV,Standard
+U00029,2024-10-09,France,Aero SUV,Standard
+U01904,2024-10-10,United States,Aero Sedan,Premium
+U02916,2024-10-10,United States,Aero Sedan,Standard
+U00442,2024-10-10,United States,Volt GT,Performance
+U00703,2024-10-10,United States,Aero SUV,Premium
+U02209,2024-10-11,United States,Aero Sedan,Standard
+U01396,2024-10-11,United Kingdom,Aero SUV,Standard
+U03343,2024-10-13,Canada,Metro Compact,Premium
+U00375,2024-10-13,NO,Aero SUV,Performance
+U02957,13/10/2024,Germany,Volt GT,Premium
+U01434,2024-10-13,United States,Aero SUV,Premium
+U03117,2024-10-16,Germany,Terra Pickup,Standard
+U02989,2024-10-17,United States,Aero Sedan,Premium
+U02442,2024-10-17,United Kingdom,Terra Pickup,Premium
+U00927,2024-10-17,United States,Metro Compact,Premium
+U00089,2024-10-18,france,Metro Compact,Standard
+U00954,2024-10-18,Japan,Metro Compact,Standard
+U01330,2024-10-18,Australia,Aero Sedan,Standard
+U02923,2024-10-18,Japan,Aero SUV,Performance
+U02881,2024-10-19,canada,Aero Sedan,Standard
+U02771,19/10/2024,Germany,Aero Sedan,Standard
+U01661,2024-10-19,Norway,Aero Sedan,Standard
+U03121,2024-10-20,France,Metro Compact,Standard
+U00778,2024-10-21,Australia,Terra Pickup,Standard
+U01360,2024-10-21,United States,Metro Compact,STANDARD
+U02110,2024-10-21,Canada,Aero Sedan,Premium
+U00889,2024-10-21,Canada,Aero SUV,Standard
+U03374,2024-10-21,Germany,Aero Sedan,Performance
+U02521,2024-10-21,Norway,Terra Pickup,Performance
+U00968,2024-10-22,Japan,Terra Pickup,Standard
+U00538,2024-10-22,France,Volt GT,Performance
+U03235,2024-10-23,usa,Volt GT,Performance
+U00175,2024-10-23,France,Aero Sedan,Performance
+U00266,2024-10-24,France,Metro Compact,Standard
+U00925,2024-10-24,United Kingdom,Terra Pickup,Standard
+U00798,2024-10-24,United Kingdom,Terra Pickup,Performance
+U02696,2024-10-25,Germany,Aero Sedan,Premium
+U02588,2024-10-25,United States,Aero SUV,Standard
+U02810,2024-10-25,Canada,Volt GT,Premium
+U00539,2024-10-25,Germany,Metro Compact,standard
+U01298,2024-10-25,Germany,Aero Sedan,Standard
+U00084,2024-10-26,CA,Metro Compact,Standard
+U01845,2024-10-27,U.S.,Volt GT,Performance
+U01100,2024-10-27,Germany,Terra Pickup,Standard
+U02725,2024-10-28,United Kingdom,Aero SUV,Premium
+U01164,2024-10-28,United States,Aero Sedan,Premium
+U01762,2024-10-29,United Kingdom,Metro Compact,Standard
+U02944,2024-10-29,france,Aero SUV,Performance
+U01470,2024-10-29,Japan,Aero Sedan,Standard
+U03100,2024-10-30,germany,Aero Sedan,Premium
+U01781,2024-10-30,Norway,Aero SUV,Standard
+U01590,2024-10-30,United States,Aero SUV,Premium
+U02186,2024-10-30,United States,Terra Pickup,Premium
+U00131,2024-10-31,United States,Aero Sedan,Standard
+U02709,2024-10-31,United States,Volt GT,Performance
+U02341,2024-10-31,Germany,Metro Compact,Standard
+U01267,2024-10-31,Japan,Terra Pickup,Premium
+U00352,01/11/2024,United States,Metro Compact,Standard
+U01225,2024-11-02,United States,Aero Sedan,Standard
+U03142,2024-11-04,France,Volt GT,Performance
+U02548,2024-11-04,United States,Aero SUV,Premium
+U00808,2024-11-04,Germany,Aero Sedan,Performance
+U00454,2024-11-04,Canada,Aero SUV,Premium
+U00516,2024-11-04,United Kingdom,Aero SUV,Premium
+U03184,2024-11-05,France,Metro Compact,Premium
+U01975,2024-11-06,Japan,Aero Sedan,Premium
+U02743,2024-11-06,United States,Aero SUV,Performance
+U02317,2024-11-06,United States,Terra Pickup,Performance
+U00272,2024-11-06,Norway,Terra Pickup,Standard
+U01526,2024-11-07,Japan,Volt GT,Performance
+U01185,2024-11-07,Norway,Aero Sedan,Premium
+U01598,07/11/2024,japan,Aero SUV,Standard
+U01239,2024-11-08,United States,Aero SUV,Premium
+U01544,2024-11-08,Germany,Terra Pickup,Standard
+U01124,2024-11-08,Australia,Metro Compact,Standard
+U01184,2024-11-08,Canada,Metro Compact,Premium
+U01944,2024-11-09,Canada,Volt GT,Premium
+U00115,2024-11-09,Japan,Volt GT,Performance
+U01016,09/11/2024,United States,Aero Sedan,PREMIUM
+U01896,2024-11-09,Germany,Metro Compact,Standard
+U00587,2024-11-10,United Kingdom,Metro Compact,premium
+U02113,2024-11-10,United States,Aero SUV,Standard
+U01912,2024-11-11,France,Aero SUV,Premium
+U00851,2024-11-11,United States,Aero SUV,Standard
+U00196,2024-11-12,Germany,Terra Pickup,Standard
+U00943,2024-11-12,AU,Aero SUV,Standard
+U01834,2024-11-14,USA,Aero SUV,Premium
+U00553,2024-11-14,United Kingdom,Aero Sedan,Performance
+U02314,2024-11-14,Canada,Aero SUV,
+U00282,2024-11-15,France,Metro Compact,Standard
+U02737,2024-11-15,Germany,Metro Compact,Standard
+U02084,2024-11-15,Canada,Metro Compact,PREMIUM
+U03068,2024-11-16,United Kingdom,Terra Pickup,standard
+U01463,2024-11-17,United Kingdom,Aero SUV,Premium
+U02970,2024-11-17,AU,Aero SUV,Standard
+U00456,2024-11-18,United Kingdom,Aero SUV,Performance
+U03150,2024-11-18,United States,Aero SUV,Premium
+U02809,18/11/2024,Germany,Aero Sedan,Standard
+U03039,2024-11-19,United Kingdom,Aero SUV,Standard
+U00716,2024-11-20,United States,Metro Compact,Standard
+U01645,2024-11-20,Germany,Aero Sedan,Premium
+U00899,2024-11-21,United States,Terra Pickup,Standard
+U03155,21/11/2024,United Kingdom,Aero Sedan,Standard
+U02204,2024-11-21,Canada,Aero Sedan,Premium
+U02078,2024-11-22,Japan,Aero SUV,Performance
+U02748,2024-11-22,Norway,Terra Pickup,standard
+U03109,2024-11-22,United States,Terra Pickup,Standard
+U00663,2024-11-23,Australia,Aero SUV,Standard
+U01337,2024-11-23,United States,Volt GT,Performance
+U00980,2024-11-23,Norway,Aero Sedan,Premium
+U03168,2024-11-24,Germany,Volt GT,Performance
+U01697,2024-11-24,Germany,Metro Compact,Standard
+U03442,2024-11-24,United Kingdom,Aero Sedan,Standard
+U01472,2024-11-24,United States,Volt GT,Premium
+U02282,2024-11-24,Norway,Terra Pickup,Premium
+U00767,2024-11-24,Deutschland,Aero SUV,Premium
+U01369,2024-11-24,Germany,Aero Sedan,Standard
+U01628,2024-11-25,United States,Terra Pickup,Premium
+U01405,2024-11-25,Canada,Terra Pickup,Standard
+U03267,2024-11-25,France,Aero Sedan,premium
+U01888,2024-11-25,United States,Aero SUV,Premium
+U02398,2024-11-26,France,Terra Pickup,Premium
+U00036,2024-11-26,France,Aero SUV,Premium
+U02224,2024-11-26,Australia,Aero SUV,Performance
+U03285,2024-11-27,Japan,Metro Compact,Premium
+U03125,2024-11-27,United States,Metro Compact,Standard
+U00589,2024-11-28,United States,Aero SUV,Performance
+U01196,2024-11-29,Japan,Aero SUV,Performance
+U01597,2024-11-29,Japan,Aero SUV,Premium
+U02124,2024-11-30,JP,Aero Sedan,Premium
+U02478,2024-11-30,Germany,Volt GT,Performance
+U00444,2024-11-30,Japan,Metro Compact,Standard
+U01110,2024-11-30,Norway,Aero SUV,standard
+U03126,2024-11-30,AU,Aero Sedan,Premium
+U01277,01/12/2024,Germany,Aero Sedan,Standard
+U00026,2024-12-02,Germany,Aero SUV,Premium
+U02584,2024-12-02,United States,Volt GT,Performance
+U03102,2024-12-03,United States,Volt GT,Premium
+U03228,2024-12-03,United States,,Standard
+U01445,2024-12-03,United Kingdom,Terra Pickup,Standard
+U01233,2024-12-03,Germany,Terra Pickup,Performance
+U01591,2024-12-03,Germany,Aero SUV,Premium
+U03191,2024-12-03,Germany,Terra Pickup,Standard
+U01629,2024-12-04,Australia,Aero Sedan,Standard
+U00885,2024-12-05,France,Metro Compact,Standard
+U00199,2024-12-05,United States,Aero SUV,Performance
+U02246,2024-12-05,United States,Aero SUV,Standard
+U01520,2024-12-06,Germany,Metro Compact,Standard
+U02617,2024-12-06,Germany,Metro Compact,STANDARD
+U01047,2024-12-07,Norway,Aero SUV,Premium
+U02640,2024-12-07,Germany,Aero Sedan,Premium
+U02328,2024-12-07, United States ,Metro Compact,Standard
+U00419,2024-12-07,Japan,Aero Sedan,Premium
+U02422,2024-12-07,United States,Metro Compact,Premium
+U01512,08/12/2024,United Kingdom,Aero SUV,Standard
+U00852,2024-12-09,United States,Volt GT,Performance
+U02289,2024-12-09,France,Aero Sedan,Premium
+U00213,2024-12-09,Norway,Aero SUV,Premium
+U00051,2024-12-09,australia,Terra Pickup,Performance
+U01644,2024-12-10,australia,,STANDARD
+U02082,2024-12-10,Germany,Aero Sedan,Standard
+U01752,2024-12-11,United States,Aero Sedan,Standard
+U01947,2024-12-11,France,Metro Compact,Standard
+U00898,2024-12-12,Canada,Metro Compact,
+U01450,2024-12-12,Canada,Volt GT,Performance
+U02443,2024-12-12,United States,Aero SUV,Premium
+U00436,2024-12-12,United States,Aero Sedan,Standard
+U02131,2024-12-12,Germany,Metro Compact,STANDARD
+U00332,2024-12-12,Japan,Terra Pickup,Standard
+U00112,2024-12-12,Germany,Aero SUV,Standard
+U00682,2024-12-12,United States,Aero SUV,Standard
+U01058,2024-12-13,Canada,Aero Sedan,Performance
+U01916,2024-12-13,Germany,Aero Sedan,Performance
+U03385,2024-12-13,Norway,Volt GT,Performance
+U02898,2024-12-14,United States,Volt GT,Performance
+U01868,2024-12-14,FR,Aero Sedan,Standard
+U02285,2024-12-15,United States,Aero Sedan,Premium
+U00870,2024-12-15,Germany,Aero SUV,Performance
+U03087,16/12/2024,United States,Aero SUV,Premium
+U01248,2024-12-16,Japan,Metro Compact,Standard
+U02747,2024-12-17,Norway,Aero SUV,Performance
+U01435,2024-12-17,Japan,Volt GT,Performance
+U00936,2024-12-18,United Kingdom,Aero Sedan,Premium
+U00737,2024-12-18,Germany,,Performance
+U01237,2024-12-18,JP,Terra Pickup,Premium
+U00970,2024-12-19,United States,Metro Compact,Premium
+U02932,2024-12-19,Germany,Aero SUV,Premium
+U01621,2024-12-20,Japan,Terra Pickup,Standard
+U03489,2024-12-20,United States,Terra Pickup,Premium
+U01180,2024-12-20,Australia,Aero Sedan,Premium
+U02845,2024-12-21,United States,Metro Compact,Standard
+U00536,2024-12-21,Germany,Terra Pickup,Performance
+U02327,2024-12-21,Japan,Aero SUV,Performance
+U02638,2024-12-21,United States,Volt GT,Premium
+U02998,2024-12-22,Germany,Metro Compact,Standard
+U01664,2024-12-23,Germany,Terra Pickup,Premium
+U01763,2024-12-24,United States,Aero Sedan,Premium
+U02498,2024-12-24,France,Metro Compact,Standard
+U01222,2024-12-25,United Kingdom,Volt GT,Performance
+U00855,2024-12-25,Australia,Aero Sedan,PREMIUM
+U00994,2024-12-25,United States,Terra Pickup,Standard
+U01616,2024-12-26,Australia,Aero SUV,Premium
+U02094,2024-12-27,United States,Aero Sedan,Premium
+U01235,2024-12-27,Australia,Terra Pickup,Premium
+U00071,2024-12-28,Canada,Aero SUV,Premium
+U01367,2024-12-28,United States,Metro Compact,Standard
+U01301,2024-12-28,Germany,Aero SUV,Premium
+U01231,2024-12-29,United States,Aero Sedan,Performance
+U03059,2024-12-29,AU,Volt GT,Performance
+U01980,2024-12-29,Norway,Aero SUV,Premium
+U02520,2024-12-29,Norway,Metro Compact,Standard
+U01509,2024-12-29,Canada,Terra Pickup,Premium
+U01738,2024-12-30,United States,Aero Sedan,Standard
+U02278,2024-12-30,United Kingdom,Metro Compact,Standard
+U02785,2024-12-30,France,Aero SUV,Performance
+U00791,2024-12-30,United States,Aero SUV,Performance
+U01793,2024-12-30,Australia,Aero Sedan,Standard
+U02876,2024-12-31,United States,Aero Sedan,Performance
+U01835,2024-12-31,Germany,Aero Sedan,Standard
+U00482,2025-01-01,Germany,Terra Pickup,Standard
+U01097,2025-01-02,Germany,Metro Compact,Standard
+U01437,2025-01-02,Germany,Aero Sedan,Performance
+U01976,2025-01-03,United States,Metro Compact,Standard
+U01179,2025-01-03,United States,Aero SUV,Premium
+U02828,2025-01-04,United Kingdom,Aero SUV,Standard
+U01722,2025-01-04,United Kingdom,Aero SUV,Premium
+U01197,2025-01-05,Germany,Aero SUV,Premium
+U02465,2025-01-06,Canada,Terra Pickup,Premium
+U02886,06/01/2025,Australia,Terra Pickup,Premium
+U02831,2025-01-06,Germany,Volt GT,Premium
+U03081,2025-01-06,France,Aero SUV,Premium
+U02942,2025-01-07,Australia,Aero Sedan,Standard
+U01811,2025-01-07,Germany,Volt GT,Performance
+U03330,2025-01-07,Canada,Terra Pickup,Standard
+U01941,2025-01-08,United States,Metro Compact,Premium
+U01925,2025-01-09,Norway,Aero Sedan,Standard
+U01857,09/01/2025,United Kingdom,Terra Pickup,Performance
+U01657,2025-01-09,Germany,Metro Compact,Premium
+U01576,2025-01-10,United States,Aero SUV,Performance
+U02751,2025-01-10,France,Terra Pickup,PREMIUM
+U01457,2025-01-11,Australia,Terra Pickup,Premium
+U00488,2025-01-11,Germany,Metro Compact,performance
+U02660,2025-01-11,Norway,Aero Sedan,Standard
+U00039,2025-01-12,United States,Terra Pickup,Premium
+U02518,2025-01-12,France,Aero Sedan,Premium
+U02716,2025-01-12,United States,Aero Sedan,Standard
+U01668,13/01/2025,Canada,Aero SUV,Performance
+U01484,2025-01-13,United States,Aero SUV,STANDARD
+U00016,2025-01-13,Canada,Terra Pickup,Standard
+U01891,2025-01-13,United Kingdom,Volt GT,Performance
+U00756,2025-01-14,usa,Terra Pickup,Standard
+U02623,2025-01-14,Japan,Terra Pickup,Standard
+U03266,2025-01-14,Japan,Aero Sedan,Premium
+U01468,2025-01-14,United States,Aero SUV,Standard
+U00206,2025-01-16,United States,Aero Sedan,Premium
+U00163,2025-01-16,Australia,Aero SUV,Performance
+U02708,2025-01-16,United States,Terra Pickup,Performance
+U03034,2025-01-16,United States,Metro Compact,Premium
+U01851,2025-01-17,Australia,Aero Sedan,Performance
+U01742,2025-01-17,United States,Aero SUV,Standard
+U00828,2025-01-18,Canada,Metro Compact,Standard
+U02847,2025-01-19,Norway,Volt GT,Performance
+U03416,2025-01-19,Australia,Terra Pickup,Premium
+U02608,2025-01-19,United States,Aero SUV,Premium
+U00556,2025-01-19,France,Terra Pickup,Premium
+U00313,2025-01-19,United Kingdom,Aero Sedan,Standard
+U00243,2025-01-19,Australia,Aero SUV,Standard
+U02515,2025-01-19,United States,Metro Compact,Standard
+U00644,2025-01-21,Germany,Aero SUV,Standard
+U00074,2025-01-21,Germany,Aero SUV,Premium
+U01605,2025-01-22,France,Aero SUV,Premium
+U00693,2025-01-22,Great Britain,Aero Sedan,Premium
+U02482,2025-01-22,United Kingdom,Aero Sedan,Standard
+U03020,2025-01-22,USA,Aero SUV,Premium
+U02353,2025-01-22,United States,Aero Sedan,Standard
+U01555,2025-01-23,France,Volt GT,performance
+U00255,2025-01-24,germany,Aero SUV,Premium
+U01441,2025-01-24,Australia,Volt GT,Performance
+U00283,2025-01-24,Norway,Metro Compact,Standard
+U02417,2025-01-24,France,Aero Sedan,Premium
+U01814,2025-01-25,Japan,Terra Pickup,Premium
+U00654,2025-01-25,Germany,Metro Compact,Premium
+U02382,2025-01-25,United States,Aero Sedan,Premium
+U00427,2025-01-26,United Kingdom,Terra Pickup,Premium
+U02100,2025-01-26,Germany,Terra Pickup,Standard
+U01686,2025-01-26,Australia,Metro Compact,Standard
+U02687,2025-01-27,Canada,Terra Pickup,Standard
+U02120,2025-01-28,United States,Terra Pickup,Performance
+U01091,2025-01-28,United States,Aero Sedan,Premium
+U00192,2025-01-29,JP,Aero Sedan,Premium
+U01547,2025-01-29,United States,Volt GT,Performance
+U00416,2025-01-29,United States,Volt GT,Performance
+U01542,2025-01-29,United States,Metro Compact,Premium
+U01984,2025-01-30,Germany,Volt GT,Performance
+U02630,2025-01-30,United States,Aero SUV,Standard
+U02986,2025-01-30,Australia,Terra Pickup,Performance
+U00771,2025-01-30,Norway,Metro Compact,Standard
+U00701,2025-01-30,United States,Metro Compact,Premium
+U00753,2025-01-31,United States,Terra Pickup,standard
+U03334,2025-01-31,norway,Metro Compact,Premium
+U00893,2025-02-01,United Kingdom,Metro Compact,
+U00562,2025-02-01,Canada,Aero Sedan,Premium
+U03063,2025-02-02,United States,,Performance
+U02917,2025-02-02,Germany,Aero SUV,Performance
+U01081,2025-02-02,Japan,Metro Compact,Standard
+U03003,2025-02-03,United Kingdom,Metro Compact,Standard
+U00953,2025-02-03,Japan,Terra Pickup,Standard
+U02806,2025-02-03,usa,Terra Pickup,STANDARD
+U00946,2025-02-03,Germany,Aero Sedan,Standard
+U02939,2025-02-03,australia,Volt GT,Premium
+U02844,2025-02-03,Germany,Aero SUV,Standard
+U01741,2025-02-04,United States,Metro Compact,Standard
+U01639,2025-02-04,United States,Aero SUV,Performance
+U01939,2025-02-04,Norway,Aero Sedan,Premium
+U00727,2025-02-04,Japan,Metro Compact,Standard
+U02664,2025-02-04,United Kingdom,Volt GT,Premium
+U01785,2025-02-05,United States,Aero SUV,Premium
+U01050,2025-02-05,United States,Aero SUV,Premium
+U01693,05/02/2025,United States,Metro Compact,Standard
+U02406,2025-02-06,Australia,Aero SUV,Performance
+U02712,2025-02-06,Canada,Aero Sedan,Premium
+U00254,2025-02-06,Canada,Aero SUV,standard
+U00952,2025-02-07,Norway,Aero SUV,Performance
+U02959,2025-02-07,United Kingdom,Aero Sedan,Premium
+U03434,2025-02-07,Canada,Aero SUV,Premium
+U03050,2025-02-07,United States,Aero SUV,Standard
+U02024,2025-02-07,JP,Aero Sedan,STANDARD
+U00284,2025-02-08,United States,Metro Compact,Standard
+U02874,2025-02-08,CA,Aero Sedan,Premium
+U02544,2025-02-09,norway,Aero SUV,Premium
+U02713,2025-02-09,Germany,Terra Pickup,Premium
+U01859,2025-02-10,Germany,Aero Sedan,Performance
+U02374,2025-02-10,United States,Terra Pickup,Premium
+U03408,2025-02-11,France,Aero SUV,Premium
+U00909,2025-02-12,Australia,Aero SUV,Premium
+U00926,2025-02-13,Germany,Metro Compact,Standard
+U01611,2025-02-13, United States ,Metro Compact,standard
+U00348,2025-02-13,Canada,Aero Sedan,Standard
+U02226,2025-02-13,Australia,Volt GT,PREMIUM
+U00830,2025-02-13,Australia,Metro Compact,Premium
+U00971,2025-02-13,Australia,Aero SUV,Premium
+U02244,2025-02-14,Australia,Aero Sedan,Premium
+U03033,2025-02-14,Canada,Aero SUV,Standard
+U00781,2025-02-14,United States,Volt GT,Premium
+U01653,2025-02-15,Germany,Terra Pickup,Premium
+U01063,2025-02-15,usa,Aero SUV,Premium
+U02689,2025-02-15,Japan,Metro Compact,Standard
+U03112,2025-02-15,United States,Aero Sedan,Premium
+U03303,2025-02-16,United Kingdom,Aero SUV,Standard
+U00173,2025-02-16,United States,Volt GT,Premium
+U02965,2025-02-17,United Kingdom,Metro Compact,Standard
+U02179,2025-02-17,Canada,Volt GT,Premium
+U01987,2025-02-18,Australia,Aero Sedan,Standard
+U01734,2025-02-18,Germany,Aero Sedan,Standard
+U01094,2025-02-18,United States,Terra Pickup,premium
+U03099,2025-02-18,United States,Metro Compact,Standard
+U01304,2025-02-18,Germany,Aero Sedan,Premium
+U01173,2025-02-18,United States,Aero SUV,Premium
+U02172,2025-02-18,Australia,Aero SUV,Performance
+U02397,2025-02-18,United States,Aero SUV,Standard
+U03182,2025-02-18,Australia,Aero SUV,Standard
+U02069,2025-02-19,United States,Aero SUV,Performance
+U02199,2025-02-19,Australia,Aero Sedan,Premium
+U00902,2025-02-20,Canada,Aero SUV,Premium
+U02779,2025-02-20,Canada,Aero SUV,Premium
+U01209,2025-02-21,United States,Aero SUV,Premium
+U00751,2025-02-21,Germany,Terra Pickup,Premium
+U01783,2025-02-22,Norway,Terra Pickup,Performance
+U02247,2025-02-23,United States,Aero Sedan,Performance
+U02325,2025-02-24,Germany,Aero Sedan,Premium
+U00190,2025-02-24,Germany,Aero SUV,Performance
+U01860,2025-02-24,France,Metro Compact,Performance
+U02558,2025-02-24,United Kingdom,Aero SUV,Premium
+U03441,2025-02-25,Canada,Aero Sedan,
+U02189,2025-02-25, Canada ,Volt GT,Premium
+U02086,2025-02-25,Norway,Metro Compact,Standard
+U02367,2025-02-25,France,Aero SUV,Standard
+U01600,2025-02-26,Australia,Aero Sedan,Premium
+U00941,2025-02-26,United States,Metro Compact,Standard
+U01608,2025-02-26,United States,Volt GT,Premium
+U02117,2025-02-26,Germany,Metro Compact,Standard
+U01246,2025-02-26,United States,Metro Compact,Premium
+U02162,2025-02-27,usa,Terra Pickup,Standard
+U02062,2025-02-27,Germany,Terra Pickup,Standard
+U00309,2025-02-28,Norway,Metro Compact,Standard
+U01651,2025-02-28,Japan,Aero Sedan,Standard
+U00103,2025-02-28,United Kingdom,Aero SUV,Performance
+U03027,2025-03-01,United States,Terra Pickup,Premium
+U03080,2025-03-01,Norway,Aero SUV,Standard
+U00146,2025-03-01,Canada,Aero SUV,Premium
+U01584,2025-03-02,United States,Metro Compact,Standard
+U03390,2025-03-03,Japan,Metro Compact,Standard
+U01877,2025-03-03,United States,Terra Pickup,Standard
+U03060,2025-03-04,United States,Terra Pickup,premium
+U00445,2025-03-05,United States,Metro Compact,Premium
+U02838,2025-03-05,Germany,Aero Sedan,Performance
+U03119,2025-03-05,United States,Aero Sedan,Standard
+U02166,2025-03-05,Canada,Aero Sedan,Premium
+U03253,2025-03-05,france,Terra Pickup,Performance
+U01215,2025-03-05,United Kingdom,Aero Sedan,Premium
+U01119,2025-03-05,Germany,Aero Sedan,Standard
+U01329,2025-03-05,France,Volt GT,Premium
+U00372,2025-03-05,United States,Terra Pickup,Standard
+U02615,2025-03-06,Germany,Metro Compact,Standard
+U00108,2025-03-07, United States ,Aero SUV,Performance
+U01550,2025-03-07,Norway,Aero SUV,Premium
+U02735,2025-03-07,Germany,Metro Compact,Premium
+U01516,2025-03-07,United States,Aero SUV,standard
+U00820,2025-03-08,Germany,Aero Sedan,Standard
+U02459,2025-03-08,Japan,Aero SUV,Performance
+U03120,2025-03-08,United States,Aero Sedan,Premium
+U01530,2025-03-08,United States,Aero Sedan,Premium
+U03221,2025-03-09,Germany,Volt GT,Performance
+U01652,2025-03-09,United States,Terra Pickup,Performance
+U02121,2025-03-09, Germany,Aero SUV,Premium
+U03332,2025-03-10,Japan,Terra Pickup,Standard
+U01053,2025-03-10,United States,Terra Pickup,Premium
+U01898,2025-03-10,Germany,Aero Sedan,Premium
+U00661,2025-03-10,United Kingdom,Aero Sedan,Standard
+U02877,2025-03-10,United States,Volt GT,Premium
+U03283,2025-03-11,Japan,Aero Sedan,Premium
+U02158,2025-03-11,France,Metro Compact,Premium
+U01606,2025-03-11,Germany,Aero Sedan,Premium
+U00596,2025-03-13,Germany,Terra Pickup,Premium
+U00475,2025-03-13, United States ,Aero Sedan,Premium
+U02505,2025-03-13,United States,Aero SUV,Premium
+U03015,2025-03-14,United States,Terra Pickup,Standard
+U00897,2025-03-14,United States,Aero SUV,Performance
+U02982,2025-03-14,Germany,Metro Compact,Standard
+U02073,2025-03-15,United Kingdom,Aero SUV,Premium
+U02017,15/03/2025,United States,Aero SUV,Premium
+U02123,2025-03-15,Japan,Terra Pickup,Premium
+U03219,2025-03-16,Japan,Metro Compact,Standard
+U00514,2025-03-16,United States,Aero SUV,Standard
+U00076,2025-03-17,Germany,Aero Sedan,Premium
+U01000,2025-03-17,France,Terra Pickup,Standard
+U00157,2025-03-17,United States,Terra Pickup,Premium
+U00705,2025-03-19,Canada,Aero Sedan,Standard
+U02817,2025-03-19,United Kingdom,Metro Compact,Standard
+U02945,2025-03-20,United States,Aero Sedan,Premium
+U01055,2025-03-20,United States,Terra Pickup,Premium
+U02968,2025-03-20,Canada,Aero SUV,Premium
+U00407,2025-03-20,France,Terra Pickup,Premium
+U01710,2025-03-20,United States,Aero Sedan,Standard
+U01353,2025-03-21,France,Volt GT,Performance
+U02041,2025-03-21,Norway,Metro Compact,Standard
+U01997,2025-03-21,Norway,Volt GT,Performance
+U00691,2025-03-21,United States,Metro Compact,Standard
+U03238,2025-03-21,United Kingdom,Metro Compact,Standard
+U00267,2025-03-21,United Kingdom,Aero Sedan,Standard
+U02555,2025-03-22,United States,Metro Compact,STANDARD
+U02685,2025-03-22,United States,Metro Compact,Standard
+U01406,2025-03-22,United Kingdom,Volt GT,Performance
+U02012,2025-03-23,United Kingdom,Aero SUV,Standard
+U00225,2025-03-23,France,Aero SUV,performance
+U03381,2025-03-23,United States,,Premium
+U01858,2025-03-23,Germany,Terra Pickup,Standard
+U02821,2025-03-24,United States,Volt GT,Premium
+U02316,2025-03-24,France,Terra Pickup,Standard
+U03464,2025-03-25,Germany,Aero SUV,Premium
+U00330,2025-03-25,Japan,Aero Sedan,Premium
+U00048,2025-03-25,Norway,Aero Sedan,Premium
+U02344,2025-03-25,United Kingdom,Metro Compact,Standard
+U01684,2025-03-25,Japan,Terra Pickup,Premium
+U03190,2025-03-25,Germany,Metro Compact,Standard
+U00615,2025-03-25,Canada,Aero Sedan,Premium
+U02629,2025-03-25,Great Britain,Terra Pickup,Premium
+U01199,2025-03-26,United Kingdom,Aero Sedan,Premium
+U01647,2025-03-26,Australia,Aero SUV,Premium
+U01093,2025-03-26,Canada,Aero Sedan,Performance
+U01798,2025-03-27,United States,Aero SUV,Standard
+U00171,2025-03-28,Germany,Aero SUV,Standard
+U02645,2025-03-28,Japan,Terra Pickup,Premium
+U01521,2025-03-28,Australia,Aero SUV,Standard
+U02290,2025-03-29,Germany,Metro Compact,Standard
+U00557,2025-03-29,United States,Aero Sedan,Standard
+U03339,2025-03-29,Norway,Aero Sedan,Premium
+U03315,2025-03-29,United Kingdom,Aero SUV,Premium
+U03011,2025-03-30,France,Aero SUV,Premium
+U00077,2025-03-31,France,,Premium
+U02550,2025-03-31,United Kingdom,Metro Compact,Standard
+U00910,2025-04-01,United States,Aero Sedan,Standard
+U01796,2025-04-01,United Kingdom,Aero SUV,Premium
+U00823,2025-04-01,Japan,Aero Sedan,Premium
+U02595,2025-04-02,Norway,Aero SUV,Premium
+U00398,2025-04-02,Germany,Aero Sedan,Premium
+U01589,2025-04-03,Norway,Aero Sedan,Standard
+U00669,2025-04-03,United Kingdom,Aero SUV,Premium
+U00931,2025-04-03,United States,Aero Sedan,Standard
+U02241,2025-04-04,Canada,Aero Sedan,Performance
+U00319,2025-04-04,Japan,Aero Sedan,Standard
+U02408,2025-04-04,Japan,Metro Compact,Premium
+U00658,2025-04-06,United States,Volt GT,Performance
+U02295,2025-04-06,France,Metro Compact,Standard
+U00700,2025-04-06,United States,Aero SUV,Standard
+U03415,2025-04-06,Canada,Aero Sedan,Performance
+U02732,2025-04-06,United Kingdom,Aero Sedan,
+U01922,2025-04-07,United Kingdom,Volt GT,PREMIUM
+U03244,2025-04-07,United States,Aero Sedan,Premium
+U02079,2025-04-08,Australia,Metro Compact,Standard
+U03468,2025-04-08,United States,Metro Compact,standard
+U00221,2025-04-08,Japan,Metro Compact,Standard
+U00464,2025-04-08,United States,Terra Pickup,Premium
+U01715,2025-04-08,Germany,Metro Compact,Standard
+U00095,2025-04-09,usa,Aero SUV,PERFORMANCE
+U00738,2025-04-09,Australia,Aero Sedan,Premium
+U03111,2025-04-09,Canada,Aero Sedan,Performance
+U01388,2025-04-09,Canada,Aero SUV,Standard
+U00401,2025-04-09,United States,Aero SUV,Standard
+U01553,2025-04-10,United Kingdom,Volt GT,Premium
+U01026,2025-04-10,United Kingdom,Aero Sedan,Premium
+U01871,2025-04-10,United States,Aero SUV,Performance
+U01354,2025-04-11,United States,Metro Compact,Premium
+U03141,11/04/2025,United States,Metro Compact,Standard
+U00068,2025-04-11,United Kingdom,Terra Pickup,Premium
+U00476,2025-04-12,United States,Aero SUV,Standard
+U00919,2025-04-12,United States,Terra Pickup,Premium
+U01671,2025-04-13,Canada,Metro Compact,Standard
+U02373,2025-04-13,United States,Aero SUV,Standard
+U00113,2025-04-13,Japan,Aero SUV,Performance
+U01792,2025-04-15,Germany,Terra Pickup,Premium
+U02294,2025-04-15,United States,Metro Compact,Standard
+U00593,2025-04-15,France,Volt GT,Performance
+U02145,2025-04-16,Japan,Metro Compact,Standard
+U01531,2025-04-16,United States,Aero SUV,Standard
+U02993,17/04/2025,France,Aero Sedan,Premium
+U03258,2025-04-17,Australia,Aero Sedan,PREMIUM
+U03469,2025-04-18,United Kingdom,Aero Sedan,Standard
+U00263,2025-04-18, United States ,Aero SUV,Standard
+U00200,2025-04-18,Germany,Aero SUV,Performance
+U03320,2025-04-19,NO,Aero Sedan,Premium
+U01404,2025-04-19,Australia,Volt GT,Premium
+U00530,2025-04-19,Australia,Metro Compact,Premium
+U01971,2025-04-20,Japan,Terra Pickup,Premium
+U03160,2025-04-20,Deutschland,Volt GT,Premium
+U00044,2025-04-20,United States,Aero Sedan,Premium
+U00731,2025-04-21,Norway,Aero SUV,standard
+U00517,2025-04-22,United States,Terra Pickup,
+U01549,2025-04-22,United States,Volt GT,Performance
+U03025,2025-04-22,Germany,Metro Compact,Standard
+U00507,2025-04-23,United Kingdom,Terra Pickup,Premium
+U01582,2025-04-23,United Kingdom,Aero Sedan,Performance
+U02137,2025-04-23,United States,Aero SUV,Standard
+U03365,2025-04-23,United Kingdom,Metro Compact,Standard
+U02220,2025-04-23,united states,Metro Compact,STANDARD
+U01217,2025-04-23,Germany,,Standard
+U00374,2025-04-23,United States,Volt GT,Premium
+U00184,2025-04-24,United Kingdom,Aero Sedan,Premium
+U02764,2025-04-24,Canada,Aero Sedan,Standard
+U03086,2025-04-25,United States,Volt GT,Performance
+U01895,2025-04-25,Germany,Aero Sedan,Standard
+U00494,2025-04-25,Germany,Metro Compact,Standard
+U00484,2025-04-25,U.S.,Volt GT,Premium
+U02863,2025-04-26,United Kingdom,Metro Compact,Standard
+U00793,2025-04-26,United States,Metro Compact,Standard
+U00277,2025-04-26,Canada,Aero Sedan,Performance
+U00169,2025-04-26,Germany,Aero SUV,Standard
+U00802,2025-04-26,Canada,Volt GT,Performance
+U03361,2025-04-27,United States,Volt GT,Performance
+U01136,2025-04-27,United States,Aero Sedan,Premium
+U00788,2025-04-27,United States,Terra Pickup,Performance
+U00878,2025-04-28,United States,Volt GT,Premium
+U02549,2025-04-28,United States,Aero SUV,Performance
+U01008,2025-04-28,United States,Volt GT,Standard
+U03302,2025-04-28,Japan,Aero SUV,Premium
+U01294,2025-04-29,Norway,Metro Compact,Standard
+U01464,2025-04-29,United States,Terra Pickup,Standard
+U02238,2025-04-29,Japan,Aero SUV,Performance
+U01065,2025-04-29,United States,Terra Pickup,Standard
+U02967,2025-04-29,United States,Aero Sedan,Standard
+U01242,2025-04-29,United States,Terra Pickup,Premium
+U02937,2025-04-30,United Kingdom,Aero Sedan,standard
+U01276,2025-04-30,United States,Aero Sedan,STANDARD
+U01146,2025-04-30,Norway,Aero SUV,Standard
+U02854,2025-04-30,Germany,Metro Compact,Premium
+U01878,2025-04-30,Canada,Aero SUV,Performance
+U00975,2025-04-30,United Kingdom,Volt GT,Premium
+U02434,2025-05-01,United States,Aero Sedan,Premium
+U01076,2025-05-01,United States,Aero Sedan,Standard
+U00752,2025-05-01,united states,Aero Sedan,Premium
+U00702,2025-05-01,FR,Aero SUV,Standard
+U03240,2025-05-01,Germany,Aero Sedan,Premium
+U03438,2025-05-01,United Kingdom,Terra Pickup,Standard
+U02205,2025-05-02,United Kingdom,Metro Compact,Standard
+U02055,2025-05-03,Japan,Volt GT,Performance
+U01263,2025-05-03,Australia,Volt GT,Premium
+U02947,2025-05-03,Canada,Volt GT,Performance
+U03279,2025-05-03,germany,Metro Compact,Standard
+U00694,2025-05-04,france,Aero Sedan,Premium
+U02306,2025-05-04,Canada,Aero Sedan,Standard
+U03019,2025-05-05,United States,Aero Sedan,Premium
+U00033,2025-05-05,Germany,Metro Compact,Standard
+U01847,2025-05-05,Canada,Volt GT,Premium
+U01046,2025-05-06,United States,Metro Compact,Standard
+U02372,2025-05-06,United States,Metro Compact,Standard
+U03449,2025-05-07,Canada,Metro Compact,Premium
+U02128,2025-05-07,Canada,Aero SUV,Standard
+U02169,2025-05-07,Japan,Metro Compact,Standard
+U00316,2025-05-07,Germany,Metro Compact,STANDARD
+U03437,2025-05-08,Australia,Aero Sedan,Performance
+U02807,2025-05-08,Canada,Aero SUV,Performance
+U02884,2025-05-08,canada,Aero Sedan,Standard
+U03354,2025-05-08,Germany,Volt GT,Performance
+U00323,2025-05-08,United Kingdom,Aero Sedan,Standard
+U02409,2025-05-09,United States,Aero SUV,Premium
+U01787,2025-05-09,France,Aero SUV,Premium
+U01288,2025-05-09,Canada,Terra Pickup,Standard
+U00127,2025-05-09,australia,Aero Sedan,Standard
+U01886,2025-05-10,France,Metro Compact,Standard
+U03220,2025-05-10,Germany,Aero SUV,Standard
+U00757,2025-05-10,United States,Metro Compact,Standard
+U03366,2025-05-10,Germany,Metro Compact,Standard
+U01325,2025-05-10,Germany,Terra Pickup,Premium
+U03107,2025-05-11,Australia,Aero Sedan,Standard
+U03156,2025-05-11,Germany,Aero Sedan,Standard
+U03123,2025-05-11,United States,Metro Compact,PREMIUM
+U00147,2025-05-11,Germany,Aero Sedan,Premium
+U03122,2025-05-12,United States,Aero Sedan,Premium
+U01761,2025-05-12,Japan,Aero SUV,Premium
+U00369,2025-05-13,Japan,Terra Pickup,Premium
+U01885,2025-05-13,United States,Aero SUV,Premium
+U00747,13/05/2025,Australia,Aero SUV,Standard
+U02734,14/05/2025,United States,Metro Compact,Standard
+U02587,2025-05-14,United Kingdom,Aero Sedan,Premium
+U01080,2025-05-14,United States,Terra Pickup,Premium
+U00515,2025-05-14,United Kingdom,Aero SUV,Performance
+U01998,2025-05-15,United States,Aero Sedan,Premium
+U02956,2025-05-16,Canada,Aero Sedan,Premium
+U02050,2025-05-16,Germany,Aero Sedan,Premium
+U01717,2025-05-16,Germany,Metro Compact,Standard
+U01102,2025-05-16,Australia,Metro Compact,Standard
+U03446,2025-05-16,France,Metro Compact,Premium
+U03077,2025-05-17,Germany,Aero SUV,Premium
+U02484,2025-05-18,Germany,Aero SUV,Premium
+U00571,2025-05-18,Germany,Aero SUV,Performance
+U03265,2025-05-18,United States,Aero Sedan,Premium
+U02470,2025-05-18,France,Aero Sedan,Premium
+U02283,2025-05-19,Germany,Aero Sedan,Premium
+U02231,2025-05-19,United States,Metro Compact,Premium
+U00588,2025-05-19,Japan,Terra Pickup,Premium
+U02127,2025-05-19,Canada,Aero Sedan,Premium
+U00950,2025-05-19, United States ,Terra Pickup,Premium
+U00891,2025-05-19,United States,Aero SUV,Premium
+U02543,2025-05-19,France,Aero Sedan,Standard
+U03341,2025-05-20,Canada,Volt GT,Premium
+U01993,2025-05-20,United States,Metro Compact,STANDARD
+U00580,2025-05-20,Germany,Aero Sedan,Premium
+U02109,2025-05-21,Germany,Volt GT,Premium
+U00987,2025-05-21,France,Terra Pickup,Performance
+U02680,2025-05-21, Germany,Aero Sedan,Performance
+U00665,2025-05-22,Japan,Metro Compact,Premium
+U00989,2025-05-22,United States,Aero SUV,Standard
+U03422,2025-05-22,France,Metro Compact,Standard
+U02628,2025-05-22,United States,Aero Sedan,Premium
+U01037,2025-05-22,Japan,Aero Sedan,PREMIUM
+U01015,2025-05-23,United States,Metro Compact,Standard
+U02096,2025-05-23,Japan,Aero SUV,Premium
+U00686,2025-05-23,France,Volt GT,Performance
+U01370,2025-05-24,Japan,Metro Compact,Standard
+U02033,2025-05-25,United Kingdom,Aero Sedan,Premium
+U01587,2025-05-25,France,Metro Compact,Standard
+U02250,2025-05-25,Norway,Volt GT,Premium
+U01779,2025-05-26,United States,Terra Pickup,Premium
+U03362,2025-05-26,Australia,Aero SUV,Performance
+U03247,2025-05-26,Japan,Metro Compact,Premium
+U01295,2025-05-26,United States,Aero SUV,Premium
+U00134,2025-05-27,Germany,Aero Sedan,Premium
+U00796,2025-05-27,Germany,Volt GT,Performance
+U00618,2025-05-27,Australia,Aero SUV,premium
+U00656,2025-05-28,United States,Volt GT,Standard
+U01455,2025-05-28,United States,Metro Compact,Premium
+U01727,2025-05-28,United States,Terra Pickup,Standard
+U01499,2025-05-28,Germany,Aero SUV,Performance
+U02088,2025-05-29,United States,Volt GT,Performance
+U01755,2025-05-30,canada,Metro Compact,Standard
+U02610,2025-05-31,JP,Aero Sedan,Standard
+U03336,2025-06-01,United States,Terra Pickup,Premium
+U01703,2025-06-01,United States,Metro Compact,Standard
+U02175,2025-06-01,Great Britain,Terra Pickup,Standard
+U01927,2025-06-01,Norway,Volt GT,Performance
+U02315,2025-06-01,United Kingdom,Metro Compact,Standard
+U03211,2025-06-01,United States,Metro Compact,Standard
+U02784,2025-06-01,United States,Aero Sedan,Standard
+U03291,2025-06-02,Germany,Aero Sedan,Premium
+U02798,2025-06-03,Japan,Aero Sedan,Standard
+U03153,2025-06-03,Japan,Metro Compact,Standard
+U01141,2025-06-03,United States,Aero Sedan,Premium
+U00022,2025-06-04,Australia,Terra Pickup,Premium
+U03239,2025-06-04,France,Aero Sedan,Performance
+U03217,2025-06-04,Canada,Aero SUV,Premium
+U02221,2025-06-04,Canada,Terra Pickup,Standard
+U02776,2025-06-04,Canada,Metro Compact,Premium
+U02087,2025-06-05,United Kingdom,Aero Sedan,Standard
+U02723,2025-06-05,United Kingdom,Aero Sedan,Premium
+U03356,2025-06-06,Germany,Aero SUV,Premium
+U01245,07/06/2025,United States,Terra Pickup,Premium
+U01527,2025-06-07,germany,Volt GT,Performance
+U01281,2025-06-08,United States,Aero Sedan,Standard
+U02393,2025-06-09,United Kingdom,Aero SUV,
+U01924,2025-06-09,United States,Aero Sedan,STANDARD
+U01543,2025-06-10,United States,Aero Sedan,Performance
+U02745,2025-06-10,United States,Volt GT,Premium
+U01243,2025-06-10,France,Terra Pickup,Performance
+U00499,2025-06-10,Germany,Aero SUV,PREMIUM
+U02091,2025-06-11,Germany,Aero SUV,Premium
+U00786,2025-06-11,United States,Terra Pickup,Standard
+U01425,2025-06-11,Germany,Aero Sedan,Standard
+U00097,2025-06-11,Australia,Aero Sedan,Standard
+U00526,2025-06-14,Norway,Aero Sedan,Premium
+U03444,2025-06-14,United Kingdom,Aero SUV,Standard
+U00373,2025-06-14,United States,Aero SUV,Performance
+U03178,2025-06-14,Australia,Volt GT,Premium
+U02375,2025-06-15,United States,Aero SUV,Premium
+U00680,2025-06-15,Australia,Terra Pickup,Premium
+U02929,2025-06-15,Germany,Volt GT,Premium
+U02369,2025-06-16,United States,Volt GT,Premium
+U01028,2025-06-16,Japan,Aero SUV,Premium
+U03335,2025-06-16, Germany,Metro Compact,Premium
+U00315,2025-06-16,Germany,Aero Sedan,
+U00569,2025-06-16,Australia,Terra Pickup,Premium
+U00314,2025-06-17,United States,Aero SUV,Premium
+U01178,2025-06-17,United States,Aero SUV,Performance
+U02523,2025-06-18,United States,Metro Compact,Standard
+U02239,2025-06-18,Australia,Volt GT,Premium
+U02475,2025-06-18,Norway,Aero Sedan,Standard
+U02243,2025-06-18,France,Metro Compact,Standard
+U01554,2025-06-19,United States,Aero SUV,Premium
+U02338,2025-06-19,United Kingdom,Aero SUV,standard
+U01974,2025-06-19,United States,,Standard
+U00166,2025-06-20,Germany,Aero Sedan,Premium
+U01503,2025-06-20,Canada,Metro Compact,Standard
+U00011,2025-06-20,Norway,Metro Compact,Standard
+U01348,2025-06-20,Japan,Metro Compact,Standard
+U00034,2025-06-20,United States,Metro Compact,Premium
+U00932,2025-06-21,Australia,Aero SUV,Standard
+U02839,2025-06-21,United States,Terra Pickup,Premium
+U01627,2025-06-21,Germany,Aero Sedan,Standard
+U00634,2025-06-22,United Kingdom,Aero SUV,Performance
+U00522,2025-06-22,United States,Aero Sedan,Performance
+U03065,2025-06-23,Germany,Aero SUV,Premium
+U01327,2025-06-23,United States,Aero SUV,Premium
+U02479,2025-06-23,United States,Aero Sedan,Standard
+U02020,2025-06-23,United Kingdom,Volt GT,Premium
+U00187,2025-06-23,Germany,Aero Sedan,Premium
+U00288,2025-06-23,United States,Metro Compact,Standard
+U01340,2025-06-24,United States,Volt GT,Standard
+U00249,2025-06-24,United States,Volt GT,performance
+U02546,2025-06-25,Germany,Aero Sedan,Premium
+U02332,2025-06-26,United States,Metro Compact,Standard
+U02850,2025-06-26,Japan,Metro Compact,Premium
+U03140,2025-06-26,Germany,Metro Compact,Standard
+U00385,2025-06-26,Norway,Metro Compact,Premium
+U01362,2025-06-26,Australia,Terra Pickup,Performance
+U00886,2025-06-27,Australia,Aero Sedan,Standard
+U02028,2025-06-27,United States,Volt GT,standard
+U02538,2025-06-27,United States,Aero Sedan,Premium
+U00874,2025-06-27,United States,Metro Compact,Premium
+U01460,2025-06-28,Canada,Aero SUV,Standard
+U01296,28/06/2025,United States,Aero Sedan,Premium
+U01982,2025-06-28,United States,Aero SUV,Premium
+U02253,2025-06-28,Canada,Aero SUV,Premium
+U03030,2025-06-28,United States,Aero SUV,Premium
+U02125,2025-06-28,United States,Terra Pickup,Performance
+U01614,2025-06-28,Norway,Metro Compact,Standard
+U03041,2025-06-29,Australia,Metro Compact,Standard
+U00859,2025-06-29,United Kingdom,Terra Pickup,Standard
+U02905,2025-06-29,usa,Aero SUV,Standard
+U00317,2025-06-29,Germany,Terra Pickup,Premium
+U02851,2025-06-30,France,Aero Sedan,Premium
+U01272,2025-06-30,Germany,Metro Compact,Standard
+U00094,2025-07-01,usa,Volt GT,Performance
+U02692,2025-07-01,United States,Metro Compact,Performance
+U01712,2025-07-02,United States,Metro Compact,Standard
+U02486,2025-07-03,Germany,Aero Sedan,Premium
+U02901,2025-07-03, United States ,Aero Sedan,Standard
+U00379,2025-07-03,United States,Aero Sedan,Standard
+U00734,2025-07-04,France,Aero Sedan,Premium
+U02313,2025-07-04,Japan,Aero Sedan,Standard
+U02790,2025-07-05,Australia,Terra Pickup,Performance
+U02245,2025-07-05,Japan,Aero Sedan,Premium
+U00307,2025-07-05,Japan,Metro Compact,Standard
+U02126,2025-07-05,Japan,Terra Pickup,Premium
+U01214,2025-07-05,Australia,Aero SUV,Premium
+U01424,2025-07-06,Australia,Terra Pickup,Premium
+U00533,2025-07-07,Japan,Aero Sedan,Performance
+U02703,2025-07-07,Great Britain,Terra Pickup,Premium
+U00047,2025-07-07,United Kingdom,Aero Sedan,Premium
+U02249,2025-07-08,Norway,Aero SUV,Premium
+U03196,2025-07-08,United States,Terra Pickup,Standard
+U02075,2025-07-09,Germany,Volt GT,Performance
+U01108,2025-07-09,United States,Volt GT,Performance
+U01300,2025-07-09,Canada,Aero Sedan,Standard
+U03098,2025-07-10,United States,Terra Pickup,Premium
+U03499,2025-07-11,Australia,Aero SUV,Standard
+U02081,2025-07-11,Canada,Aero Sedan,Standard
+U01426,2025-07-11,Germany,Aero SUV,Premium
+U01287,2025-07-11,United States,Aero Sedan,Premium
+U01546,2025-07-11,Norway,Aero SUV,Premium
+U01192,2025-07-12,United States,Terra Pickup,Premium
+U02163,2025-07-12,United Kingdom,Aero SUV,Premium
+U01311,2025-07-12,United Kingdom,Terra Pickup,Performance
+U00547,2025-07-12,United States,,Performance
+U00676,2025-07-12,United Kingdom,Aero SUV,Premium
+U01006,2025-07-12,Germany,Aero SUV,Premium
+U03350,2025-07-12,Norway,Volt GT,Premium
+U02729,2025-07-13,Germany,Aero SUV,
+U02663,2025-07-13,Germany,Aero Sedan,premium
+U03021,2025-07-13,Norway,Metro Compact,Standard
+U02026,13/07/2025,Australia,Aero SUV,Standard
+U02699,2025-07-13,germany,Metro Compact,Standard
+U00276,2025-07-13,United Kingdom,Volt GT,Premium
+U00739,2025-07-13,uk,Metro Compact,Premium
+U00887,2025-07-13,usa,Aero Sedan,Standard
+U00877,2025-07-14,Canada,Aero SUV,Performance
+U01171,2025-07-14,United States,Terra Pickup,Premium
+U00847,2025-07-14,Canada,Aero SUV,Premium
+U02657,2025-07-14,Germany,Aero Sedan,Premium
+U01690,2025-07-14,United Kingdom,Volt GT,Premium
+U00833,2025-07-15,United States,Metro Compact,Standard
+U01625,2025-07-15,United Kingdom,Aero Sedan,Performance
+U02566,2025-07-15,Australia,Aero SUV,Standard
+U02662,2025-07-16,United Kingdom,Volt GT,Premium
+U01730,2025-07-16,United States,Aero Sedan,Premium
+U00660,2025-07-16,United States,Aero SUV,Standard
+U01400,2025-07-17,France,Volt GT,Performance
+U00220,2025-07-17,Germany,Metro Compact,Standard
+U01273,2025-07-17,United States,Terra Pickup,Standard
+U01659,2025-07-18,Germany,Aero SUV,Standard
+U00584,2025-07-18,United States,Volt GT,Performance
+U02673,2025-07-18,germany,Terra Pickup,Premium
+U01187,2025-07-18,United States,Aero Sedan,Standard
+U01070,2025-07-19,United Kingdom,Terra Pickup,Premium
+U01067,2025-07-19,Canada,Metro Compact,Standard
+U01262,2025-07-20,United Kingdom,Metro Compact,Standard
+U00978,2025-07-20,usa,Terra Pickup,Performance
+U01583,2025-07-21,Germany,Aero SUV,Premium
+U02492,2025-07-21,Japan,Terra Pickup,PREMIUM
+U01656,2025-07-21,United States,Metro Compact,Standard
+U00651,2025-07-21,united states,Volt GT,Premium
+U02878,2025-07-21,Australia,Terra Pickup,Premium
+U02590,2025-07-22,Canada,Metro Compact,Premium
+U01030,2025-07-22,United Kingdom,Aero SUV,Premium
+U01637,2025-07-22,United States,Aero Sedan,Premium
+U03424,2025-07-22,United Kingdom,Aero Sedan,Performance
+U02323,22/07/2025,Canada,Metro Compact,Standard
+U01594,2025-07-22,Germany,Aero Sedan,Premium
+U02448,2025-07-23,Japan,Aero SUV,Premium
+U00471,2025-07-23,Norway,Metro Compact,Standard
+U01373,2025-07-24,Canada,Metro Compact,Standard
+U00933,24/07/2025,France,Metro Compact,Premium
+U00082,2025-07-25,France,Volt GT,Performance
+U01571,2025-07-26,United States,Aero SUV,Premium
+U03327,26/07/2025,United States,Aero Sedan,Standard
+U02598,2025-07-26,United Kingdom,Aero Sedan,Standard
+U00072,2025-07-27,United States,Metro Compact,Standard
+U00670,2025-07-27,Germany,Aero SUV,Premium
+U01038,2025-07-27,Australia,Aero SUV,Standard
+U00844,2025-07-27,United States,Aero SUV,Standard
+U01883,2025-07-27,France,Aero SUV,Premium
+U01282,2025-07-28,Norway,Aero SUV,premium
+U00881,2025-07-28,United Kingdom,Aero Sedan,Premium
+U01809,2025-07-28,United States,Terra Pickup,Premium
+U03474,2025-07-28,Norway,Volt GT,Performance
+U00481,2025-07-28,United States,Aero SUV,Premium
+U02724,2025-07-29,United States,Aero Sedan,Standard
+U03067,2025-07-29,United Kingdom,Aero Sedan,Premium
+U02867,2025-07-29,Germany,Metro Compact,Standard
+U01630,2025-07-29,Norway,Terra Pickup,PERFORMANCE
+U01096,2025-07-29,Norway,Terra Pickup,Standard
+U02601,2025-07-30,United Kingdom,Aero SUV,Standard
+U00626,2025-07-30,United States,Metro Compact,Standard
+U00480,2025-07-31,japan,Terra Pickup,Premium
+U00248,2025-07-31,Australia,Metro Compact,Premium
+U01636,2025-07-31,United Kingdom,Aero Sedan,Premium
+U01708,2025-07-31,Australia,Metro Compact,Standard
+U01849,2025-07-31,Japan,Volt GT,performance
+U00944,2025-08-01,Australia,Aero SUV,Standard
+U02177,2025-08-01,United States,Aero Sedan,Standard
+U00792,2025-08-02,United States,Aero SUV,Premium
+U02159,2025-08-02,United States,Aero Sedan,Performance
+U02015,2025-08-02,United States,Terra Pickup,Premium
+U02861,2025-08-02,Germany,Metro Compact,Standard
+U01943,2025-08-02,France,Metro Compact,Standard
+U02865,2025-08-03,Australia,Metro Compact,STANDARD
+U00124,2025-08-03,FR,Terra Pickup,Premium
+U02223,2025-08-04,United States,Aero Sedan,Standard
+U03206,2025-08-04,United Kingdom,Aero SUV,Premium
+U00286,2025-08-04,Australia,Terra Pickup,Performance
+U00740,2025-08-04,Japan,Aero Sedan,Standard
+U01145,2025-08-04,United States,Aero SUV,Premium
+U01962,2025-08-05,usa,Aero Sedan,Premium
+U02413,2025-08-05,United Kingdom,Aero Sedan,Standard
+U00312,2025-08-05,United States,Aero Sedan,Premium
+U01349,2025-08-05,United States,Metro Compact,Standard
+U02171,2025-08-05,Japan,Metro Compact,Standard
+U01210,2025-08-06,Germany,Terra Pickup,Premium
+U02946,2025-08-06,United States,Metro Compact,Standard
+U02368,2025-08-06,Canada,Volt GT,Performance
+U00366,2025-08-06,Germany,Metro Compact,Standard
+U00486,2025-08-06,United States,Volt GT,Premium
+U02512,2025-08-07,Canada,Aero Sedan,Premium
+U00232,2025-08-07,Australia,Aero Sedan,Standard
+U01035,2025-08-07,United Kingdom,Metro Compact,Standard
+U00839,2025-08-07,United Kingdom,Volt GT,Performance
+U00687,2025-08-08,United States,Aero SUV,Performance
+U02900,2025-08-08,France,Terra Pickup,Standard
+U02281,2025-08-08,Norway,Terra Pickup,Standard
+U02652,2025-08-08,Canada,Volt GT,Performance
+U01481,2025-08-09,Australia,Metro Compact,Standard
+U02034,2025-08-09,Germany,Terra Pickup,Premium
+U03288,2025-08-09,Canada,Terra Pickup,Standard
+U01112,2025-08-10,United States,Aero Sedan,Premium
+U01238,2025-08-10,United States,Aero SUV,Performance
+U02626,2025-08-10,United States,Aero SUV,Standard
+U01125,2025-08-11,United States,Terra Pickup,Premium
+U02065,2025-08-11, Norway,Metro Compact,Standard
+U01504,12/08/2025,USA,Aero SUV,Performance
+U01138,2025-08-12,Japan,Metro Compact,Premium
+U02164,2025-08-12,United States,Aero SUV,Premium
+U01347,2025-08-12,United States,Aero SUV,Premium
+U03376,2025-08-12,United Kingdom,Volt GT,Premium
+U02355,2025-08-13,united states,Aero SUV,Performance
+U00250,2025-08-13,United States,Aero SUV,Standard
+U02168,2025-08-13,Australia,Metro Compact,Standard
+U03131,2025-08-14,Japan,Terra Pickup,Standard
+U02335,2025-08-15,United Kingdom,Aero SUV,Standard
+U01495,2025-08-15,United Kingdom,Aero SUV,Standard
+U00477,2025-08-15,United States,Aero Sedan,
+U02260,2025-08-16,United States,Aero Sedan,Premium
+U01380,16/08/2025,Deutschland,Aero Sedan,premium
+U02636,2025-08-16,United States,Metro Compact,Premium
+U01609,2025-08-17,United Kingdom,Aero Sedan,Standard
+U00748,2025-08-18,United States,Aero SUV,Premium
+U01381,2025-08-18,United States,Aero SUV,Premium
+U02852,2025-08-18,Australia,Aero SUV,Performance
+U02308,2025-08-18,France,Terra Pickup,Performance
+U00497,2025-08-18,United States,Aero Sedan,Standard
+U01283,2025-08-18,Australia,Aero Sedan,Premium
+U01610,2025-08-19,France,Metro Compact,Standard
+U03476,2025-08-19,United States,Metro Compact,Premium
+U00119,2025-08-19,Germany,Aero Sedan,Performance
+U01838,2025-08-19,Japan,Volt GT,Performance
+U02858,2025-08-19,Norway,Aero SUV,Standard
+U03290,2025-08-20,France,Metro Compact,Standard
+U02842,2025-08-20,Australia,Metro Compact,Standard
+U00722,2025-08-20,United States,Terra Pickup,Premium
+U00550,2025-08-21,Canada,Metro Compact,Standard
+U02142,2025-08-21,France,Terra Pickup,Premium
+U03322,2025-08-21,Norway,Aero SUV,Performance
+U01467,2025-08-21,germany,Aero Sedan,Premium
+U00962,2025-08-21,Germany,Aero Sedan,Premium
+U02819,2025-08-21,United Kingdom,Aero Sedan,Premium
+U00177,2025-08-22,Germany,Metro Compact,Standard
+U00070,2025-08-23,United States,Aero SUV,Performance
+U01477,2025-08-23,Germany,Volt GT,Premium
+U01159,2025-08-23,United Kingdom,Aero Sedan,Standard
+U02305,2025-08-23,United Kingdom,Metro Compact,Standard
+U00041,2025-08-24,Australia,Aero SUV,Performance
+U01458,2025-08-24,United States,Terra Pickup,standard
+U02439,2025-08-24,Japan,Aero SUV,Premium
+U02542,2025-08-24,United States,Terra Pickup,Premium
+U00378,2025-08-24,Norway,Terra Pickup,Premium
+U02843,2025-08-25,Australia,Metro Compact,Standard
+U00996,2025-08-25,Germany,Aero Sedan,Premium
+U00149,2025-08-25,United States,Aero SUV,Standard
+U01552,2025-08-25,Germany,Aero SUV,Standard
+U00709,2025-08-25,Germany,Aero Sedan,Premium
+U00002,2025-08-25,United Kingdom,Terra Pickup,Standard
+U01039,2025-08-26,United States,Metro Compact,Premium
+U01930,2025-08-26,Japan,Aero Sedan,Premium
+U01872,2025-08-26,Norway,Terra Pickup,Standard
+U03389,2025-08-26,Japan,Metro Compact,Standard
+U00610,26/08/2025,United Kingdom,Terra Pickup,Standard
+U03231,2025-08-26,France,Aero SUV,Premium
+U03471,2025-08-26,France,Aero Sedan,Premium
+U01812,2025-08-27,United States,Terra Pickup,Premium
+U02014,27/08/2025,Germany,Aero Sedan,Premium
+U03370,2025-08-27,United Kingdom,Terra Pickup,Performance
+U03062,2025-08-28,Germany,Aero Sedan,Standard
+U03481,2025-08-28,Norway,Terra Pickup,Premium
+U01678,2025-08-28,United States,Aero SUV,Performance
+U00400,2025-08-29,United States,Volt GT,Premium
+U02208,2025-08-29,France,Aero Sedan,Standard
+U01907,2025-08-29,Germany,Aero Sedan,Premium
+U00015,2025-08-30,Australia,Aero Sedan,Performance
+U01073,2025-08-30,United States,Aero Sedan,Standard
+U01906,2025-08-31,Canada,Aero Sedan,Premium
+U02586,31/08/2025,France,Terra Pickup,Premium
+U02767,2025-08-31,United States,Aero Sedan,Premium
+U01401,2025-08-31,United Kingdom,Aero SUV,Standard
+U02047,2025-08-31,Norway,Aero Sedan,Premium
+U01430,2025-09-01,United States,Aero SUV,PERFORMANCE
+U03066,2025-09-01,Canada,Terra Pickup,Premium
+U01890,2025-09-01,Norway,Metro Compact,Premium
+U00093,2025-09-01,France,Volt GT,Performance
+U02471,2025-09-01,Germany,Aero SUV,Standard
+U02002,2025-09-01,Great Britain,Aero Sedan,Standard
+U01778,2025-09-02,Canada,Volt GT,Performance
+U02672,2025-09-02,Germany,Terra Pickup,Standard
+U01808,2025-09-02,United States,Volt GT,Performance
+U03472,2025-09-02,Germany,Aero SUV,Standard
+U03044,2025-09-02,United Kingdom,Aero SUV,Standard
+U00546,2025-09-03,United States,Aero Sedan,Premium
+U03070,2025-09-03,Australia,Metro Compact,Premium
+U00592,2025-09-03,Canada,Terra Pickup,Standard
+U02072,2025-09-03,United States,Aero Sedan,Performance
+U01540,2025-09-03,Canada,Aero Sedan,Premium
+U02161,2025-09-03,Germany,Aero Sedan,Performance
+U01020,2025-09-04,United States,Aero SUV,Premium
+U00107,2025-09-04,United States,Aero SUV,Premium
+U01750,2025-09-04,france,Aero SUV,Premium
+U01191,2025-09-04,Germany,,Standard
+U00010,2025-09-05,United States,Aero SUV,Premium
+U00945,2025-09-05,United States,Aero SUV,Standard
+U01833,2025-09-05,United States,Metro Compact,Standard
+U01289,2025-09-06,United States,Aero Sedan,Premium
+U02832,2025-09-06,Norway,Aero Sedan,Premium
+U03115,2025-09-06,Norway,Metro Compact,Premium
+U02589,2025-09-06,Germany,Volt GT,Performance
+U03461,2025-09-06,Germany,Terra Pickup,Performance
+U02053,2025-09-07,Germany,Terra Pickup,Premium
+U02222,2025-09-07,United States,Aero Sedan,Standard
+U02655,2025-09-07,Germany,Terra Pickup,Performance
+U03088,2025-09-08,Norway,Volt GT,Performance
+U00253,2025-09-08,germany,Terra Pickup,Premium
+U00684,2025-09-08,United Kingdom,Terra Pickup,Performance
+U00783,2025-09-09,Japan,Aero SUV,Premium
+U01942,2025-09-09,France,Metro Compact,Standard
+U00729,2025-09-09,United Kingdom,Aero SUV,Premium
+U00396,2025-09-09,Japan,Terra Pickup,Performance
+U03124,2025-09-09,Germany,Metro Compact,Performance
+U03379,2025-09-09,Japan,Aero SUV,Premium
+U02915,2025-09-10,United Kingdom,Aero Sedan,Standard
+U00111,2025-09-10,Japan,Terra Pickup,Standard
+U02212,2025-09-10,United Kingdom,Aero Sedan,Standard
+U02025,2025-09-11,United States,Aero SUV,
+U02603,2025-09-11,France,Aero SUV,Premium
+U01090,2025-09-11,Australia,Metro Compact,Standard
+U01423,2025-09-11,United States,Aero SUV,Premium
+U02860,2025-09-12,Germany,Aero SUV,Standard
+U02263,2025-09-12,Canada,Aero SUV,Premium
+U02872,2025-09-12,United States,Volt GT,Performance
+U01002,2025-09-12,Germany,Terra Pickup,Premium
+U00458,2025-09-13,Norway,Volt GT,Performance
+U00057,13/09/2025,United Kingdom,Terra Pickup,Standard
+U00399,2025-09-13,United States,Terra Pickup,Standard
+U02736,2025-09-14,United States,Aero SUV,standard
+U01508,2025-09-14,Japan,Aero Sedan,Performance
+U01365,2025-09-15,Japan,Aero SUV,Premium
+U01566,2025-09-15,United Kingdom,Aero Sedan,Premium
+U01010,2025-09-15,Deutschland,Aero SUV,Premium
+U00760,2025-09-15,United States,Aero SUV,Standard
+U01137,2025-09-15,Germany,Aero SUV,Premium
+U03047,2025-09-15,United States,Aero SUV,Performance
+U02371,2025-09-16,Japan,Terra Pickup,Performance
+U00306,2025-09-16,United States,Aero Sedan,Premium
+U01291,2025-09-16,United Kingdom,Volt GT,Performance
+U00088,2025-09-16,United Kingdom,Aero Sedan,Performance
+U02511,2025-09-16,Canada,Aero SUV,Premium
+U02833,2025-09-16,United Kingdom,Aero SUV,Premium
+U01977,2025-09-17,United States,Metro Compact,Standard
+U02559,2025-09-17,France,Aero SUV,Premium
+U01358,2025-09-17,Japan,Metro Compact,Standard
+U01646,2025-09-17,France,Aero Sedan,Standard
+U01177,2025-09-18,United States,Aero SUV,Standard
+U00624,2025-09-18,Germany,Metro Compact,Standard
+U02637,2025-09-18,Norway,Aero SUV,Standard
+U00977,2025-09-18,UK,Volt GT,Premium
+U01322,2025-09-19,United States,Aero SUV,Premium
+U03095,2025-09-19, Norway,Terra Pickup,Premium
+U02827,2025-09-19,France,Terra Pickup,Performance
+U00355,2025-09-19,Japan,Aero Sedan,Performance
+U00027,2025-09-20,United States,Aero SUV,Performance
+U02090,2025-09-20,Japan,Aero Sedan,Premium
+U00237,2025-09-21,United States,Aero Sedan,Premium
+U00884,2025-09-21,Germany,Aero SUV,Premium
+U01780,2025-09-21,CA,Aero Sedan,Premium
+U02670,2025-09-21,Canada,Terra Pickup,Standard
+U01643,2025-09-21,United States,Metro Compact,Premium
+U01545,2025-09-21,United States,Aero Sedan,Standard
+U00551,2025-09-22,Norway,Terra Pickup,Standard
+U02971,2025-09-22,Germany,Aero SUV,Premium
+U00901,2025-09-22,France,Aero Sedan,premium
+U00984,2025-09-22,United States,Terra Pickup,Premium
+U01831,2025-09-22,Canada,Metro Compact,Standard
+U01488,2025-09-22,United States,Metro Compact,Standard
+U02706,2025-09-22,Japan,Metro Compact,Standard
+U00035,2025-09-23,Canada,Metro Compact,Standard
+U01227,2025-09-23,France,Aero SUV,Premium
+U00856,2025-09-23,Canada,,Premium
+U00062,2025-09-24,United Kingdom,Metro Compact,Standard
+U01969,2025-09-25,United Kingdom,Terra Pickup,Standard
+U02674,2025-09-25,Germany,Aero SUV,Premium
+U02936,2025-09-25,Germany,Aero Sedan,Premium
+U02677,2025-09-25,Canada,Aero SUV,Premium
+U03250,2025-09-25,Canada,Terra Pickup,Premium
+U01818,2025-09-25,Australia,Volt GT,Performance
+U02303,2025-09-25,Canada,Aero Sedan,Standard
+U02996,2025-09-26,United States,Aero Sedan,Premium
+U01013,2025-09-26,Australia,Aero SUV,Premium
+U00145,2025-09-26,United States,Terra Pickup,Premium
+U00487,2025-09-27,United States,Aero Sedan,Standard
+U01705,2025-09-27,United States,Aero Sedan,Premium
+U00472,2025-09-27,United States,Volt GT,Performance
+U03023,2025-09-27,United States,Aero Sedan,Premium
+U02058,2025-09-27,Germany,Terra Pickup,Standard
+U01937,2025-09-28,france,Metro Compact,Standard
+U00038,2025-09-28,United Kingdom,Volt GT,Performance
+U01490,2025-09-28,United States,Aero SUV,Premium
+U01995,2025-09-28,Australia,Aero Sedan,Premium
+U03264,2025-09-29,Japan,Aero Sedan,Standard
+U00710,2025-09-29,United States,Aero SUV,Standard
+U01228,2025-09-29,United States,Metro Compact,Standard
+U01749,2025-09-29,United States,Volt GT,Performance
+U00601,2025-09-30,United States,Terra Pickup,Performance
+U01480,2025-09-30,Australia,Volt GT,Performance
+U00311,2025-09-30,UK,Aero Sedan,Premium
+U01569,2025-09-30,United States,Aero SUV,Standard
+U02363,2025-09-30,Japan,Aero SUV,Standard
+U01923,2025-09-30,France,Metro Compact,Standard
+U01528,2025-10-01,Germany,Aero SUV,Premium
+U03299,2025-10-01,United Kingdom,Aero SUV,Standard
+U00384,2025-10-02,Germany,Metro Compact,Premium
+U00754,2025-10-02,United Kingdom,Terra Pickup,Standard
+U01631,2025-10-02,United States,Aero SUV,
+U02056,2025-10-02,Australia,Terra Pickup,Premium
+U03358,2025-10-03,Germany,Aero SUV,Premium
+U02445,2025-10-03,United States,Aero SUV,Premium
+U01828,2025-10-03,Australia,Terra Pickup,Standard
+U00904,2025-10-03,USA,Aero SUV,Standard
+U01536,2025-10-03,United States,Aero Sedan,Performance
+U01089,2025-10-03,japan,Aero Sedan,Standard
+U00322,2025-10-03,Japan,Metro Compact,Standard
+U00966,2025-10-04, United States ,Volt GT,Performance
+U00573,2025-10-04,Germany,Metro Compact,Premium
+U02214,2025-10-04,Japan,Metro Compact,Standard
+U00138,2025-10-04,United States,Aero Sedan,Performance
+U01343,2025-10-04,United States,Aero SUV,Premium
+U03277,2025-10-05,Germany,Volt GT,Performance
+U03230,2025-10-05,UK,Aero Sedan,Performance
+U01422,2025-10-05,United States,Terra Pickup,Premium
+U02304,07/10/2025,United Kingdom,Aero SUV,Standard
+U03295,2025-10-08,Japan,,Standard
+U02415,2025-10-08,United States,Terra Pickup,Standard
+U01208,2025-10-08,Germany,Aero Sedan,Standard
+U01479,2025-10-08,France,Aero Sedan,Standard
+U00141,2025-10-08,United States,Aero Sedan,Premium
+U02007,2025-10-10,USA,Metro Compact,Premium
+U00222,2025-10-10,united kingdom ,Metro Compact,Standard
+U02357,2025-10-10,United Kingdom,Terra Pickup,Standard
+U03254,2025-10-10,Australia,Aero Sedan,Standard
+U00622,2025-10-11,France,Volt GT,Performance
+U00746,2025-10-11,United States,Aero SUV,Premium
+U01078,2025-10-11,United States,Aero Sedan,Standard
+U00558,2025-10-11,Norway,Aero Sedan,Standard
+U03294,2025-10-12,United Kingdom,Aero Sedan,Premium
+U02665,2025-10-12,Australia,Metro Compact,Standard
+U00142,2025-10-12,United States,Aero SUV,Performance
+U01149,12/10/2025,United States,Volt GT,Premium
+U03183,2025-10-12,United Kingdom,Metro Compact,Standard
+U00959,2025-10-12,United States,Metro Compact,Premium
+U02802,2025-10-13,UK,Aero SUV,Performance
+U00359,2025-10-13,canada,Aero Sedan,Premium
+U01822,2025-10-13,Japan,Aero Sedan,Premium
+U00560,2025-10-14,France,Terra Pickup,Standard
+U01830,2025-10-14,Germany,Terra Pickup,Premium
+U01270,2025-10-14,Canada,Aero Sedan,Standard
+U02613,2025-10-14,U.S.,Aero SUV,Standard
+U00509,2025-10-15,United States,Aero SUV,Premium
+U01921,2025-10-15,Germany,Aero Sedan,Standard
+U01570,2025-10-15,United Kingdom,Volt GT,Performance
+U02098,2025-10-15,Germany,Aero Sedan,Premium
+U02616,2025-10-15,Canada,Aero Sedan,Premium
+U00126,2025-10-15,United Kingdom,Terra Pickup,Premium
+U03056,2025-10-16,Germany,Metro Compact,Standard
+U00907,2025-10-16,Australia,Aero SUV,Premium
+U01725,2025-10-16,United Kingdom,Aero SUV,Standard
+U03355,2025-10-16,United States,Aero Sedan,Standard
+U00678,2025-10-17,Norway,Terra Pickup,
+U02319,2025-10-17,Germany,Volt GT,Premium
+U02749,2025-10-17,Japan,Volt GT,Performance
+U01332,2025-10-17,United States,Aero SUV,Standard
+U02632,2025-10-17,Japan,Terra Pickup,Premium
+U03298,2025-10-17,United States,Aero Sedan,Premium
+U01321,2025-10-17,CA,Metro Compact,Premium
+U03490,2025-10-18,United States,Aero SUV,Standard
+U01474,2025-10-18,Australia,Metro Compact,Standard
+U01558,2025-10-18,United Kingdom,Volt GT,PERFORMANCE
+U02330,2025-10-18,France,Aero SUV,Standard
+U02500,2025-10-19,France,,Standard
+U01269,2025-10-19,USA,Volt GT,Standard
+U00581,2025-10-19,Germany,Aero Sedan,Premium
+U02552,2025-10-19,United Kingdom,Metro Compact,Premium
+U01819,2025-10-19,Germany,Volt GT,Performance
+U01853,2025-10-20,Japan,Metro Compact,Standard
+U02358,2025-10-20,United Kingdom,Aero SUV,Standard
+U00203,2025-10-21,United Kingdom,Metro Compact,Standard
+U02676,2025-10-21,Norway,Metro Compact,Standard
+U01127,2025-10-21,France,Aero Sedan,Standard
+U00090,2025-10-21,United States,Aero Sedan,Premium
+U01687,2025-10-22,United States,Volt GT,Standard
+U02067,2025-10-22,Japan,Aero Sedan,Premium
+U02170,2025-10-22,France,Aero Sedan,performance
+U02173,2025-10-22,Germany,Metro Compact,Standard
+U02063,2025-10-23,United States,Aero Sedan,Premium
+U00504,2025-10-23,U.S.,Aero Sedan,Performance
+U02717,2025-10-23,United Kingdom,Aero Sedan,Performance
+U03345,2025-10-23,Japan,Aero Sedan,Premium
+U01175,2025-10-24,Japan,Metro Compact,Standard
+U00438,2025-10-24,Japan,Aero Sedan,Premium
+U00278,2025-10-24,United States,Aero SUV,Premium
+U02135,2025-10-24,United States,Metro Compact,Standard
+U02481,2025-10-24,United Kingdom,Terra Pickup,Standard
+U02070,2025-10-24,Australia,Aero Sedan,Premium
+U00576,2025-10-24,Germany,Terra Pickup,Standard
+U01688,2025-10-25,United Kingdom,Aero Sedan,Standard
+U01881,2025-10-25,United States,Aero SUV,Premium
+U01506,2025-10-25,Germany,Aero Sedan,Standard
+U03409,2025-10-25,Norway,Aero SUV,PREMIUM
+U00210,2025-10-25,Canada,Aero SUV,Premium
+U02975,2025-10-25,United States,Aero SUV,Premium
+U03329,2025-10-26,Japan,Aero Sedan,Premium
+U02541,2025-10-26,Germany,Terra Pickup,Performance
+U00809,2025-10-26,Norway,Terra Pickup,Standard
+U03180,2025-10-26,Germany,Aero SUV,Standard
+U03375,2025-10-26,United States,Aero SUV,Premium
+U01476,2025-10-27, Germany,Aero Sedan,Standard
+U00745,2025-10-27,Canada,Volt GT,PERFORMANCE
+U02268,2025-10-27,Japan,,Standard
+U00470,2025-10-27,United States,Aero SUV,Premium
+U02540,2025-10-28,Germany,Metro Compact,Performance
+U01033,2025-10-28,Japan,Aero SUV,Standard
+U01970,2025-10-29,usa,Aero SUV,Standard
+U02690,2025-10-30,Japan,Metro Compact,Premium
+U03413,2025-10-30,Japan,Metro Compact,Premium
+U02721,2025-10-31,Germany,Volt GT,Performance
+U00721,2025-10-31,United States,Metro Compact,Standard
+U02198,2025-10-31,Australia,Aero Sedan,Premium
+U00500,2025-10-31,usa,Metro Compact,Premium
+U02778,2025-11-01,Japan,Aero SUV,Performance
+U00304,2025-11-01,United States,Aero Sedan,Standard
+U00840,2025-11-02,France,Aero Sedan,Standard
+U00172,2025-11-02,JP,Aero SUV,Premium
+U00648,2025-11-02,Canada,Aero Sedan,Standard
+U02032,2025-11-02,France,Terra Pickup,Premium
+U01827,2025-11-03,Japan,Aero SUV,Premium
+U01438,2025-11-03,Canada,Volt GT,Performance
+U02564,2025-11-03,Germany,Aero SUV,Performance
+U03407,2025-11-03,Canada,Volt GT,Performance
+U00730,2025-11-03,United States,Metro Compact,Premium
+U01132,2025-11-03,Germany,Terra Pickup,premium
+U00860,2025-11-04,Canada,Volt GT,Premium
+U00958,2025-11-04,United Kingdom,Aero Sedan,Standard
+U01622,2025-11-05,United States,Aero SUV,Premium
+U03233,2025-11-05,Australia,Aero Sedan,Premium
+U02955,2025-11-05,Japan,Aero SUV,Standard
+U00183,2025-11-05,Germany,Aero SUV,Performance
+U02000,2025-11-06,United States,Aero SUV,Standard
+U02111,2025-11-06,United States,Terra Pickup,premium
+U02474,2025-11-06,Norway,Metro Compact,Premium
+U01475,2025-11-06,United Kingdom,Aero Sedan,Standard
+U02635,2025-11-07,Germany,Aero SUV,Standard
+U00843,2025-11-07,United Kingdom,Metro Compact,Standard
+U01357,2025-11-07,Germany,,Standard
+U03340,07/11/2025,Australia,Aero SUV,Premium
+U00148,2025-11-07,Germany,Volt GT,Performance
+U00505,2025-11-07,United Kingdom,Aero SUV,Premium
+U02307,2025-11-08,Canada,Terra Pickup,Performance
+U02256,2025-11-08,Japan,Metro Compact,
+U01366,2025-11-08,United States,Terra Pickup,Premium
+U02370,2025-11-08,United States,Volt GT,Premium
+U02016,2025-11-08,Norway,Terra Pickup,Premium
+U01216,2025-11-08,United States,Metro Compact,Premium
+U01776,2025-11-08,Canada,Metro Compact,Standard
+U00900,2025-11-08,France,Aero Sedan,Performance
+U02496,2025-11-08,Deutschland,Metro Compact,Standard
+U03403,09/11/2025,Canada,Aero SUV,Premium
+U00356,2025-11-09,United States,Aero Sedan,Standard
+U01696,2025-11-09,Norway,Aero Sedan,Standard
+U00289,2025-11-10,Germany,Aero SUV,Standard
+U03337,2025-11-10,United States,Aero SUV,Performance
+U00537,2025-11-11,United States,Aero SUV,Premium
+U02862,2025-11-11,Japan,Aero SUV,Standard
+U02760,2025-11-11,United States,Aero Sedan,Performance
+U01259,2025-11-12,United States,Volt GT,Premium
+U01864,2025-11-12,Australia,Aero SUV,Premium
+U02185,2025-11-12, Germany,Volt GT,Premium
+U02460,2025-11-13,United States,Terra Pickup,Premium
+U02418,2025-11-13,France,Volt GT,Performance
+U02545,2025-11-13,United Kingdom,Aero SUV,Performance
+U01680,2025-11-13,united kingdom ,Aero SUV,Premium
+U01823,2025-11-14,Australia,Aero SUV,Standard
+U01869,2025-11-14,France,Aero Sedan,Premium
+U03426,2025-11-14,United States,Aero Sedan,Premium
+U02879,2025-11-14,United States,Metro Compact,Premium
+U02029,2025-11-15,Norway,Metro Compact,Standard
+U01522,2025-11-15,France,Aero Sedan,Premium
+U00696,2025-11-15,United Kingdom,Aero SUV,Premium
+U00960,2025-11-15,France,Terra Pickup,Standard
+U02738,2025-11-15,Japan,Metro Compact,Standard
+U01024,2025-11-16,australia,Aero Sedan,Standard
+U02076,2025-11-16,United States,Metro Compact,Standard
+U00951,2025-11-16,France,Aero SUV,Performance
+U00582,2025-11-16,United States,Terra Pickup,Premium
+U01739,2025-11-16,Germany,Volt GT,
+U01748,2025-11-16,United States,Terra Pickup,Premium
+U00244,2025-11-16,United Kingdom,Volt GT,performance
+U00328,2025-11-17,Germany,Aero Sedan,Premium
+U02702,2025-11-17,United Kingdom,Metro Compact,Standard
+U00979,2025-11-17,France,Terra Pickup,Premium
+U02136,2025-11-17,Japan,Aero SUV,Premium
+U02509,2025-11-17,France,Aero SUV,Premium
+U02913,2025-11-18,Germany,Terra Pickup,Premium
+U02251,2025-11-18,united states,Aero Sedan,Performance
+U03278,2025-11-18,United Kingdom,Aero Sedan,Premium
+U01155,2025-11-18, Germany,Aero SUV,STANDARD
+U02112,2025-11-18,Canada,Aero Sedan,Standard
+U01397,2025-11-19,United States,Aero SUV,Premium
+U01383,2025-11-19,Japan,Metro Compact,Standard
+U00303,2025-11-20,United States,Terra Pickup,Premium
+U00818,2025-11-20,France,Aero SUV,Standard
+U00324,2025-11-20,United States,Terra Pickup,Premium
+U02414,2025-11-21,United States,Terra Pickup,Performance
+U02240,2025-11-21,Germany,Terra Pickup,Premium
+U00961,2025-11-21,Germany,Metro Compact,Standard
+U01448,2025-11-21,FR,Aero SUV,premium
+U01333,2025-11-21,Japan,Metro Compact,
+U02456,2025-11-22,Japan,Metro Compact,Standard
+U02444,2025-11-23,France,Aero Sedan,Premium
+U00570,2025-11-23,United States,Terra Pickup,Standard
+U02788,2025-11-23,Norway,Aero Sedan,Performance
+U01168,2025-11-23,Germany,Terra Pickup,PERFORMANCE
+U01462,2025-11-24,United States,Aero SUV,Standard
+U00690,2025-11-24,United Kingdom,Aero Sedan,Premium
+U03127,2025-11-25,Japan,Metro Compact,Premium
+U01059,2025-11-25,United States,Aero SUV,Premium
+U02551,2025-11-26,Germany,Terra Pickup,Standard
+U02966,2025-11-26,Australia,Metro Compact,Standard
+U00924,2025-11-26,United States,Aero SUV,Standard
+U01418,2025-11-27,Japan,Terra Pickup,Premium
+U01077,2025-11-28,France,Metro Compact,Standard
+U02575,2025-11-28,France,Metro Compact,Standard
+U01417,2025-11-28,Canada,Terra Pickup,Premium
+U01816,2025-11-29,Germany,Aero Sedan,Premium
+U03089,2025-11-29,Australia,Metro Compact,Standard
+U03313,2025-11-29,Germany,Aero SUV,Premium
+U01879,2025-11-30,United States,Metro Compact,Premium
+U02048,2025-11-30,Japan,Aero Sedan,Standard
+U02994,2025-12-01,United States,Metro Compact,Standard
+U02988,2025-12-01,Japan,Volt GT,PREMIUM
+U02885,2025-12-01,United States,Aero Sedan,Premium
+U03387,2025-12-01,Germany,Aero SUV,Performance
+U00496,2025-12-01,United States,Volt GT,Performance
+U02519,2025-12-01,Canada,Aero Sedan,Premium
+U02354,2025-12-01,United States,Aero SUV,standard
+U01914,2025-12-02,United States,Aero Sedan,Performance
+U01957,2025-12-02,United States,Aero SUV,Standard
+U02883,2025-12-02,Japan,Aero SUV,Standard
+U01533,2025-12-02,United States,Metro Compact,Premium
+U01202,2025-12-03,Germany,Terra Pickup,Premium
+U03475,2025-12-04,United Kingdom,Aero Sedan,Standard
+U02497,2025-12-04,United Kingdom,Metro Compact,Premium
+U01126,2025-12-04,Japan,Aero Sedan,Standard
+U03473,2025-12-04,United States,Volt GT,Standard
+U01573,2025-12-04,Germany,Volt GT,Performance
+U03252,2025-12-05,United States,Terra Pickup,Premium
+U00066,2025-12-05,France,Volt GT,Performance
+U03193,2025-12-05,Australia,Aero Sedan,Standard
+U00611,2025-12-05,Germany,Volt GT,Performance
+U00381,2025-12-05,Canada,Aero Sedan,Standard
+U00832,2025-12-05,Norway,Aero SUV,Performance
+U00920,2025-12-05,United Kingdom,Aero Sedan,Performance
+U01293,2025-12-06,United States,Aero Sedan,Premium
+U00154,2025-12-06,United States,,Standard
+U00969,2025-12-06,norway,Metro Compact,PREMIUM
+U03197,2025-12-06,Germany,Metro Compact,Standard
+U02733,2025-12-06,France,Terra Pickup,Premium
+U00017,2025-12-06,Japan,Aero Sedan,Standard
+U01799,2025-12-06,United States,Metro Compact,Standard
+U01893,2025-12-06,Norway,Volt GT,Performance
+U00165,2025-12-06, United States ,Terra Pickup,standard
+U03246,2025-12-07,United States,Volt GT,Performance
+U02407,2025-12-07,Japan,Aero Sedan,Premium
+U00542,2025-12-07,Canada,Aero Sedan,Standard
+U00629,2025-12-07,France,Metro Compact,Standard
+U00228,2025-12-07,United States,Aero Sedan,Premium
+U02400,2025-12-07,United States,Aero SUV,Premium
+U02277,2025-12-07,Canada,Terra Pickup,Standard
+U00079,2025-12-08,Canada,Metro Compact,Standard
+U03384,2025-12-08,France,Volt GT,Performance
+U02720,2025-12-08,Germany,Metro Compact,
+U01588,2025-12-08,Germany,Aero Sedan,Standard
+U02868,2025-12-08,United States,Volt GT,Premium
+U02816,2025-12-09,United Kingdom,Metro Compact,Standard
+U02572,2025-12-09,United States,Aero SUV,Standard
+U03432,2025-12-09,Canada,Aero SUV,Premium
+U00067,2025-12-10,Australia,Aero SUV,Standard
+U03452,2025-12-10,Norway,Terra Pickup,Premium
+U01880,2025-12-11,France,Aero SUV,Standard
+U03357,2025-12-11,united states,Aero Sedan,Performance
+U02627,2025-12-11,United States,Aero Sedan,Premium
+U03436,2025-12-12,Canada,Terra Pickup,Premium
+U00706,2025-12-12,Canada,Aero SUV,Standard
+U01031,2025-12-12,France,Aero SUV,Premium
+U00717,2025-12-12,Japan,Aero SUV,Performance
+U01213,2025-12-12,Japan,Aero SUV,Standard
+U02265,2025-12-12,Germany,Metro Compact,STANDARD
+U01302,2025-12-13,United States,Aero Sedan,premium
+U01317,2025-12-13,United States,Terra Pickup,premium
+U02933,2025-12-13,United States,Aero SUV,Premium
+U03484,2025-12-13,Canada,Aero SUV,Premium
+U03242,2025-12-13,Germany,Metro Compact,Standard
+U03431,2025-12-13,United States,Metro Compact,PREMIUM
+U02995,2025-12-13,France,Aero Sedan,Premium
+U02522,2025-12-13,Australia,Aero SUV,Premium
+U03480,2025-12-14,Canada,Terra Pickup,Performance
+U01724,2025-12-14,United States,Volt GT,Performance
+U02192,2025-12-14,United States,Aero Sedan,Premium
+U01344,2025-12-14,Germany,Aero Sedan,Premium
+U01218,2025-12-14,United Kingdom,Aero SUV,Premium
+U02658,2025-12-15,United States,Metro Compact,Standard
+U00353,2025-12-15,Germany,Terra Pickup,Premium
+U03259,2025-12-15,Germany,Aero Sedan,Standard
+U02176,2025-12-15,Australia,Terra Pickup,Standard
+U00063,2025-12-15,Australia,Aero Sedan,Premium
+U01328,2025-12-15,Germany,Aero SUV,Standard
+U00490,2025-12-15,Norway,Metro Compact,Premium
+U00836,2025-12-16,United States,Aero Sedan,Standard
+U01201,2025-12-16,Norway,Metro Compact,Standard
+U01572,2025-12-17,Germany,Terra Pickup,Standard
+U02339,2025-12-17,Germany,Aero SUV,Premium
+U01290,2025-12-17,Japan,Aero Sedan,Standard
+U02910,2025-12-17,United States,Terra Pickup,Standard
+U01399,2025-12-17,Australia,Terra Pickup,Standard
+U01797,2025-12-18, Norway,Aero Sedan,Performance
+U00772,2025-12-18,Germany,Metro Compact,Standard
+U00058,2025-12-18,AU,Metro Compact,Standard
+U01446,2025-12-18,France,Metro Compact,Standard
+U01842,2025-12-19,United States,Metro Compact,Premium
+U00864,2025-12-19,Norway,Aero SUV,Premium
+U00285,2025-12-20,United Kingdom,Terra Pickup,
+U00144,2025-12-20,United States,Metro Compact,performance
+U02625,2025-12-20,United States,Volt GT,Performance
+U02446,2025-12-20,United States,Aero Sedan,Premium
+U01618,2025-12-20,Canada,Aero SUV,Premium
+U03024,2025-12-20,United States,Terra Pickup,
+U01963,2025-12-21,United States,Aero SUV,Standard
+U00489,2025-12-21,NO,Metro Compact,Standard
+U02093,2025-12-21,United Kingdom,Metro Compact,Premium
+U00461,2025-12-21,United States,Aero Sedan,Standard
+U00354,2025-12-21,Germany,Aero SUV,Premium
+U02969,2025-12-22, Norway,Metro Compact,Standard
+U02329,2025-12-22,United Kingdom,Metro Compact,Premium
+U02740,2025-12-23,United Kingdom,Aero SUV,Standard
+U02643,2025-12-23,United States,Terra Pickup,Standard
+U02669,2025-12-23,Germany,Terra Pickup,Premium
+U00672,2025-12-23,Canada,Metro Compact,Premium
+U01265,2025-12-25,Germany,Aero SUV,Performance
+U00465,2025-12-26,Germany,Terra Pickup,Premium
+U01313,2025-12-26,United Kingdom,Metro Compact,Premium
+U03293,2025-12-26,Canada,Terra Pickup,Standard
+U01756,2025-12-26,Australia,Aero Sedan,Performance
+U01771,2025-12-27,Norway,Metro Compact,Premium
+U02796,2025-12-27,France,Aero SUV,Standard
+U00114,2025-12-27,Australia,Aero SUV,Standard
+U00880,2025-12-28,United States,Terra Pickup,Standard
+U02331,2025-12-28,Japan,Aero SUV,Premium
+U00212,2025-12-28,Canada,Volt GT,Performance
+U00133,2025-12-28,United Kingdom,Metro Compact,Performance
+U01861,2025-12-29,Japan,Metro Compact,Standard
+U01901,2025-12-29,Japan,Metro Compact,Standard
+U02684,2025-12-29,Japan,Aero Sedan,Standard
+U02675,2025-12-29,Germany,Aero Sedan,Standard
+U01689,2025-12-29,Australia,Metro Compact,Standard
+U02449,2025-12-30,Germany,Aero Sedan,Standard
+U02188,2025-12-31,United States,Aero SUV,Standard
+U00929,2025-12-31,United States,Metro Compact,Standard
+U00814,2025-12-31,France,Aero Sedan,Standard
+U00121,2025-12-31,Japan,Aero Sedan,PREMIUM
+U01274,2025-12-31,Germany,Aero SUV,Premium
+U02536,2026-01-01,Australia,Aero Sedan,Premium
+U03363,2026-01-01,United States,Metro Compact,Standard
+U02450,01/01/2026,Japan,Aero Sedan,Premium
+U02433,2026-01-01,United States,Aero SUV,PREMIUM
+U01095,2026-01-01,United States,Metro Compact,Standard
+U01232,2026-01-01,AU,Metro Compact,Standard
+U00578,2026-01-02,United Kingdom,Metro Compact,Standard
+U02254,2026-01-02,Canada,Volt GT,Premium
+U02437,2026-01-02,United States,Aero Sedan,Standard
+U00559,2026-01-02, Germany,Terra Pickup,
+U00130,2026-01-03,United States,Aero Sedan,Premium
+U02928,2026-01-03,Germany,Metro Compact,Standard
+U03491,2026-01-03,United States,Aero Sedan,Premium
+U00483,2026-01-03,United Kingdom,Aero SUV,Standard
+U00393,2026-01-03,United Kingdom,Metro Compact,Premium
+U02206,2026-01-03,Germany,Terra Pickup,Premium
+U02846,2026-01-03,Japan,Aero SUV,Performance
+U02926,2026-01-04,U.S.,Terra Pickup,Standard
+U03348,2026-01-04, Germany,Aero SUV,Standard
+U01280,2026-01-04,Japan,Aero Sedan,Performance
+U00698,2026-01-05,Australia,Volt GT,premium
+U03214,2026-01-05,Japan,Aero SUV,Premium
+U00135,2026-01-05,United Kingdom,Aero Sedan,Premium
+U00274,2026-01-05,France,Aero Sedan,Premium
+U00659,2026-01-05,Germany,Metro Compact,Standard
+U00773,2026-01-05,France,Metro Compact,Premium
+U00349,2026-01-05,United States,Aero Sedan,Premium
+U03007,2026-01-05,Norway,Aero Sedan,Standard
+U02964,2026-01-06,United States,Terra Pickup,Standard
+U02391,2026-01-06,Norway,Aero SUV,Premium
+U02464,2026-01-06,United States,Metro Compact,Premium
+U02469,2026-01-06,japan,Aero SUV,Standard
+U01483,2026-01-07,United States,Volt GT,Performance
+U02468,2026-01-07,United States,Aero SUV,Standard
+U02030,2026-01-07,France,Metro Compact,Standard
+U00260,2026-01-08,United States,Metro Compact,Premium
+U03272,2026-01-08,United Kingdom,Terra Pickup,standard
+U01338,2026-01-08,United States,Metro Compact,Premium
+U00344,2026-01-08,Japan,Metro Compact,Premium
+U03002,2026-01-08,Germany,Aero SUV,Premium
+U00822,2026-01-08,United Kingdom,Aero SUV,Premium
+U00804,2026-01-08,Germany,Aero Sedan,premium
+U02931,2026-01-08,Germany,Metro Compact,Premium
+U00675,2026-01-09,France,Aero Sedan,Premium
+U02804,2026-01-09,United States,Volt GT,Performance
+U00234,2026-01-09,United Kingdom,Aero Sedan,Performance
+U00827,2026-01-09,USA,Volt GT,Performance
+U02395,09/01/2026,usa,Volt GT,Performance
+U03364,2026-01-10,Germany,Aero SUV,Premium
+U02818,2026-01-10,Canada,Metro Compact,Standard
+U02401,2026-01-10,France,Aero SUV,Standard
+U03440,2026-01-10,usa,Aero Sedan,Performance
+U02195,2026-01-11,Canada,Aero Sedan,Premium
+U02309,2026-01-11,United States,Aero Sedan,Performance
+U01307,2026-01-11,Germany,Aero SUV,Premium
+U03061,2026-01-11,Germany,Terra Pickup,Standard
+U03152,2026-01-11,Norway,Terra Pickup,standard
+U00594,2026-01-11,United States,Volt GT,Performance
+U00360,2026-01-12,United States,Aero SUV,Premium
+U03309,2026-01-12,Germany,Aero SUV,Premium
+U01012,2026-01-12,United Kingdom,Aero SUV,Performance
+U00197,2026-01-12,United States,Metro Compact,Standard
+U01919,2026-01-12,United States,Terra Pickup,Premium
+U00524,2026-01-13,Australia,Metro Compact,Premium
+U00790,2026-01-13,Japan,Aero Sedan,Standard
+U03165,2026-01-13,United States,Metro Compact,Premium
+U00882,2026-01-14,Germany,Metro Compact,Standard
+U01207,2026-01-14,United States,Aero Sedan,Premium
+U02378,2026-01-14,United States,Metro Compact,Standard
+U01824,2026-01-14,United States,Volt GT,Performance
+U02039,2026-01-14,Germany,Aero Sedan,Performance
+U00784,2026-01-15,United States,Aero Sedan,Standard
+U02155,2026-01-15,U.S.,Aero Sedan,Standard
+U03029,2026-01-15,United Kingdom,Terra Pickup,PREMIUM
+U00247,2026-01-15,United States,Terra Pickup,Premium
+U01938,2026-01-15,United States,Metro Compact,Standard
+U02565,2026-01-16,Germany,Aero SUV,Premium
+U03325,2026-01-16,United Kingdom,Metro Compact,Standard
+U03170,2026-01-16,France,Metro Compact,Premium
+U00425,2026-01-18,United States,Volt GT,Premium
+U01905,2026-01-18,United Kingdom,Terra Pickup,Performance
+U00245,2026-01-18,usa,Aero Sedan,Premium
+U01718,2026-01-18,United States,Metro Compact,Standard
+U01585,2026-01-18,Norway,Terra Pickup,Performance
+U02457,2026-01-18,United Kingdom,Metro Compact,Standard
+U02105,2026-01-18,United Kingdom,Volt GT,Premium
+U02984,2026-01-18,Canada,Aero SUV,Standard
+U00976,2026-01-19,japan,Terra Pickup,Standard
+U01346,2026-01-19,United States,Aero SUV,Premium
+U03079,2026-01-20, Norway,Aero SUV,Performance
+U02490,2026-01-20,United Kingdom,Terra Pickup,standard
+U00879,2026-01-20,Australia,Terra Pickup,Premium
+U03494,2026-01-21,United Kingdom,Aero Sedan,Premium
+U02894,2026-01-21,United States,Terra Pickup,Standard
+U00831,2026-01-21,U.S.,Terra Pickup,Premium
+U01072,2026-01-21,Australia,Aero SUV,Performance
+U01801,2026-01-21,United Kingdom,Metro Compact,Standard
+U01932,2026-01-21,Germany,Aero Sedan,Performance
+U02990,2026-01-21,Norway,Aero Sedan,Performance
+U01062,2026-01-21,United States,Aero Sedan,Premium
+U01247,2026-01-21,Germany,Metro Compact,Standard
+U02293,2026-01-21,United States,Aero SUV,Premium
+U00448,2026-01-22,United States,Aero Sedan,Premium
+U03078,2026-01-22,Canada,Metro Compact,Performance
+U00478,2026-01-22,United States,Aero Sedan,Standard
+U02272,2026-01-23,Australia,Volt GT,Premium
+U01432,2026-01-23,JP,Metro Compact,Standard
+U02114,2026-01-23,Japan,Aero Sedan,Premium
+U01562,2026-01-24,United States,Aero Sedan,Premium
+U02019,2026-01-24,United States,Aero SUV,Standard
+U01960,24/01/2026,United States,Aero SUV,Standard
+U02981,2026-01-24,Canada,Aero Sedan,Standard
+U00336,2026-01-24,Germany,Terra Pickup,Standard
+U02671,2026-01-24,Norway,Aero Sedan,Performance
+U02607,2026-01-24,Norway,Aero SUV,Performance
+U03055,2026-01-25,U.S.,Volt GT,Performance
+U01961,2026-01-25,Japan,Aero Sedan,Premium
+U00351,2026-01-26,Germany,Metro Compact,Standard
+U00923,2026-01-26,JP,Volt GT,
+U00450,2026-01-26,United States,Aero Sedan,Standard
+U03314,2026-01-26,United States,Terra Pickup,Premium
+U03057,2026-01-27,Australia,Metro Compact,Standard
+U01452,2026-01-27,Canada,Metro Compact,Standard
+U03037,2026-01-27,United States,Terra Pickup,Premium
+U02561,2026-01-27,japan,Aero SUV,Premium
+U02893,2026-01-27,United States,Metro Compact,Premium
+U01363,2026-01-28,United States,Aero Sedan,Premium
+U00777,2026-01-28,Germany,Metro Compact,Standard
+U01672,2026-01-28,JP,Aero Sedan,Premium
+U01985,2026-01-28,Australia,Aero SUV,Premium
+U00600,2026-01-29,Australia,Aero SUV,Premium
+U02576,2026-01-29,United Kingdom,Aero SUV,Performance
+U01254,2026-01-29,united kingdom ,Volt GT,Performance
+U03467,2026-01-29,United Kingdom,Aero Sedan,premium
+U01113,2026-01-29,Japan,Terra Pickup,Standard
+U02531,2026-01-29,Germany,Aero SUV,Standard
+U01820,2026-01-29,Germany,Terra Pickup,Performance
+U00770,2026-01-29,Canada,Aero SUV,Standard
+U03417,2026-01-29,Germany,Aero Sedan,Standard
+U01800,2026-01-30,U.S.,Aero Sedan,Standard
+U02871,2026-01-30,Australia,Metro Compact,STANDARD
+U00645,2026-01-30,Germany,Aero SUV,Standard
+U00819,2026-01-30,Australia,Terra Pickup,Premium
+U02899,2026-01-31,United Kingdom,Aero SUV,Premium
+U00991,2026-01-31,United Kingdom,Aero SUV,Standard
+U01802,2026-02-01,Japan,Aero Sedan,Premium
+U01064,2026-02-02,France,Volt GT,Premium
+U02455,2026-02-02,Germany,Aero SUV,Performance
+U01449,2026-02-03,Japan,Metro Compact,Standard
+U02248,2026-02-03,Norway,Aero Sedan,Standard
+U02797,2026-02-03,France,Metro Compact,Standard
+U01846,2026-02-03,United States,Aero SUV,Premium
+U00498,2026-02-03,Germany,Aero SUV,Premium
+U02524,2026-02-03,Australia,Aero SUV,Standard
+U01513,2026-02-03,United States,Aero SUV,Performance
+U00120,2026-02-04,Norway,Aero SUV,
+U02271,2026-02-05,France,Metro Compact,Standard
+U03287,2026-02-05,Germany,Terra Pickup,Premium
+U00440,2026-02-06,United States,Terra Pickup,Performance
+U02634,2026-02-06,United States,Aero Sedan,Premium
+U00096,2026-02-06,Norway,Aero Sedan,Premium
+U00020,2026-02-07,Canada,Aero SUV,Performance
+U01773,2026-02-07,France,Aero SUV,Standard
+U02429,2026-02-07,Australia,Aero SUV,Standard
+U02530,2026-02-07,United States,Aero Sedan,standard
+U01498,2026-02-07,Germany,Terra Pickup,Premium
+U00586,2026-02-07,Australia,Aero Sedan,Performance
+U01079,2026-02-08,United Kingdom,Terra Pickup,Premium
+U02043,2026-02-08,United Kingdom,Aero Sedan,Standard
+U03116,2026-02-08,United States,Aero Sedan,Standard
+U00329,2026-02-08,Norway,Aero Sedan,Premium
+U01005,2026-02-08,United States,Volt GT,Performance
+U01284,2026-02-08,United Kingdom,Aero SUV,Premium
+U00598,2026-02-09,Japan,Aero SUV,Premium
+U01379,2026-02-09,Germany,Aero Sedan,Standard
+U00229,2026-02-09,Canada,Metro Compact,Premium
+U00685,2026-02-09,Australia,Metro Compact,Standard
+U01746,2026-02-10,JP,Aero Sedan,Premium
+U00479,2026-02-10,United Kingdom,Aero Sedan,Premium
+U00065,2026-02-10,Norway,Aero Sedan,Premium
+U03040,2026-02-10,canada,Aero SUV,Performance
+U00391,2026-02-11,United States,Aero Sedan,Standard
+U00460,2026-02-11,Germany,Aero SUV,Performance
+U01882,2026-02-11,Canada,Terra Pickup,Premium
+U01704,2026-02-12,Germany,Aero Sedan,Performance
+U02783,2026-02-12,Germany,Aero SUV,Performance
+U01485,12/02/2026,united states,Volt GT,Premium
+U01496,2026-02-12,United States,Aero SUV,Performance
+U00564,2026-02-12,united kingdom ,Aero Sedan,Standard
+U00308,2026-02-13,Japan,Volt GT,Premium
+U01865,2026-02-13,Australia,Metro Compact,Performance
+U01662,2026-02-13,Norway,Aero Sedan,Premium
+U01775,2026-02-13,Germany,Aero SUV,Premium
+U02532,2026-02-13,Germany,Aero SUV,Premium
+U03286,2026-02-13,United Kingdom,Metro Compact,Premium
+U00997,2026-02-13,Germany,Metro Compact,Standard
+U03146,2026-02-13,United States,Terra Pickup,Premium
+U01751,2026-02-14,Germany,Aero SUV,Standard
+U03105,2026-02-15,Canada,Aero SUV,Standard
+U01848,2026-02-15,Canada,Aero SUV,Standard
+U00534,2026-02-15,United Kingdom,Metro Compact,Standard
+U03273,2026-02-15,Germany,Aero SUV,Premium
+U02453,2026-02-15,Germany,Volt GT,Premium
+U02836,2026-02-16,Germany,Metro Compact,Standard
+U02710,2026-02-16,France,Aero SUV,Performance
+U02510,2026-02-16,Australia,Metro Compact,Standard
+U01633,2026-02-16,United States,Metro Compact,Standard
+U01559,2026-02-16,Japan,Aero Sedan,Premium
+U00300,2026-02-16,United States,Aero SUV,Performance
+U03048,2026-02-16,United Kingdom,Aero Sedan,Standard
+U02553,2026-02-17,France,Aero SUV,Standard
+U01931,2026-02-17,DE,Aero SUV,Standard
+U00013,2026-02-17,NO,Metro Compact,Standard
+U01092,2026-02-18,United Kingdom,Metro Compact,Standard
+U03108,2026-02-19,United States,Terra Pickup,Performance
+U01036,2026-02-19,United States,Terra Pickup,Standard
+U01224,2026-02-19,Japan,Terra Pickup,Standard
+U03229,2026-02-20,Canada,Metro Compact,Standard
+U01493,2026-02-20,Canada,Aero Sedan,Performance
+U02280,2026-02-20,United States,Terra Pickup,Premium
+U03368,2026-02-20,United States,Aero Sedan,Premium
+U00492,2026-02-20,Germany,Terra Pickup,PREMIUM
+U03400,2026-02-20,Norway,Volt GT,Performance
+U03195,2026-02-20,germany,Metro Compact,STANDARD
+U03053,2026-02-20,France,Aero SUV,Standard
+U03204,2026-02-21,United States,Aero Sedan,Premium
+U00565,2026-02-21,United States,Aero Sedan,Standard
+U02906,2026-02-21,Canada,Aero SUV,Premium
+U00467,2026-02-21,United Kingdom,Metro Compact,Standard
+U02777,2026-02-21,United States,Metro Compact,Standard
+U02004,2026-02-22,japan,Metro Compact,Premium
+U02972,2026-02-22,Japan,Metro Compact,Premium
+U00412,2026-02-22,Germany,Volt GT,Performance
+U02837,2026-02-22,Germany,Metro Compact,Standard
+U00122,2026-02-22,United States,Metro Compact,Standard
+U01377,2026-02-23,USA,Aero SUV,Premium
+U01162,2026-02-23,Australia,Aero SUV,Premium
+U02021,2026-02-23,Germany,Aero Sedan,Premium
+U00251,2026-02-23,United States,Aero SUV,Premium
+U02761,2026-02-24,Australia,Terra Pickup,Standard
+U01190,2026-02-24,Canada,Volt GT,Performance
+U01129,2026-02-24,United States,Aero SUV,Premium
+U00493,2026-02-24,United States,Volt GT,Performance
+U02593,2026-02-24,Japan,Terra Pickup,Premium
+U00719,2026-02-24,Norway,Volt GT,Performance
+U00699,2026-02-24,United States,Metro Compact,Standard
+U01465,2026-02-24,united states,Aero SUV,Standard
+U00326,2026-02-24,United Kingdom,Aero Sedan,Premium
+U00906,2026-02-24,United Kingdom,Metro Compact,Standard
+U00612,2026-02-25,FR,Volt GT,Performance
+U02230,2026-02-25,United States,Aero Sedan,Premium
+U02977,2026-02-25,France,Aero SUV,Premium
+U02232,26/02/2026,Australia,Volt GT,Premium
+U01897,2026-02-26,United States,Aero Sedan,Standard
+U01198,2026-02-26,Germany,Metro Compact,Standard
+U02569,2026-02-26,United States,Metro Compact,Standard
+U02997,2026-02-26,Germany,Aero Sedan,Standard
+U01043,2026-02-26,Norway,Terra Pickup,Premium
+U03114,2026-02-27,United States,Terra Pickup,Premium
+U00421,2026-02-27, United States ,Metro Compact,Standard
+U02151,2026-02-27,Australia,Aero Sedan,Standard
+U02451,2026-02-27,Germany,Terra Pickup,standard
+U00365,2026-02-28,Norway,Metro Compact,Standard
+U01719,2026-02-28,United States,Aero SUV,Performance
+U03083,2026-03-01,Canada,Metro Compact,Standard
+U01011,2026-03-01,United Kingdom,Terra Pickup,Standard
+U01292,2026-03-01,United States,Terra Pickup,Premium
+U03411,2026-03-01,CA,Aero SUV,Premium
+U03423,2026-03-01,Germany,Aero Sedan,premium
+U00158,2026-03-01,Germany,Terra Pickup,Premium
+U01025,2026-03-02,Canada,Aero Sedan,Performance
+U01917,2026-03-02,USA,Aero SUV,Performance
+U02857,2026-03-02,Germany,Aero SUV,Standard
+U00078,2026-03-03,United States,Terra Pickup,Premium
+U00186,2026-03-03,United States,Aero Sedan,Premium
+U02200,2026-03-04,United States,Aero SUV,Premium
+U00223,2026-03-04,Australia,Aero SUV,Standard
+U01121,2026-03-04,united states,Aero Sedan,Premium
+U01500,2026-03-04,Japan,Metro Compact,Standard
+U00824,2026-03-04,United States,Aero Sedan,Performance
+U01044,2026-03-04,United Kingdom,Aero Sedan,Premium
+U02438,2026-03-05,Germany,Volt GT,Premium
+U03281,2026-03-05,Germany,Aero SUV,Premium
+U00081,2026-03-05,Canada,Volt GT,Performance
+U02649,2026-03-05,Australia,Metro Compact,Standard
+U00054,2026-03-05,United Kingdom,Aero Sedan,Standard
+U02365,06/03/2026,Japan,Volt GT,Performance
+U02609,2026-03-06,Germany,Terra Pickup,Premium
+U00411,06/03/2026,United Kingdom,Volt GT,Performance
+U03360,2026-03-07,United States,Aero SUV,performance
+U02602,2026-03-07,United States,Metro Compact,Standard
+U01042,2026-03-07,United States,Aero Sedan,Standard
+U02935,2026-03-07,United Kingdom,Terra Pickup,Premium
+U01051,2026-03-08,United States,Aero Sedan,Standard
+U01308,2026-03-08,United Kingdom,Aero SUV,Premium
+U01361,2026-03-08,United Kingdom,Metro Compact,Premium
+U00061,2026-03-08,Canada,Metro Compact,Standard
+U00566,2026-03-09,France,Terra Pickup,Standard
+U00040,2026-03-09,United States,Terra Pickup,Performance
+U02688,2026-03-10,United States,Terra Pickup,Standard
+U00368,2026-03-10,United States,Volt GT,Premium
+U03172,2026-03-11,Germany,Aero Sedan,Performance
+U00653,2026-03-11,Germany,,Standard
+U00156,2026-03-11,United States,Volt GT,Premium
+U01140,2026-03-11,United States,Aero Sedan,Performance
+U03346,2026-03-11,United States,Volt GT,Premium
+U01501,2026-03-11,United States,Metro Compact,Standard
+U01466,2026-03-12,United States,Aero SUV,Standard
+U03118,2026-03-12,AU,Aero SUV,Performance
+U02914,2026-03-12,Norway,Aero Sedan,Standard
+U00637,2026-03-13,United Kingdom,Aero SUV,Performance
+U01056,2026-03-13,Canada,Aero SUV,Premium
+U02924,2026-03-13,France,Metro Compact,Standard
+U01992,2026-03-13,Japan,Metro Compact,Standard
+U01805,2026-03-13,United States,Volt GT,Performance
+U02085,2026-03-13,Canada,Metro Compact,standard
+U02759,2026-03-13,United Kingdom,Metro Compact,Standard
+U02768,2026-03-13,France,Aero SUV,Premium
+U00712,2026-03-13,Germany,Volt GT,Performance
+U03106,2026-03-14,USA,Aero Sedan,Premium
+U03487,2026-03-14,United Kingdom,Metro Compact,Standard
+U01219,2026-03-14,United Kingdom,Aero Sedan,Premium
+U00649,2026-03-15,Germany,Aero Sedan,Standard
+U00834,2026-03-15,Germany,Aero SUV,Premium
+U00208,2026-03-15,Japan,Metro Compact,Standard
+U01603,2026-03-15,USA,Aero Sedan,Premium
+U03227,2026-03-15,United States,Volt GT,Performance
+U03359,2026-03-15,United States,Aero SUV,Premium
+U01695,2026-03-15,Australia,Volt GT,Premium
+U03447,2026-03-16,Canada,Terra Pickup,Premium
+U02822,2026-03-16,Germany,Terra Pickup,Standard
+U03175,2026-03-16,Japan,Metro Compact,Standard
+U02462,2026-03-16,United States,Metro Compact,Standard
+U02562,2026-03-16,Germany,Metro Compact,Premium
+U01017,2026-03-16,Germany,Volt GT,Performance
+U01234,17/03/2026,United States,Aero SUV,Standard
+U02799,2026-03-17,United States,Metro Compact,Standard
+U01316,2026-03-17,United States,Aero SUV,Premium
+U02083,2026-03-17,Germany,Metro Compact,Standard
+U00275,2026-03-18,France,Aero SUV,STANDARD
+U01596,2026-03-18,United Kingdom,Volt GT,Performance
+U02411,2026-03-18,Norway,Aero Sedan,Premium
+U00049,2026-03-19,United States,Aero SUV,Premium
+U00030,2026-03-19,United Kingdom,Terra Pickup,Premium
+U02502,2026-03-19,United States,Aero SUV,Premium
+U01806,2026-03-19,Japan,Aero SUV,Premium
+U00848,2026-03-19,AU,Aero Sedan,Standard
+U02835,2026-03-20,Canada,Terra Pickup,Premium
+U00755,2026-03-20,France,Aero Sedan,Premium
+U02927,2026-03-20,United States,Aero SUV,PERFORMANCE
+U03386,2026-03-21,Norway,Aero Sedan,Premium
+U00318,21/03/2026,United States,Terra Pickup,Premium
+U00890,2026-03-21,United Kingdom,Aero SUV,Standard
+U01068,2026-03-21,United States,Aero Sedan,
+U02366,2026-03-21,Germany,Aero Sedan,Performance
+U01128,2026-03-22,Germany,,Performance
+U01788,2026-03-22,United Kingdom,Aero SUV,Premium
+U00394,2026-03-22,United Kingdom,Volt GT,Performance
+U02787,2026-03-22,United Kingdom,Metro Compact,Premium
+U02010,2026-03-23,United Kingdom,Metro Compact,Standard
+U00531,2026-03-23,United Kingdom,Metro Compact,Standard
+U01794,2026-03-24,Japan,Volt GT,Performance
+U03129,2026-03-24,United States,Metro Compact,Premium
+U02701,2026-03-24,United Kingdom,Metro Compact,Premium
+U03166,2026-03-25,Canada,Terra Pickup,Standard
+U02336,2026-03-25,United States,Volt GT,Premium
+U01634,2026-03-25,Germany,Aero SUV,Performance
+U01359,2026-03-25,United States,Terra Pickup,Premium
+U02533,2026-03-25,United States,Terra Pickup,Standard
+U02428,2026-03-26,France,Aero Sedan,Standard
+U02786,2026-03-26,United Kingdom,Aero SUV,Premium
+U03451,2026-03-26,United Kingdom,Aero Sedan,Performance
+U03399,2026-03-26,Japan,Terra Pickup,Standard
+U01804,2026-03-27,Germany,Metro Compact,Standard
+U02813,2026-03-27,Norway,Aero SUV,Standard
+U00807,2026-03-27,United Kingdom,Volt GT,Premium
+U02556,2026-03-27,United States,Metro Compact,Standard
+U01988,2026-03-27,United States,Terra Pickup,Premium
+U00333,2026-03-28,Germany,Aero Sedan,Standard
+U02380,2026-03-28,United States,Metro Compact,Standard
+U00211,2026-03-28,Australia,Aero SUV,Performance
+U03367,2026-03-28,uk,Volt GT,Performance
+U03224,2026-03-29,United States,Aero SUV,Premium
+U03262,29/03/2026,United Kingdom,Terra Pickup,Premium
+U02435,2026-03-30,United States,Volt GT,Performance
+U00004,2026-03-30,Japan,Aero SUV,
+U00092,2026-03-30,Germany,Aero SUV,Performance
+U02577,2026-03-30,Japan,Metro Compact,Standard
+U02930,2026-03-30,United States,Aero SUV,Performance
+U03392,2026-03-31,Germany,Terra Pickup,Performance
+U02261,2026-03-31,United States,Terra Pickup,Premium
+U00736,2026-03-31,United States,Aero Sedan,Premium
+U00433,2026-03-31,United Kingdom,Aero SUV,Premium
+U03014,2026-03-31,Canada,Metro Compact,Standard
+U02758,2026-03-31,U.S.,Aero SUV,Premium
+U00466,2026-04-01,United States,Metro Compact,Standard
+U03485,01/04/2026,United States,Aero Sedan,Performance
+U03194,2026-04-01,France,Aero Sedan,Standard
+U00102,2026-04-01,United States,Aero Sedan,Premium
+U00043,2026-04-02,Australia,Metro Compact,Standard
+U03212,2026-04-02,Australia,Aero Sedan,Premium
+U01060,2026-04-02,Canada,Terra Pickup,Premium
+U00674,2026-04-02,United States,Aero Sedan,Performance
+U00491,2026-04-03,Norway,Terra Pickup,Premium
+U03275,2026-04-04,United Kingdom,Metro Compact,Premium
+U02284,2026-04-04,australia,Metro Compact,Standard
+U00597,2026-04-04,United Kingdom,Aero Sedan,Standard
+U01421,2026-04-05,Germany,Aero Sedan,premium
+U02911,2026-04-05,United States,Metro Compact,Premium
+U02227,2026-04-05,Japan,Terra Pickup,Performance
+U00055,2026-04-05,United States,Metro Compact,Premium
+U01534,2026-04-05,United Kingdom,Terra Pickup,Standard
+U03482,2026-04-05,Norway,Metro Compact,Standard
+U00532,2026-04-05,Germany,Metro Compact,Standard
+U01387,2026-04-06,United States,Terra Pickup,Performance
+U02739,2026-04-06,France,Aero SUV,Standard
+U03036,2026-04-06,United States,Terra Pickup,Premium
+U01410,2026-04-07,United States,Aero SUV,Premium
+U00800,2026-04-07,Japan,Aero Sedan,Premium
+U03323,2026-04-07,United Kingdom,Aero Sedan,Standard
+U03016,2026-04-08,Germany,Metro Compact,
+U02920,2026-04-08, Canada ,Terra Pickup,Premium
+U02292,2026-04-08,Canada,Terra Pickup,Standard
+U01525,2026-04-08,JP,Metro Compact,Standard
+U02705,2026-04-09,U.S.,Aero Sedan,Premium
+U00446,2026-04-09,Australia,Aero SUV,Performance
+U03173,2026-04-09,United Kingdom,Terra Pickup,Standard
+U02106,2026-04-09,Great Britain,Aero SUV,Premium
+U01204,2026-04-09,Germany,Aero SUV,Premium
+U01745,2026-04-09,Germany,Aero SUV,Performance
+U00947,2026-04-09,Germany,Terra Pickup,Premium
+U02978,2026-04-09,Germany,Terra Pickup,Premium
+U03274,2026-04-09,Norway,Aero Sedan,Premium
+U00453,2026-04-09,Norway,Aero Sedan,Premium
+U00761,2026-04-10,Norway,Aero Sedan,Premium
+U01935,2026-04-10,Canada,Volt GT,Performance
+U03113,2026-04-10,United Kingdom,Aero Sedan,Premium
+U01723,2026-04-10,United States,Aero SUV,Premium
+U01928,2026-04-10,France,Terra Pickup,Performance
+U03148,2026-04-10,United States,Metro Compact,Premium
+U01777,2026-04-11,United Kingdom,Aero Sedan,Performance
+U00638,2026-04-11,Australia,Terra Pickup,Performance
+U02107,2026-04-12,United States,Metro Compact,Standard
+U03164,2026-04-13,France,Aero SUV,Premium
+U00215,2026-04-13,Australia,Volt GT,Performance
+U03497,2026-04-14,Canada,Aero Sedan,Standard
+U02641,2026-04-14,United States,Aero SUV,Premium
+U00106,2026-04-14,United States,Metro Compact,Standard
+U02089,2026-04-14,United Kingdom,Aero SUV,Premium
+U02979,2026-04-14,United States,Metro Compact,Premium
+U02432,2026-04-15,United States,Metro Compact,Standard
+U02207,2026-04-15,Australia,Aero SUV,Standard
+U00666,15/04/2026,United States,Aero Sedan,Premium
+U00387,2026-04-15,Norway,Aero SUV,Premium
+U03305,2026-04-15,Australia,Terra Pickup,Premium
+U00875,2026-04-16,United Kingdom,Aero SUV,Standard
+U01032,2026-04-16,United States,Aero Sedan,Standard
+U00118,2026-04-16,United States,Aero SUV,Premium
+U02452,2026-04-17,Germany,Aero Sedan,Standard
+U02193,2026-04-17,United Kingdom,Aero SUV,Performance
+U03292,2026-04-17,Germany,Volt GT,Performance
+U00604,2026-04-17,United States,Aero SUV,Premium
+U03135,2026-04-17,France,Aero SUV,Premium
+U00087,2026-04-18,germany,Volt GT,Performance
+U01469,2026-04-18,United States,Aero SUV,Premium
+U01700,2026-04-18,United Kingdom,Metro Compact,premium
+U02473,2026-04-19,United Kingdom,Metro Compact,Premium
+U02269,2026-04-19, Germany,Terra Pickup,Premium
+U01299,2026-04-19,France,Metro Compact,Standard
+U02345,2026-04-19,Germany,Aero SUV,Standard
+U03074,2026-04-19,Japan,Volt GT,Performance
+U02752,2026-04-19,United States,Terra Pickup,Standard
+U00799,2026-04-20,United Kingdom,Aero Sedan,Premium
+U01918,2026-04-20,Norway,Metro Compact,Standard
+U00835,2026-04-21,France,Aero SUV,Standard
+U02426,2026-04-21,United States,Volt GT,Premium
+U00338,2026-04-21,United States,Aero Sedan,Premium
+U01009,2026-04-21,Canada,Terra Pickup,Performance
+U03187,2026-04-22,Norway,Aero SUV,Premium
+U02343,2026-04-22,United States,Volt GT,Performance
+U01134,2026-04-22,United States,Volt GT,Premium
+U00159,2026-04-22,Australia,Metro Compact,Standard
+U01677,2026-04-23,United States,Volt GT,Performance
+U02647,2026-04-23,France,Aero Sedan,Performance
+U02297,2026-04-23,United Kingdom,Metro Compact,Premium
+U00380,2026-04-24,Germany,Aero Sedan,Premium
+U02300,2026-04-24,Germany,Metro Compact,Standard
+U01967,2026-04-24,France,Aero SUV,Standard
+U01640,2026-04-24,France,Metro Compact,PREMIUM
+U02808,25/04/2026,France,Metro Compact,Standard
+U03069,2026-04-25,Japan,Aero Sedan,Premium
+U00862,2026-04-25,United Kingdom,Metro Compact,Standard
+U01840,2026-04-26,United States,Aero SUV,Premium
+U01973,2026-04-26,NO,Volt GT,Premium
+U00609,26/04/2026,Australia,Aero Sedan,Premium
+U01979,2026-04-27,United Kingdom,Aero SUV,Performance
+U00443,2026-04-27, United States ,Aero SUV,Premium
+U01200,2026-04-27,France,Metro Compact,Premium
+U02466,2026-04-27,usa,Aero Sedan,Premium
+U00616,2026-04-27,United States,Volt GT,Performance
+U00857,2026-04-27,Norway,Metro Compact,Standard
+U00930,2026-04-28,United States,Aero SUV,Performance
+U03147,2026-04-28,United States,Metro Compact,standard
+U00331,2026-04-28,Germany,Metro Compact,Premium
+U01825,2026-04-29,United States,Terra Pickup,Standard
+U02830,2026-04-29,United States,Aero SUV,Premium
+U00501,2026-04-29,Canada,Aero SUV,Performance
+U01694,2026-04-29,Japan,Metro Compact,Standard
+U03317,2026-04-29,Japan,Aero Sedan,Premium
+U01507,2026-04-29,france,Aero SUV,Standard
+U01172,2026-04-30,United States,Aero SUV,Premium
+U01029,2026-04-30,United States,Terra Pickup,Premium
+U00801,2026-04-30,Germany,Metro Compact,Standard
+U02793,2026-05-01,Australia,Metro Compact,Standard
+U02686,2026-05-01,Canada,Metro Compact,Standard
+U01965,01/05/2026,United States,Aero Sedan,Premium
+U00641,2026-05-01,Germany,Metro Compact,Standard
+U02826,2026-05-01,U.S.,Metro Compact,Standard
+U00216,2026-05-01,France,Metro Compact,Standard
+U03395,2026-05-02,United States,Aero SUV,standard
+U02726,2026-05-02,United States,Volt GT,Performance
+U01813,2026-05-03,Germany,Aero SUV,Standard
+U00518,03/05/2026,Germany,Aero SUV,Premium
+U00861,2026-05-03,United States,Aero SUV,Performance
+U00983,2026-05-03,France,Terra Pickup,Standard
+U00697,2026-05-03,United States,Aero Sedan,Standard
+U03022,2026-05-03,Germany,Aero Sedan,Premium
+U01747,2026-05-04,United Kingdom,Aero SUV,Premium
+U00871,2026-05-04,United States,Metro Compact,Standard
+U01319,2026-05-04,United Kingdom,Aero Sedan,Standard
+U02654,2026-05-05,United States,Aero SUV,
+U01510,2026-05-05,Germany,Terra Pickup,Premium
+U01086,2026-05-05,Canada,Volt GT,Performance
+U00439,2026-05-05,United Kingdom,Aero Sedan,Premium
+U00031,2026-05-05,United States,Metro Compact,Standard
+U01681,2026-05-05,Japan,Metro Compact,Standard
+U03004,2026-05-06,Australia,Metro Compact,Standard
+U01736,2026-05-06,Japan,Aero Sedan,Performance
+U00256,2026-05-06,Germany,Metro Compact,Standard
+U02679,2026-05-06,Germany,Aero Sedan,Standard
+U02563,2026-05-06,United States,Metro Compact,Standard
+U00189,2026-05-06,Japan,Metro Compact,Standard
+U03488,2026-05-06,United States,Metro Compact,Performance
+U02859,2026-05-07,United Kingdom,Aero SUV,Premium
+U02101,2026-05-07,United Kingdom,Aero Sedan,premium
+U01514,2026-05-07,Canada,Terra Pickup,Standard
+U01538,2026-05-07,United States,Terra Pickup,Premium
+U03216,2026-05-07,France,Aero SUV,Standard
+U02389,2026-05-07,France,Aero Sedan,Performance
+U01626,2026-05-07,United States,Metro Compact,PREMIUM
+U03045,2026-05-08,United States,Aero Sedan,Standard
+U00180,2026-05-08,United States,Aero Sedan,Premium
+U01683,2026-05-08,U.S.,Volt GT,Performance
+U02235,2026-05-08,United States,Metro Compact,Premium
+U01022,2026-05-08,Germany,Aero Sedan,Standard
+U01884,2026-05-08,United States,Metro Compact,Standard
+U01147,2026-05-08,Australia,Aero Sedan,Premium
+U00617,2026-05-09,United Kingdom,Aero Sedan,Standard
+U01176,2026-05-09,United States,Terra Pickup,Standard
+U02573,2026-05-09,United States,Aero Sedan,Premium
+U03486,2026-05-09,Japan,Aero SUV,Premium
+U03010,2026-05-09,United Kingdom,Aero Sedan,Premium
+U00992,2026-05-09,Australia,Terra Pickup,Standard
+U01733,2026-05-09,Germany,Aero Sedan,Standard
+U01174,2026-05-10,United States,Aero SUV,Premium
+U03465,2026-05-10,United States,Aero Sedan,Premium
+U01181,2026-05-10,Norway,Aero Sedan,Premium
+U01548,2026-05-10,france,Aero SUV,Premium
+U00689,2026-05-10,United States,Aero Sedan,Standard
+U02267,2026-05-10,Germany,Aero Sedan,Standard
+U02403,2026-05-11,United States,Aero SUV,Premium
+U01996,2026-05-11,United States,Terra Pickup,Performance
+U02604,2026-05-11,France,Aero Sedan,Premium
+U00895,2026-05-11,Germany,Aero Sedan,Performance
+U01641,2026-05-12,Japan,Aero Sedan,premium
+U01257,2026-05-12,Germany,Volt GT,Performance
+U02273,2026-05-12,United States,Terra Pickup,Premium
+U02775,2026-05-12,United States,Volt GT,Performance
+U02440,2026-05-13,France,Metro Compact,Standard
+U03297,2026-05-13,France,Volt GT,Standard
+U02392,2026-05-13,United Kingdom,Terra Pickup,Premium
+U00549,2026-05-13,Germany,Metro Compact,Standard
+U01854,2026-05-13,Japan,Aero SUV,Premium
+U01303,2026-05-13,United States,Metro Compact,Premium
+U02132,2026-05-14,United States,Volt GT,Performance
+U02430,2026-05-14,united states,Volt GT,Performance
+U03448,2026-05-14,Canada,Metro Compact,Standard
+U02302,2026-05-14,Japan,Aero Sedan,Premium
+U00117,2026-05-15,Germany,Aero Sedan,Standard
+U02855,2026-05-15,United States,Metro Compact,Premium
+U01211,2026-05-15,France,Aero Sedan,Premium
+U03498,2026-05-15,Germany,Aero SUV,Premium
+U00837,2026-05-15,United States,Aero Sedan,Standard
+U00021,2026-05-15,United Kingdom,Terra Pickup,Performance
+U01817,2026-05-16,United States,Terra Pickup,Premium
+U01892,2026-05-16,Germany,Aero SUV,Premium
+U01850,2026-05-16,United States,Terra Pickup,Standard
+U01524,2026-05-16,japan,Aero Sedan,Standard
+U00934,2026-05-16,Germany,Metro Compact,Premium
+U03223,2026-05-16,Germany,Aero SUV,Premium
+U01673,2026-05-16,France,Terra Pickup,Standard
+U02642,2026-05-16,United States,Metro Compact,STANDARD
+U00602,2026-05-17,Japan,Terra Pickup,Standard
+U03201,2026-05-17,United States,Aero SUV,Performance
+U03104,2026-05-17,United States,Volt GT,Premium
+U00007,2026-05-17,United Kingdom,Volt GT,Performance
+U03085,2026-05-17,Germany,Aero SUV,Premium
+U03136,2026-05-17,United States,Metro Compact,Standard
+U02386,2026-05-18,United States,Aero SUV,Performance
+U01088,2026-05-18,Australia,Metro Compact,Standard
+U01556,2026-05-18,United States,Metro Compact,Standard
+U00567,2026-05-18,United States,Metro Compact,Premium
+U03013,2026-05-18,usa,Metro Compact,Premium
+U01953,2026-05-18,Canada,Aero Sedan,Premium
+U00371,2026-05-18,Germany,Aero Sedan,Premium
+U02288,2026-05-19,France,Aero SUV,Premium
+U03268,2026-05-19,Germany,Aero Sedan,Premium
+U02040,2026-05-19,United States,Metro Compact,Standard
+U00357,2026-05-19,France,Aero SUV,Premium
+U01087,19/05/2026,United Kingdom,Terra Pickup,Premium
+U02318,2026-05-19,United States,Aero Sedan,premium
+U02744,2026-05-20,france,Aero SUV,Standard
+U02139,2026-05-20,United States,Aero Sedan,Premium
+U01791,2026-05-20,Germany,Terra Pickup,Premium
+U03043,2026-05-20,Australia,Aero SUV,standard
+U02423,2026-05-20,Canada,Aero SUV,Standard
+U00064,2026-05-20,United States,Metro Compact,Standard
+U00911,2026-05-20,Germany,Terra Pickup,Standard
+U02143,2026-05-21,France,Aero Sedan,Standard
+U02591,22/05/2026,United States,Aero SUV,Premium
+U02849,2026-05-22,United Kingdom,Aero Sedan,Premium
+U00574,2026-05-22,United States,Aero Sedan,Standard
+U00160,2026-05-22,United States,Metro Compact,Standard
+U02149,2026-05-23,Germany,Aero Sedan,Standard
+U01839,2026-05-23,France,Metro Compact,Premium
+U02153,2026-05-23,United Kingdom,Aero SUV,Standard
+U01461,2026-05-24,United States,Terra Pickup,Premium
+U02800,2026-05-24,Norway,Aero Sedan,Premium
+U01716,2026-05-24,Germany,Metro Compact,Standard
+U00779,2026-05-25,United States,Metro Compact,Standard
+U01613,2026-05-25,Canada,Aero SUV,premium
+U02252,2026-05-25,germany,Aero Sedan,standard
+U02487,2026-05-25,United States,Aero SUV,performance
+U00432,2026-05-25,UK,Aero SUV,Premium
+U00185,2026-05-25, United States ,Metro Compact,Standard
+U00529,2026-05-25,United Kingdom,Aero Sedan,Premium
+U02614,2026-05-25,Norway,Aero Sedan,Standard
+U00935,2026-05-25,United Kingdom,Aero SUV,Premium
+U03349,2026-05-26,United States,Aero Sedan,Performance
+U00001,2026-05-26,Germany,Volt GT,Performance
+U02138,2026-05-26,Canada,Aero SUV,Premium
+U00367,2026-05-26,United Kingdom,,standard
+U00639,2026-05-26,Canada,Aero SUV,Premium
+U01160,2026-05-27,United States,Aero Sedan,PERFORMANCE
+U01331,2026-05-27,United Kingdom,Metro Compact,Standard
+U01772,2026-05-27,Australia,Terra Pickup,Standard
+U03006,2026-05-27,United States,Metro Compact,Standard
+U01106,2026-05-27,Germany,Metro Compact,Standard
+U03139,2026-05-28,France,Aero Sedan,Performance
+U01933,2026-05-28,Japan,Metro Compact,Standard
+U00418,2026-05-28,United Kingdom,Terra Pickup,
+U01612,2026-05-28,Japan,Aero SUV,Premium
+U02952,2026-05-28,U.S.,Terra Pickup,Premium
+U00201,2026-05-29,Australia,Aero Sedan,Premium
+U01048,2026-05-29,United States,Terra Pickup,Standard
+U00025,2026-05-29,United Kingdom,Metro Compact,Premium
+U00957,2026-05-29,United States,Aero Sedan,Standard
+U00621,2026-05-29,Norway,Aero Sedan,performance
+U00105,2026-05-30,Norway,Aero Sedan,Premium
+U01740,2026-05-30,Great Britain,Aero SUV,Premium
+U00301,2026-05-30,United States,Aero Sedan,Standard
+U00299,2026-05-30,germany,Terra Pickup,Performance
+U00383,2026-05-31,Canada,Terra Pickup,Premium
+U00749,2026-05-31,United States,Aero Sedan,Standard
+U03084,2026-05-31,United States,Terra Pickup,Premium
+U01675,2026-05-31,United States,Metro Compact,Premium
+U00056,2026-05-31,France,Aero Sedan,performance
+U01429,2026-05-31,Canada,Terra Pickup,Premium
+U02537,2026-06-01,Australia,Terra Pickup,Performance
+U01537,2026-06-01,Australia,Metro Compact,Standard
+U00606,2026-06-01,United States,Terra Pickup,Standard
+U03456,2026-06-01,Germany,Volt GT,Performance
+U01494,2026-06-01,Germany,Terra Pickup,Standard
+U00403,2026-06-01, Canada ,Aero Sedan,Premium
+U00708,2026-06-02,United States,Aero Sedan,Premium
+U00080,2026-06-02,United States,Terra Pickup,Standard
+U02036,2026-06-02,Canada,Aero Sedan,Performance
+U01663,2026-06-02,United States,Terra Pickup,Standard
+U02746,2026-06-02,United States,Volt GT,Performance
+U00139,2026-06-02,France,Aero SUV,Premium
+U00863,2026-06-02,Japan,Metro Compact,Premium
+U00345,2026-06-02,Norway,Aero Sedan,Standard
+U03054,2026-06-02,United States,Aero Sedan,Performance
+U02727,2026-06-03,United Kingdom,Aero Sedan,Premium
+U00459,2026-06-03,United States,Metro Compact,Standard
+U00238,2026-06-03,Canada,,Premium
+U02181,2026-06-03,Australia,Aero Sedan,Performance
+U00008,2026-06-04,france,Metro Compact,Standard
+U01324,2026-06-04,Canada,Terra Pickup,Premium
+U00053,2026-06-05,Germany,Aero Sedan,Performance
+U00715,2026-06-05,United Kingdom,Aero Sedan,Standard
+U01711,2026-06-05,Germany,Aero SUV,Premium
+U02042,2026-06-05,United Kingdom,Metro Compact,STANDARD
+U03418,2026-06-05,Japan,Metro Compact,Standard
+U01691,2026-06-05,Japan,Aero SUV,Premium
+U01142,2026-06-05,United States,Aero Sedan,Standard
+U02841,2026-06-05,Australia,Aero SUV,Standard
+U00495,2026-06-05,United States,Terra Pickup,Premium
+U03462,2026-06-07,united states,Aero SUV,Standard
+U02991,2026-06-07,United States,Aero Sedan,Standard
+U02454,2026-06-07,USA,Aero SUV,Premium
+U03213,2026-06-07,United States,Metro Compact,Performance
+U01118,2026-06-07,United Kingdom,Aero Sedan,Standard
+U03031,2026-06-07,usa,Aero SUV,
+U03460,2026-06-08,Australia,Aero SUV,Standard
+U01565,2026-06-08,Australia,Aero Sedan,Standard
+U02402,2026-06-08,United States,Aero SUV,Premium
+U00707,2026-06-08,United States,Metro Compact,Standard
+U02258,2026-06-09,United Kingdom,Terra Pickup,Standard
+U00627,2026-06-09,United Kingdom,Terra Pickup,Standard
+U01577,2026-06-09,United Kingdom,Metro Compact,Standard
+U03466,2026-06-09,United Kingdom,Terra Pickup,Performance
+U00993,2026-06-09,Norway,Metro Compact,Standard
+U00990,2026-06-10,United Kingdom,Terra Pickup,Premium
+U01351,2026-06-10, United States ,Terra Pickup,Standard
+U00346,2026-06-10,United Kingdom,Aero SUV,Performance
+U01648,2026-06-11,United Kingdom,Aero Sedan,Premium
+U01416,2026-06-11,France,Volt GT,Performance
+U02356,2026-06-11,France,Aero Sedan,Premium
+U00842,2026-06-11,United States,Aero Sedan,Standard
+U03347,2026-06-11,United States,Aero SUV,Premium
+U01698,2026-06-11,Germany,Aero Sedan,Standard
+U00242,2026-06-12,United States,Aero Sedan,Premium
+U01103,2026-06-12,norway,Volt GT,Premium
+U02756,2026-06-12,Australia,Aero Sedan,Standard
+U02961,2026-06-12,United States,Aero Sedan,standard
+U01782,2026-06-12,United States,Metro Compact,Premium
+U02948,2026-06-13,germany,Aero Sedan,Standard
+U02154,2026-06-13,Germany,Terra Pickup,Premium
+U00868,13/06/2026,United Kingdom,Metro Compact,premium
+U00789,13/06/2026,Norway,Aero SUV,Premium
+U02648,2026-06-13,Deutschland,Aero SUV,Standard
+U00358,2026-06-13,Germany,Metro Compact,Standard
+U01876,2026-06-13,Japan,Aero Sedan,Standard
+U00506,2026-06-14,United States,Volt GT,Premium
+U02681,2026-06-14,United States,Aero SUV,Premium
+U01451,2026-06-14,United States,Terra Pickup,Performance
+U02772,2026-06-14,United States,Volt GT,Performance
+U03248,2026-06-15,United Kingdom,Aero Sedan,Premium
+U00630,2026-06-15,Australia,Volt GT,Performance
+U00642,2026-06-15,United Kingdom,Terra Pickup,Standard
+U01148,2026-06-15,United States,Metro Compact,Standard
+U03324,2026-06-15,United States,Aero SUV,Performance
+U00343,2026-06-15,Japan,Terra Pickup,Standard
+U00430,2026-06-15,australia,Terra Pickup,Standard
+U00426,2026-06-15,United Kingdom,Metro Compact,Standard
+U00298,2026-06-15,France,Metro Compact,Standard
+U02488,2026-06-16,Germany,Aero SUV,Standard
+U01909,2026-06-16,United States,Aero Sedan,Premium
+U01650,2026-06-16,United States,Aero SUV,Premium
+U00046,2026-06-17,Germany,Terra Pickup,Premium
+U00327,2026-06-17,United States,Terra Pickup,Premium
+U00214,2026-06-17,Canada,Aero SUV,Standard
+U00236,2026-06-17,Norway,Volt GT,
+U03256,2026-06-17,United States,Aero Sedan,Performance
+U02405,2026-06-18,Germany,Aero SUV,Standard
+U01266,2026-06-18,United States,Terra Pickup,Standard
+U02666,2026-06-18,Japan,Volt GT,Performance
+U02103,2026-06-19,Australia,Aero Sedan,Performance
+U02144,2026-06-19,Germany,Aero SUV,Standard
+U02722,2026-06-19,United States,Terra Pickup,Premium
+U00667,2026-06-19,United States,Volt GT,Standard
+U00168,2026-06-20,United States,Metro Compact,Standard
+U01374,2026-06-20,United Kingdom,Aero Sedan,Standard
+U03226,2026-06-20,Germany,Aero SUV,Performance
+U01623,2026-06-21,Germany,Metro Compact,Standard
+U02027,2026-06-21,United States,Volt GT,Performance
+U01934,2026-06-21,Germany,Terra Pickup,Performance
+U01754,2026-06-22,France,Volt GT,Standard
+U03222,2026-06-22,Germany,Aero SUV,Standard
+U01342,2026-06-22,Germany,Aero SUV,PERFORMANCE
+U02704,2026-06-23,United States,Aero Sedan,Standard
+U02829,2026-06-23,Germany,Aero Sedan,Standard
+U01599,2026-06-23,France,Aero Sedan,Performance
+U00787,2026-06-23,Australia,Aero SUV,performance
+U03406,2026-06-23,France,Metro Compact,Premium
+U01505,2026-06-23,United States,Aero SUV,Standard
+U00713,2026-06-24,Germany,Aero Sedan,Standard
+U00083,2026-06-24,germany,Volt GT,Performance
+U01604,2026-06-24,Japan,Terra Pickup,Premium
+U02653,2026-06-24,Germany,Metro Compact,Standard
+U02853,2026-06-25,Canada,Aero Sedan,Premium
+U01539,2026-06-25,Australia,Metro Compact,Premium
+U03073,2026-06-25,Japan,Aero Sedan,Performance
+U01098,2026-06-25,United States,Aero SUV,Premium
+U02943,2026-06-25,France,Volt GT,Performance
+U02196,2026-06-25,United States,Metro Compact,Premium
+U02485,2026-06-25,Japan,Volt GT,Performance
+U03496,2026-06-26,France,Terra Pickup,Standard
+U00257,2026-06-26,United States,Aero Sedan,Premium
+U02678,2026-06-27,DE,Aero SUV,premium
+U00982,2026-06-27,Japan,Terra Pickup,Premium
+U02187,2026-06-27,United States,Volt GT,performance
+U01169,2026-06-28,Australia,,Standard
+U03276,2026-06-28,Germany,Metro Compact,Standard
+U01258,2026-06-28,Norway,Aero Sedan,Standard
+U02976,2026-06-28,United States,Metro Compact,Standard
+U02697,2026-06-28,France,Aero Sedan,Performance
+U02612,2026-06-28,Germany,Aero SUV,Standard
+U02499,2026-06-28,Australia,Terra Pickup,Premium
+U03450,2026-06-29,Australia,Aero Sedan,premium
+U01144,2026-06-29,United States,Aero Sedan,Premium
+U01682,2026-06-29,Germany,Aero SUV,Performance
+U01541,2026-06-29,United States,Metro Compact,Standard
+U03430,2026-06-29,Norway,Aero SUV,Premium
+U03342,2026-06-29,Norway,Terra Pickup,Premium
+U02992,2026-06-30,japan,Aero Sedan,Premium
+U00632,2026-06-30,Japan,Aero SUV,standard
+U02619,2026-06-30,Australia,Aero SUV,Premium
+U01186,2026-06-30,germany,Terra Pickup,Premium
+U01167,2026-06-30,France,Aero SUV,Premium
+U00014,2026-06-30,Norway,Aero SUV,Premium
+U01163,30/06/2026,Deutschland,Aero Sedan,Standard
+U02639,2026-06-30,United States,Aero SUV,Standard
+U01492,2026-06-30,Australia,Terra Pickup,Standard
+U01945,2026-07-01,Norway,Volt GT,Performance
+U02178,2026-07-01,United Kingdom,Aero SUV,Premium
+U00262,2026-07-01,Germany,Volt GT,Performance
+U00397,2026-07-02,United States,Aero Sedan,Standard
+U02467,2026-07-03,France,Metro Compact,Standard
+U02333,2026-07-03,Germany,Aero Sedan,Standard
+U00151,2026-07-03,united states,Aero SUV,Premium
+U01770,2026-07-03,United Kingdom,Metro Compact,Standard
+U02574,2026-07-03,United States,Aero SUV,Standard
+U03145,2026-07-03,Japan,Aero SUV,Standard
+U02834,2026-07-03,Germany,Aero SUV,Premium
+U01305,03/07/2026,France,Volt GT,Performance
+U03477,2026-07-03,France,Aero Sedan,Standard
+U00520,2026-07-03,Canada,Metro Compact,Standard
+U01212,2026-07-03,United States,Terra Pickup,Standard
+U00019,2026-07-04,United Kingdom,Metro Compact,Standard
+U01203,04/07/2026,Germany,Aero Sedan,Standard
+U02431,2026-07-04,NO,Aero SUV,premium
+U01815,2026-07-05,Germany,Terra Pickup,Premium
+U01411,05/07/2026,United States,Aero SUV,Performance
+U00241,2026-07-05,United States,Aero SUV,Performance
+U01720,2026-07-05,United States,Metro Compact,Standard
+U03001,2026-07-05,Australia,Aero SUV,Performance
+U00167,2026-07-05,United States,Aero SUV,Standard
+U02529,2026-07-05,australia,Volt GT,Premium
+U02504,2026-07-05,United States,Metro Compact,Standard
+U02361,2026-07-06,JP,Aero Sedan,Premium
+U00194,2026-07-06,United Kingdom,,Standard
+U01143,2026-07-07,Germany,Aero Sedan,Premium
+U00045,2026-07-07,Germany,Terra Pickup,Standard
+U01870,2026-07-07,united states,Aero SUV,STANDARD
+U01123,2026-07-07,japan,Aero SUV,Premium
+U00042,2026-07-07,United Kingdom,Metro Compact,Standard
+U00291,2026-07-08,United States,Aero Sedan,performance
+U01595,2026-07-08,Norway,Metro Compact,Standard
+U03402,08/07/2026,Great Britain,Metro Compact,Standard
+U01615,2026-07-09,United States,Metro Compact,Standard
+U02348,2026-07-09,United States,Volt GT,Performance
+U01395,2026-07-09,Canada,Metro Compact,Standard
+U02791,2026-07-09,Canada,Aero Sedan,Premium
+U02582,2026-07-10,United States,Metro Compact,Standard
+U02516,2026-07-10,United States,Terra Pickup,Standard
+U01574,2026-07-10,United Kingdom,Aero Sedan,Standard
+U02753,2026-07-10,Germany,Aero Sedan,Premium
+U00408,2026-07-10,Australia,Aero SUV,Standard
+U00508,2026-07-10,United States,Terra Pickup,Premium
+U00825,2026-07-10,United States,Terra Pickup,Standard
+U00540,2026-07-10,France,Aero Sedan,Premium
+U01392,2026-07-10,United States,Aero Sedan,Standard
+U03483,2026-07-11,United States,Volt GT,Performance
+U01352,2026-07-11,Canada,Terra Pickup,Standard
+U00434,2026-07-11,U.S.,Metro Compact,Standard
+U02183,2026-07-11,United States,Aero Sedan,Standard
+U00543,2026-07-12,United States,Aero SUV,Premium
+U01104,2026-07-12,Japan,Aero SUV,Performance
+U00750,2026-07-13,France,Volt GT,Performance
+U02769,2026-07-13,United States,Aero SUV,Premium
+U02661,2026-07-13,Japan,Aero Sedan,Standard
+U01413,2026-07-14,Germany,Aero SUV,Performance
+U02001,2026-07-14,United States,Terra Pickup,Premium
+U03137,2026-07-14,United States,Volt GT,Standard
+U00512,2026-07-14,United States,Aero SUV,Performance
+U02054,2026-07-14,United States,Volt GT,Performance
+U01786,2026-07-14,United States,Aero Sedan,standard
+U02274,2026-07-14,United Kingdom,Aero SUV,Standard
+U00295,2026-07-15,United Kingdom,Aero SUV,Standard
+U01084,2026-07-15,Norway,Aero SUV,Premium
+U02742,2026-07-15,United States,Aero Sedan,Standard
+U02140,2026-07-15,United Kingdom,Metro Compact,Standard
+U00572,2026-07-15,JP,Terra Pickup,Standard
+U00563,2026-07-15,United States,Metro Compact,Standard
+U01018,2026-07-16,United States,Aero SUV,Premium
+U01999,2026-07-16,United States,Terra Pickup,Standard
+U00922,2026-07-16, United States ,Aero Sedan,Standard
+U02650,2026-07-17,Canada,Aero Sedan,Standard
+U02795,2026-07-17,United States,Metro Compact,Standard
+U00942,2026-07-17,United States,Aero Sedan,Standard
+U01658,2026-07-17,United Kingdom,Aero SUV,Premium
+U03326,2026-07-17,United Kingdom,Metro Compact,Standard
+U01903,2026-07-18,Germany,Volt GT,performance
+U03328,2026-07-18,Australia,Metro Compact,Standard
+U02381,2026-07-18,United States,Aero Sedan,Standard
+U01667,2026-07-18,Germany,,Premium
+U01578,2026-07-18,United States,Aero Sedan,Performance
+U00325,18/07/2026,Canada,Volt GT,Premium
+U03093,2026-07-19,Germany,Metro Compact,Standard
+U00774,2026-07-19,Australia,Terra Pickup,Standard
+U03420,2026-07-19,Great Britain,Aero SUV,Performance
+U01855,2026-07-19,Australia,Aero SUV,Standard
+U01959,2026-07-19,USA,Metro Compact,Premium
+U00579,2026-07-19,United States,Metro Compact,Standard
+U00428,2026-07-19,France,Metro Compact,Premium
+U01968,2026-07-19,United States,Aero Sedan,Standard
+U01666,2026-07-20,Canada,Aero SUV,Standard
+U00390,2026-07-20,United States,Aero Sedan,Standard
+U00280,2026-07-20,Norway,Volt GT,Performance
+U01983,2026-07-20,Germany,Aero SUV,Standard
+U00441,2026-07-20,United States,Terra Pickup,Premium
+U01889,2026-07-20,Germany,Volt GT,Performance
+U00948,2026-07-20,Great Britain,Aero Sedan,Standard
+U00575,2026-07-21,United States,Metro Compact,Premium
+U00655,2026-07-21,United Kingdom,Metro Compact,Standard
+U00928,2026-07-21,United States,Aero Sedan,Standard
+U01320,2026-07-21,United Kingdom,Aero Sedan,Premium
+U01256,2026-07-21,United Kingdom,Metro Compact,Standard
+U02092,2026-07-21,France,Aero SUV,Performance
+U03500,2026-07-22,Canada,Volt GT,Performance
+U01075,2026-07-22,France,Terra Pickup,Premium
+U02352,2026-07-22,Australia,Aero SUV,Performance
+U00776,2026-07-22,United States,Aero Sedan,Premium
+U00657,2026-07-22,Australia,Volt GT,Performance
+U00073,2026-07-22,United States,Aero Sedan,premium
+U02682,2026-07-22,United Kingdom,Metro Compact,Premium
+U02918,2026-07-22,United States,Aero Sedan,Premium
+U01336,2026-07-23,France,Aero SUV,Performance
+U02074,2026-07-23,Australia,Aero SUV,Standard
+U03373,2026-07-23,Germany,Metro Compact,Premium
+U00780,2026-07-23,Canada,Aero SUV,Premium
+U03493,2026-07-23,AU,Terra Pickup,Premium
+U01497,2026-07-24,United States,Metro Compact,Standard
+U01789,2026-07-24,United States,Aero Sedan,Performance
+U00305,2026-07-24,United States,Aero SUV,Premium
+U00521,2026-07-24,United States,Metro Compact,Standard
+U00116,2026-07-24,Canada,Terra Pickup,Standard
+U02156,2026-07-24,United States,Terra Pickup,Premium
+U03149,2026-07-25,Australia,Aero Sedan,Standard
+U02578,2026-07-25,Germany,,Premium
+U00646,2026-07-25,United States,Aero Sedan,Premium
+U00853,2026-07-25,Japan,Aero SUV,standard
+U00003,25/07/2026,United States,Aero SUV,Standard
+U01241,2026-07-26,United States,Metro Compact,Standard
+U01981,2026-07-26,United States,,Performance
+U01866,2026-07-26,Norway,Aero Sedan,Performance
+U02279,2026-07-26,Canada,Aero Sedan,Premium
+U02071,2026-07-26,United States,Metro Compact,Standard
+U03028,2026-07-26,United States,Metro Compact,Standard
+U00334,2026-07-27,Germany,Aero SUV,Premium
+U02618,2026-07-27,United States,Metro Compact,Premium
+U01632,2026-07-27,United States,Aero SUV,Standard
+U01049,2026-07-27,Canada,Aero SUV,Standard
+U01099,2026-07-27,Germany,Aero Sedan,Premium
+U02715,2026-07-27,United States,Metro Compact,Premium
+U01166,2026-07-27,Germany,Aero SUV,Premium
+U03421,2026-07-27,Canada,Metro Compact,Premium
+U02644,2026-07-28,Japan,Metro Compact,Premium
+U02347,2026-07-28,Norway,Aero Sedan,Premium
+U00743,2026-07-28,Germany,Volt GT,Performance
+U01453,2026-07-29,United States,Metro Compact,Standard
+U03188,2026-07-29,Australia,Aero Sedan,Standard
+U02472,2026-07-29,United States,Metro Compact,standard
+U00640,2026-07-30,France,Aero Sedan,Standard
+U01279,2026-07-30,United States,Terra Pickup,Standard
+U00867,2026-07-30,Germany,Metro Compact,STANDARD
+U03382,2026-07-30,Japan,Aero SUV,Standard
+U01728,2026-07-30,United States,Aero Sedan,Premium
+U00246,2026-07-31,CA,Terra Pickup,Premium
+U00252,2026-07-31,United Kingdom,Aero SUV,Standard
+U00607,2026-07-31,Canada,Volt GT,Performance
+U03177,2026-07-31,Germany,Metro Compact,Standard
+U01409,2026-07-31,Japan,Terra Pickup,Premium
+U01560,31/07/2026,United States,Terra Pickup,Premium
+U01670,2026-07-31,Germany,Terra Pickup,Premium
+U01735,2026-07-31,Canada,Volt GT,Performance
+U03075,2026-08-01,Germany,Metro Compact,Standard
+U02275,2026-08-01,United States,Aero SUV,
+U02337,2026-08-01,Australia,Aero Sedan,performance
+U02270,2026-08-02,Canada,Terra Pickup,Standard
+U02757,2026-08-02,Japan,Volt GT,Performance
+U02700,2026-08-03,Norway,Aero Sedan,Premium
+U01378,2026-08-03,Japan,Volt GT,Standard
+U02377,03/08/2026,Japan,Terra Pickup,Premium
+U02812,2026-08-04,France,Aero Sedan,Premium
+U01580,2026-08-04,canada,Metro Compact,Standard
+U02213,2026-08-04,Norway,Metro Compact,Standard
+U02461,2026-08-04,United States,Terra Pickup,Standard
+U01195,2026-08-04,Germany,Terra Pickup,STANDARD
+U00949,2026-08-05,United Kingdom,Aero Sedan,Premium
+U03091,2026-08-05,United States,Aero SUV,Standard
+U01355,2026-08-05,United States,Aero SUV,Standard
+U00829,2026-08-05,France,Volt GT,
+U00704,05/08/2026,JP,Aero SUV,Standard
+U00198,2026-08-05,United States,Terra Pickup,premium
+U02695,2026-08-05,United States,Aero SUV,premium
+U00279,2026-08-05,Canada,Aero SUV,Premium
+U01071,2026-08-06,United States,Aero Sedan,Premium
+U02980,2026-08-06,Germany,Metro Compact,Premium
+U02693,2026-08-06,United States,Volt GT,Premium
+U01193,2026-08-06,Canada,Metro Compact,Standard
+U02236,2026-08-06,Norway,Aero Sedan,Performance
+U01709,2026-08-06,United States,Metro Compact,Standard
+U02950,2026-08-06,Canada,Aero SUV,Standard
+U00912,2026-08-07,United States,Metro Compact,Standard
+U01679,2026-08-07,United Kingdom,Volt GT,Premium
+U02621,2026-08-07,United States,Metro Compact,Standard
+U00406,2026-08-08,Japan,Metro Compact,Standard
+U01152,2026-08-08,France,Aero SUV,Premium
+U01339,2026-08-08,usa,Aero Sedan,Premium
+U01326,2026-08-08,Germany,Metro Compact,Standard
+U02165,2026-08-08,united states,Aero SUV,Standard
+U03405,2026-08-08,Germany,Metro Compact,Standard
+U00858,2026-08-08,United States,,Performance
+U03445,2026-08-08,DE,Aero SUV,Standard
+U03428,2026-08-08,Australia,Volt GT,Premium
+U00817,2026-08-09,Norway,Aero SUV,Premium
+U03249,2026-08-09,Germany,Metro Compact,Standard
+U02934,2026-08-10,Australia,Metro Compact,Standard
+U01774,2026-08-10,Australia,Volt GT,Premium
+U02646,2026-08-10,Japan,Aero SUV,Standard
+U02755,2026-08-10,Australia,Aero SUV,Premium
+U00896,2026-08-10,Germany,Aero SUV,Premium
+U03338,2026-08-11,Japan,Terra Pickup,Standard
+U01714,11/08/2026,australia,Aero SUV,Performance
+U02495,2026-08-11,United Kingdom,Metro Compact,Premium
+U03064,2026-08-11,Norway,Metro Compact,Standard
+U01523,2026-08-11,Australia,Terra Pickup,Standard
+U00452,2026-08-12,Norway,Aero Sedan,Performance
+U02006,2026-08-12,Germany,Aero SUV,Standard
+U01120,2026-08-12,United Kingdom,Aero SUV,Standard
+U02611,2026-08-13,United States,Terra Pickup,Premium
+U02364,2026-08-13,Canada,Aero SUV,Standard
+U01737,2026-08-13,United States,Aero SUV,Premium
+U03051,2026-08-13,Australia,Metro Compact,Standard
+U00662,2026-08-13,United States,Terra Pickup,premium
+U00502,2026-08-13,Germany,Volt GT,Standard
+U00956,2026-08-14,Germany,Aero SUV,Standard
+U02773,2026-08-14,United Kingdom,Aero SUV,
+U02287,2026-08-14,Australia,Terra Pickup,Premium
+U00876,2026-08-14,United States,Metro Compact,Standard
+U02633,2026-08-14,Canada,Aero Sedan,Standard
+U01753,2026-08-14,United States,Volt GT,Performance
+U01249,2026-08-15,Australia,,Standard
+U00846,2026-08-15,Norway,Aero Sedan,Premium
+U03012,2026-08-15,United States,Aero SUV,Premium
+U00181,2026-08-16,Canada,Aero Sedan,Premium
+U01581,2026-08-16,United States,Aero SUV,Performance
+U01226,2026-08-16,Germany,Metro Compact,Standard
+U01563,2026-08-16,United States,Terra Pickup,Premium
+U00803,2026-08-16,NO,Aero Sedan,Performance
+U00179,2026-08-17,usa,Terra Pickup,Standard
+U01021,2026-08-17,United States,Metro Compact,standard
+U02707,2026-08-17,germany,Volt GT,Performance
+U02404,2026-08-17,France,Aero Sedan,Performance
+U03371,2026-08-18,Japan,Aero Sedan,Premium
+U00024,2026-08-18,Germany,Aero Sedan,PREMIUM
+U02730,2026-08-18,Germany,Terra Pickup,premium
+U00182,2026-08-18,United States,Aero Sedan,Premium
+U02592,2026-08-18,United States,Metro Compact,Standard
+U01150,2026-08-18,Germany,Metro Compact,Premium
+U02167,2026-08-18,United States,Aero SUV,Standard
+U01910,2026-08-18,France,Aero Sedan,Premium
+U01223,2026-08-19,United States,Aero Sedan,Premium
+U02667,2026-08-19,JP,Terra Pickup,Standard
+U02141,19/08/2026,Germany,Aero Sedan,Premium
+U02203,2026-08-19,United States,Aero Sedan,Premium
+U01515,2026-08-19,United States,Aero Sedan,PREMIUM
+U00414,2026-08-20, Germany,Aero SUV,Premium
+U00939,2026-08-20,United States,Metro Compact,Premium
+U01489,2026-08-20,Australia,Volt GT,Performance
+U00152,2026-08-20,United States,Volt GT,Performance
+U00652,2026-08-20,United Kingdom,Aero Sedan,Standard
+U00692,2026-08-20,Canada,Aero Sedan,Standard
+U02225,2026-08-21,France,Metro Compact,standard
+U00370,2026-08-21,Germany,Terra Pickup,Performance
+U03241,2026-08-21,United Kingdom,Aero Sedan,Premium
+U00816,2026-08-21,Japan,Aero Sedan,Standard
+U02310,2026-08-21,Canada,Aero SUV,Standard
+U01419,2026-08-22,Australia,Aero Sedan,Performance
+U02425,2026-08-23,United Kingdom,Aero SUV,Performance
+U02095,2026-08-23,United Kingdom,Aero Sedan,Premium
+U03132,2026-08-23,United States,Metro Compact,Premium
+U02528,2026-08-24,USA,Metro Compact,Standard
+U00913,2026-08-24,Canada,Aero Sedan,Premium
+U02620,2026-08-24,United States,Aero SUV,Premium
+U00296,2026-08-24,Japan,Terra Pickup,PREMIUM
+U01759,2026-08-24,Deutschland,Aero Sedan,Standard
+U03458,2026-08-24,United Kingdom,Metro Compact,Standard
+U00110,2026-08-24,United States,Metro Compact,premium
+U00714,2026-08-24,United States,Aero Sedan,Standard
+U01913,2026-08-25,Germany,Aero SUV,Performance
+U01389,2026-08-25,Germany,Aero Sedan,Premium
+U00866,2026-08-25,United States,Aero Sedan,Performance
+U00603,2026-08-25,United Kingdom,Aero SUV,Premium
+U01852,2026-08-26,Canada,Metro Compact,Standard
+U01955,2026-08-26,Norway,Aero Sedan,Premium
+U03076,2026-08-27,Japan,Volt GT,Performance
+U00554,2026-08-27,Germany,Aero Sedan,Premium
+U03404,2026-08-27,United States,Aero SUV,Premium
+U01875,2026-08-27,Japan,Metro Compact,Standard
+U01034,2026-08-27,United Kingdom,Aero Sedan,Premium
+U01564,2026-08-28,United States,Aero Sedan,Premium
+U00101,2026-08-28,united states,Aero Sedan,Premium
+U01649,2026-08-28,Australia,Aero Sedan,Standard
+U00695,2026-08-29,United States,Aero Sedan,Premium
+U02257,2026-08-29,United States,Aero SUV,Standard
+U03478,2026-08-29,United States,Aero Sedan,Performance
+U00577,2026-08-29,Japan,Terra Pickup,Standard
+U01057,2026-08-29,Canada,Aero SUV,Standard
+U01795,2026-08-29,Canada,Aero SUV,premium
+U00420,2026-08-30,Germany,Metro Compact,Standard
+U02596,2026-08-31,Germany,Aero Sedan,Premium
+U02525,2026-08-31,France,Metro Compact,Standard
+U00854,2026-08-31,United States,Aero Sedan,Standard
+U01601,2026-08-31,United Kingdom,Aero SUV,Standard
+U01447,2026-08-31,United Kingdom,Aero Sedan,Standard
+U01082,2026-08-31,France,Aero SUV,Premium
+U01692,2026-08-31,Japan,Aero Sedan,Standard
+U02960,2026-09-01,Canada,Aero Sedan,Premium
+U02527,2026-09-01,United States,Aero SUV,Premium
+U02954,2026-09-01,usa,Aero Sedan,Premium
+U03378,2026-09-02,Germany,Aero Sedan,Standard
+U01398,2026-09-02,United Kingdom,Volt GT,Premium
+U03159,2026-09-02,France,Aero Sedan,Premium
+U03092,2026-09-02,Canada,Metro Compact,Standard
+U00162,2026-09-02,Australia,Aero Sedan,Premium
+U00677,2026-09-02,Japan,Aero Sedan,Premium
+U00974,2026-09-03,United States,Metro Compact,Standard
+U03203,2026-09-03,Norway,Aero Sedan,Standard
+U00321,2026-09-03,Canada,Metro Compact,Premium
+U00585,2026-09-03,United Kingdom,Aero SUV,Premium
+U01665,2026-09-03,Japan,Metro Compact,Standard
+U03243,2026-09-04,USA,Aero Sedan,Premium
+U02320,2026-09-04,germany,Metro Compact,Standard
+U00765,2026-09-04,Japan,Aero SUV,Standard
+U00782,2026-09-04,Germany,Aero Sedan,Premium
+U03090,2026-09-04,United Kingdom,Aero SUV,Premium
+U03049,2026-09-04,Canada,Terra Pickup,Standard
+U00402,2026-09-04,France,Aero Sedan,Standard
+U02762,2026-09-04, United States ,Metro Compact,Standard
+U01701,2026-09-04,United States,Aero Sedan,Performance
+U00986,2026-09-05,usa,Metro Compact,Standard
+U01829,2026-09-06,germany,Metro Compact,Standard
+U01007,2026-09-06,Germany,Aero SUV,Premium
+U00503,2026-09-06,Australia,Metro Compact,Premium
+U01760,2026-09-06,United States,Metro Compact,premium
+U00265,2026-09-06,United States,Aero SUV,Premium
+U00995,2026-09-07,United States,Metro Compact,Standard
+U03202,2026-09-07,Japan,Volt GT,Premium
+U01638,2026-09-07,United States,Aero Sedan,Premium
+U02909,2026-09-07,Japan,Aero Sedan,Standard
+U02820,2026-09-07,Japan,Terra Pickup,Standard
+U02494,2026-09-07,Australia,Aero SUV,Standard
+U02215,2026-09-07,United States,Metro Compact,Standard
+U03383,2026-09-07,Germany,Metro Compact,Standard
+U03042,2026-09-08,United States,Aero SUV,Performance
+U01312,2026-09-08,Japan,Aero Sedan,Premium
+U00132,2026-09-08,Norway,Aero SUV,Standard
+U00631,2026-09-08,Canada,Aero SUV,Standard
+U00226,2026-09-08,France,Metro Compact,performance
+U01950,2026-09-08,Germany,Metro Compact,Standard
+U01083,2026-09-08,France,Metro Compact,Standard
+U00293,2026-09-08,United States,Volt GT,Performance
+U03429,2026-09-08,usa,Aero Sedan,Premium
+U02580,2026-09-09,australia,Metro Compact,Performance
+U01946,2026-09-09,United States,Aero SUV,STANDARD
+U01285,2026-09-09,Norway,Metro Compact,Standard
+U00012,2026-09-09,Canada,Terra Pickup,Premium
+U01986,2026-09-09,AU,Volt GT,Performance
+U01306,2026-09-10,Canada,Metro Compact,Standard
+U02656,2026-09-10,United States,Volt GT,Performance
+U00591,2026-09-10,United States,Aero Sedan,Premium
+U01821,2026-09-10,United States,Aero Sedan,Premium
+U03396,2026-09-10,United States,Aero Sedan,Premium
+U00219,2026-09-10,Norway,Aero Sedan,Standard
+U02116,2026-09-10,United States,Terra Pickup,Premium
+U00431,2026-09-10,United Kingdom,Volt GT,Premium
+U03205,2026-09-10,Germany,Aero SUV,Standard
+U02190,2026-09-11,Australia,Aero SUV,Premium
+U01250,2026-09-11,United States,Metro Compact,Premium
+U02218,2026-09-11,norway,Terra Pickup,PREMIUM
+U02044,2026-09-11,United Kingdom,Aero SUV,Premium
+U02134,2026-09-11,U.S.,Aero SUV,Premium
+U01948,2026-09-11,Germany,Aero SUV,Premium
+U02146,2026-09-11,United States,Aero SUV,Performance
+U02974,2026-09-12,United Kingdom,Aero Sedan,Standard
+U02066,2026-09-12,United States,Aero SUV,Standard
+U00758,2026-09-12,Germany,Metro Compact,Standard
+U02902,2026-09-12,United States,Metro Compact,Standard
+U01557,2026-09-12,United Kingdom,Aero SUV,Premium
+U01431,2026-09-12,Canada,Metro Compact,Premium
+U00361,2026-09-12,Germany,Aero Sedan,Premium
+U02869,2026-09-12,United Kingdom,Metro Compact,Standard
+U01286,13/09/2026,Australia,Metro Compact,Standard
+U02410,2026-09-13,United States,Aero SUV,STANDARD
+U02624,2026-09-13,Germany,Volt GT,Performance
+U02420,2026-09-13,United States,Terra Pickup,
+U03479,2026-09-13,France,Metro Compact,Performance
+U03200,2026-09-13,United Kingdom,Volt GT,Premium
+U01114,2026-09-14,Germany,Aero SUV,Premium
+U03311,2026-09-14,United States,Metro Compact,Standard
+U00235,2026-09-14,United States,Aero SUV,Standard
+U01867,2026-09-14,Germany,Metro Compact,Premium
+U02789,2026-09-15, Germany,Metro Compact,Standard
+U01229,2026-09-15,Japan,Terra Pickup,Premium
+U00883,2026-09-15,United States,Aero Sedan,Premium
+U03312,2026-09-16,usa,Aero Sedan,Premium
+U02508,2026-09-16,Australia,Metro Compact,Standard
+U00191,2026-09-16,United States,Aero SUV,Performance
+U01074,2026-09-16,Germany,Aero Sedan,Performance
+U02104,2026-09-16,Australia,Aero SUV,Standard
+U01471,2026-09-16,Japan,Aero Sedan,Premium
+U01439,2026-09-16,Japan,Terra Pickup,Standard
+U01391,2026-09-16,United States,Aero SUV,Premium
+U00340,2026-09-16,United States,Terra Pickup,Premium
+U00377,2026-09-16,United States,Metro Compact,Standard
+U00382,2026-09-16,australia,Aero Sedan,Performance
+U02202,2026-09-16,United States,Terra Pickup,Premium
+U00174,2026-09-16,Germany,Aero SUV,Premium
+U03181,2026-09-16,Japan,Terra Pickup,STANDARD
+U00143,2026-09-17,France,Volt GT,Performance
+U01676,2026-09-17,United States,Aero SUV,Premium
+U03457,2026-09-17,United States,Aero SUV,Standard
+U01586,2026-09-17,Germany,Aero Sedan,Premium
+U03110,2026-09-17,United States,Aero Sedan,Standard
+U02856,18/09/2026,UK,Metro Compact,Standard
+U00955,2026-09-18,United Kingdom,Volt GT,Performance
+U02888,2026-09-19,United States,Volt GT,Performance
+U00937,2026-09-19,France,Metro Compact,Standard
+U01844,2026-09-19,United Kingdom,Aero SUV,Performance
+U00468,2026-09-19,United States,Metro Compact,Premium
+U02507,2026-09-19,Japan,Aero SUV,Premium
+U02599,20/09/2026,Japan,Aero SUV,Premium
+U01978,2026-09-20,Germany,Terra Pickup,Premium
+U03301,2026-09-20,Germany,Aero Sedan,Standard
+U02037,2026-09-20,United States,Terra Pickup,Standard
+U02480,2026-09-21,JP,Aero SUV,Performance
+U03388,2026-09-21,United States,Aero SUV,Performance
+U01414,2026-09-21,Norway,Aero Sedan,Standard
+U03130,2026-09-21,Canada,Aero Sedan,Premium
+U02766,2026-09-21,France,Aero SUV,Premium
+U01655,2026-09-21,United States,Aero Sedan,Premium
+U03331,2026-09-21,United Kingdom,Aero Sedan,Standard
+U01459,2026-09-22,Germany,Aero SUV,Premium
+U01310,2026-09-22,United Kingdom,Terra Pickup,Premium
+U02061,2026-09-22,Australia,Terra Pickup,Standard
+U00347,2026-09-22,Canada,Aero Sedan,Premium
+U00463,2026-09-22,Canada,Metro Compact,Premium
+U01731,2026-09-22,France,Aero Sedan,PREMIUM
+U02219,2026-09-23,United States,Volt GT,Performance
+U01372,2026-09-23,United States,Aero SUV,Premium
+U01027,2026-09-23,Canada,Aero Sedan,Standard
+U01593,2026-09-24,Germany,Terra Pickup,Standard
+U02691,2026-09-24,France,Aero Sedan,Standard
+U01454,2026-09-24,Norway,Terra Pickup,Performance
+U01264,2026-09-24,United Kingdom,Terra Pickup,Standard
+U03017,2026-09-24,Canada,Aero SUV,Premium
+U00320,2026-09-24,France,Aero Sedan,Premium
+U02301,2026-09-24,Germany,Volt GT,PERFORMANCE
+U02554,2026-09-25,United States,Metro Compact,standard
+U02234,2026-09-25,Australia,Terra Pickup,Performance
+U01014,2026-09-25,United States,Aero Sedan,Standard
+U02600,2026-09-25,United States,Aero SUV,Premium
+U02503,2026-09-25,United Kingdom,Aero SUV,Premium
+U01951,2026-09-26,United States,Aero Sedan,Standard
+U00965,2026-09-26,United States,Metro Compact,Premium
+U03269,2026-09-26,France,Volt GT,Premium
+U00388,2026-09-26,France,Metro Compact,Premium
+U01920,2026-09-27,Germany,Volt GT,
+U00170,2026-09-27,United Kingdom,Metro Compact,Standard
+U01061,2026-09-27,Norway,Aero SUV,Performance
+U02003,27/09/2026,united states,Aero Sedan,Standard
+U00916,2026-09-27,France,Terra Pickup,Premium
+U00967,2026-09-27,United States,Aero SUV,Premium
+U03101,2026-09-27,United States,Terra Pickup,Premium
+U03380,2026-09-28,United States,Metro Compact,Standard
+U03237,2026-09-28,United States,Volt GT,Performance
+U00720,2026-09-28,Japan,Aero Sedan,Premium
+U00892,2026-09-28,Canada,Terra Pickup,premium
+U00224,2026-09-29,Germany,Metro Compact,Standard
+U02436,2026-09-29,United Kingdom,Aero SUV,Standard
+U01518,2026-09-29,United Kingdom,Metro Compact,Premium
+U02824,2026-09-29,United States,Aero Sedan,Performance
+U02535,2026-09-30,Norway,Terra Pickup,Standard
+U02949,2026-09-30,Japan,Aero SUV,Performance
+U00527,2026-09-30,Japan,Volt GT,Standard
+U01385,2026-10-01,Australia,Metro Compact,Standard
+U00137,2026-10-01,France,Metro Compact,Premium
+U00688,2026-10-01,United States,Aero SUV,Premium
+U00342,2026-10-01,Japan,Aero Sedan,Premium
+U01744,2026-10-01,United States,Aero SUV,Performance
+U00724,2026-10-01,United States,Aero Sedan,Premium
+U00905,2026-10-01,Germany,Terra Pickup,Premium
+U02622,01/10/2026,Germany,Volt GT,Performance
+U03103,2026-10-01,United States,Terra Pickup,Premium
+U02491,2026-10-01,United States,Aero Sedan,premium
+U03271,2026-10-01,Germany,Aero SUV,Performance
+U01502,2026-10-02,Japan,Volt GT,Performance
+U01699,2026-10-02,Canada,Metro Compact,Standard
+U00850,2026-10-03,FR,Aero SUV,Performance
+U01832,2026-10-03,Canada,Aero SUV,Premium
+U00100,2026-10-03,Germany,Metro Compact,Premium
+U01335,2026-10-04,Deutschland,Metro Compact,Standard
+U01407,2026-10-04,Australia,Metro Compact,Standard
+U00605,2026-10-04,Australia,Terra Pickup,Performance
+U03094,2026-10-04,France,Aero SUV,Standard
+U03072,2026-10-04,UK,,Standard
+U03162,04/10/2026,Australia,Aero SUV,Premium
+U01607,2026-10-04,United States,Aero Sedan,Premium
+U01334,2026-10-05,Canada,Aero SUV,Premium
+U02182,2026-10-06,Germany,Metro Compact,Standard
+U00233,2026-10-06,United Kingdom,Metro Compact,Premium
+U03470,2026-10-06,United Kingdom,Aero Sedan,Premium
+U02255,2026-10-06,United States,Volt GT,Performance
+U03296,2026-10-06,United Kingdom,Aero SUV,Premium
+U00032,2026-10-06,United States,Aero Sedan,Standard
+U00104,2026-10-07, United States ,Metro Compact,Premium
+U02907,2026-10-07,Norway,Aero SUV,Standard
+U01403,2026-10-07,United States,,Premium
+U01972,2026-10-08,United States,Aero Sedan,Standard
+U02962,2026-10-08,Canada,Aero Sedan,Premium
+U01954,2026-10-08,United States,Terra Pickup,Premium
+U02547,2026-10-08,Germany,Aero SUV,Premium
+U00023,08/10/2026,United States,Aero Sedan,Standard
+U00613,2026-10-08,France,Aero SUV,Standard
+U02180,2026-10-08,Germany,Metro Compact,Standard
+U02291,2026-10-09,France,Aero Sedan,Premium
+U01420,2026-10-09,Germany,Metro Compact,Standard
+U02068,2026-10-09,United States,Aero SUV,Premium
+U01956,2026-10-09,United Kingdom,Aero Sedan,Performance
+U00202,2026-10-09,United States,Aero Sedan,Premium
+U01271,2026-10-09,Japan,Aero Sedan,Premium
+U02711,2026-10-09,United States,Volt GT,Performance
+U03251,2026-10-09,United States,Volt GT,Performance
+U01758,2026-10-10,Germany,Metro Compact,Standard
+U02412,2026-10-11,United States,Aero Sedan,Standard
+U02897,2026-10-11,france,Aero SUV,Standard
+U01375,2026-10-11,United Kingdom,Aero SUV,Premium
+U03393,2026-10-11,USA,Aero SUV,Performance
+U02077,2026-10-12,Norway,Volt GT,Performance
+U01436,2026-10-12,United States,Volt GT,Performance
+U01135,2026-10-12,Japan,Aero Sedan,Premium
+U00006,12/10/2026,United Kingdom,Aero Sedan,Premium
+U01194,2026-10-12,Australia,Terra Pickup,standard
+U01066,2026-10-12,Japan,Metro Compact,Standard
+U01412,2026-10-12,Germany,Aero SUV,Performance
+U03046,2026-10-12,France,Aero Sedan,Premium
+U01085,2026-10-13,Japan,Metro Compact,Premium
+U01440,2026-10-13,United States,Metro Compact,
+U02057,2026-10-13,United States,Aero SUV,Standard
+U00625,2026-10-13,Norway,Aero Sedan,Performance
+U01268,2026-10-14,United Kingdom,Metro Compact,Premium
+U00297,2026-10-14,Japan,Aero SUV,Standard
+U02999,2026-10-14,Germany,Aero Sedan,Standard
+U00873,2026-10-14,United Kingdom,Aero Sedan,
+U01115,2026-10-15,Germany,Metro Compact,Premium
+U02825,2026-10-15,United Kingdom,Aero Sedan,Premium
+U02892,2026-10-15,Japan,Aero SUV,Performance
+U01713,2026-10-15,Norway,Volt GT,Performance
+U01487,2026-10-15,Japan,Terra Pickup,Standard
+U00457,2026-10-15,Norway,Volt GT,Performance
+U00447,2026-10-15,United States,Aero SUV,
+U02045,2026-10-15,United Kingdom,Aero Sedan,Premium
+U01635,2026-10-16,Australia,Metro Compact,premium
+U03161,2026-10-16,Germany,Metro Compact,Standard
+U00599,2026-10-16,Japan,Aero Sedan,Standard
+U01345,2026-10-16,Germany,Volt GT,Performance
+U00915,2026-10-16,United States,,Performance
+U00838,2026-10-17,United States,Aero SUV,Premium
+U01702,2026-10-17,United States,Aero SUV,Premium
+U00614,2026-10-18,United Kingdom,Aero Sedan,Premium
+U00785,2026-10-18,Australia,Aero Sedan,Performance
+U01874,2026-10-18,uk,Volt GT,Standard
+U01873,2026-10-18,United States,Metro Compact,Standard
+U02326,2026-10-18,United States,Aero SUV,Performance
+U00914,2026-10-18,United States,Terra Pickup,Premium
+U03035,2026-10-18,Germany,Terra Pickup,Premium
+U03433,2026-10-18,United Kingdom,Aero Sedan,Premium
+U03174,2026-10-18,Germany,Metro Compact,Standard
+U00623,2026-10-18,Australia,Metro Compact,Standard
+U01989,2026-10-19,Germany,,Premium
+U01706,2026-10-19,United States,Aero Sedan,Premium
+U02895,2026-10-19,Japan,Aero SUV,Standard
+U02262,2026-10-19,Australia,Metro Compact,Standard
+U03171,2026-10-19,Germany,Aero SUV,Performance
+U02387,2026-10-19,United States,Terra Pickup,Standard
+U02694,2026-10-19,United Kingdom,Metro Compact,Standard
+U00386,2026-10-19,U.S.,Volt GT,Premium
+U02941,2026-10-19,uk,Terra Pickup,Premium
+U00541,2026-10-20,Germany,Terra Pickup,Performance
+U02359,2026-10-20,United Kingdom,Aero SUV,Premium
+U02051,2026-10-20,United States,Metro Compact,Standard
+U00981,2026-10-20,Germany,Aero Sedan,Premium
+U02794,2026-10-20,norway,Metro Compact,Standard
+U01188,2026-10-21,Germany,Aero Sedan,Standard
+U01863,2026-10-21,United States,Terra Pickup,Standard
+U00544,2026-10-21,Australia,Terra Pickup,Standard
+U01767,2026-10-21,Germany,Volt GT,Performance
+U00810,2026-10-22,Japan,Metro Compact,Standard
+U01130,2026-10-22,United States,Aero Sedan,Premium
+U02770,2026-10-22,United States,Metro Compact,Premium
+U02718,2026-10-22,Canada,Metro Compact,Standard
+U03455,2026-10-22,canada,Aero Sedan,Performance
+U01023,2026-10-22,France,Terra Pickup,Performance
+U02396,2026-10-22,france,Aero SUV,Premium
+U02133,22/10/2026,Germany,Aero Sedan,Performance
+U01862,2026-10-23,United States,Aero Sedan,Premium
+U01384,2026-10-23,Germany,Aero Sedan,Performance
+U00999,2026-10-23,Australia,Aero Sedan,Premium
+U00178,2026-10-23,United Kingdom,Terra Pickup,Premium
+U00813,2026-10-23,United States,Aero SUV,Premium
+U02651,2026-10-23,France,Terra Pickup,Premium
+U02108,2026-10-23,United Kingdom,Aero Sedan,Performance
+U01478,2026-10-24, United States ,Aero Sedan,premium
+U01579,2026-10-24,Germany,Aero SUV,standard
+U02148,2026-10-24,United States,Aero Sedan,Standard
+U01619,2026-10-24,United States,Metro Compact,
+U02311,2026-10-24,United Kingdom,Aero Sedan,Premium
+U00711,2026-10-24,Canada,Aero Sedan,Premium
+U03143,2026-10-25,United States,Aero Sedan,Premium
+U01260,2026-10-25,Norway,Aero SUV,Premium
+U00528,2026-10-25,Japan,Volt GT,Performance
+U02570,2026-10-25,United States,Aero SUV,
+U02441,2026-10-26,Canada,Aero SUV,Premium
+U00673,2026-10-26,Norway,Terra Pickup,Premium
+U02801,2026-10-26,United States,Metro Compact,Standard
+U00405,2026-10-26,Germany,Aero SUV,Standard
+U02904,2026-10-26,United Kingdom,Aero SUV,Premium
+U01561,2026-10-27, United States ,Aero Sedan,Standard
+U01131,2026-10-27,united states,Aero SUV,Premium
+U00668,2026-10-27,Germany,Aero Sedan,Performance
+U03304,2026-10-27,Germany,Aero SUV,Premium
+U00410,2026-10-27,France,Metro Compact,Premium
+U02211,2026-10-27,France,Terra Pickup,Premium
+U01856,2026-10-27,Australia,Metro Compact,Standard
+U01109,2026-10-27,United States,Aero SUV,Standard
+U02921,2026-10-27,Germany,Metro Compact,Standard
+U02202,2026-09-16,United States,Terra Pickup,Premium
+U02977,2026-02-25,France,Aero SUV,Premium
+U00344,2026-01-08,Japan,Metro Compact,Premium
+U01727,2025-05-28,United States,Terra Pickup,Standard
+U02901,2025-07-03, United States ,Aero Sedan,Standard
+U00660,2025-07-16,United States,Aero SUV,Standard
+U02724,2025-07-29,United States,Aero Sedan,Standard
+U02188,2025-12-31,United States,Aero SUV,Standard
+U03209,2024-08-03,Japan,Aero Sedan,Performance
+U01646,2025-09-17,France,Aero Sedan,Standard
+U01007,2026-09-06,Germany,Aero SUV,Premium
+U03304,2026-10-27,Germany,Aero SUV,Premium
+U02448,2025-07-23,Japan,Aero SUV,Premium
+U00388,2026-09-26,France,Metro Compact,Premium

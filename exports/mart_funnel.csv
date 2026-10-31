@@ -1,0 +1,6 @@
+stage_order,stage,subs,pct_of_started,pct_of_prev_stage
+1,Trials started,7021,100.0,
+2,Trial window closed,6858,97.7,97.7
+3,Converted to paid,2928,41.7,42.7
+4,Paid for 90+ days,2185,31.1,74.6
+5,Still paying today,1562,22.2,71.5

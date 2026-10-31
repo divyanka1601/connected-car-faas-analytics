@@ -1,0 +1,9 @@
+feature_id,feature_name,monthly_price,upfront_purchase_price
+F01,Highway Autopilot,99.0,6000.0
+F02,Heated Seats,15.0,450.0
+F03,Heated Steering Wheel,9.0,300.0
+F04,Performance Boost,49.0,2000.0
+F05,Premium Connectivity,10.0,250.0
+F06,Track Mode Telemetry,29.0,1200.0
+F07,Remote Park Assist,19.0,700.0
+F08,Dashcam Cloud Backup,12.0,400.0

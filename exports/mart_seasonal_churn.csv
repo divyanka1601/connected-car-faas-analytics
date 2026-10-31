@@ -1,0 +1,25 @@
+seasonal_group,calendar_month,month_label,cancellations,opening_sub_months,churn_rate_pct,seasonal_index,season_flag
+Heated (seasonal),1,Jan,6.0,457.0,1.31,17.4,Low churn
+Heated (seasonal),2,Feb,6.0,516.0,1.16,15.4,Low churn
+Heated (seasonal),3,Mar,21.0,592.0,3.55,47.1,Low churn
+Heated (seasonal),4,Apr,37.0,649.0,5.7,75.7,Normal
+Heated (seasonal),5,May,61.0,695.0,8.78,116.5,Normal
+Heated (seasonal),6,Jun,96.0,721.0,13.31,176.8,Peak churn
+Heated (seasonal),7,Jul,103.0,705.0,14.61,194.0,Peak churn
+Heated (seasonal),8,Aug,85.0,676.0,12.57,167.0,Peak churn
+Heated (seasonal),9,Sep,61.0,661.0,9.23,122.5,Normal
+Heated (seasonal),10,Oct,15.0,307.0,4.89,64.9,Low churn
+Heated (seasonal),11,Nov,7.0,360.0,1.94,25.8,Low churn
+Heated (seasonal),12,Dec,11.0,420.0,2.62,34.8,Low churn
+Year-round,1,Jan,56.0,1151.0,4.87,103.2,Normal
+Year-round,2,Feb,52.0,1239.0,4.2,89.0,Normal
+Year-round,3,Mar,67.0,1317.0,5.09,107.9,Normal
+Year-round,4,Apr,59.0,1408.0,4.19,88.8,Normal
+Year-round,5,May,66.0,1508.0,4.38,92.8,Normal
+Year-round,6,Jun,79.0,1624.0,4.86,103.1,Normal
+Year-round,7,Jul,91.0,1727.0,5.27,111.7,Normal
+Year-round,8,Aug,91.0,1826.0,4.98,105.7,Normal
+Year-round,9,Sep,88.0,1923.0,4.58,97.0,Normal
+Year-round,10,Oct,43.0,924.0,4.65,98.7,Normal
+Year-round,11,Nov,55.0,996.0,5.52,117.1,Normal
+Year-round,12,Dec,40.0,1044.0,3.83,81.2,Normal
